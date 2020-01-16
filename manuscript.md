@@ -58,11 +58,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://gennachiaro.github.io/phd_proposal/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://gennachiaro.github.io/phd_proposal/v/3d12ef8a9b5907299e684f3bdf7b2809fa9f573e/" />
+  <link rel="alternate" type="text/html" href="https://gennachiaro.github.io/phd_proposal/v/462a7f153ed9403eb79320d6d9935190a830c6ac/" />
 
-  <meta name="manubot_html_url_versioned" content="https://gennachiaro.github.io/phd_proposal/v/3d12ef8a9b5907299e684f3bdf7b2809fa9f573e/" />
+  <meta name="manubot_html_url_versioned" content="https://gennachiaro.github.io/phd_proposal/v/462a7f153ed9403eb79320d6d9935190a830c6ac/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://gennachiaro.github.io/phd_proposal/v/3d12ef8a9b5907299e684f3bdf7b2809fa9f573e/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://gennachiaro.github.io/phd_proposal/v/462a7f153ed9403eb79320d6d9935190a830c6ac/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -94,9 +94,9 @@ title: PhD Proposal
 
 <small><em>
 This manuscript
-([permalink](https://gennachiaro.github.io/phd_proposal/v/3d12ef8a9b5907299e684f3bdf7b2809fa9f573e/))
+([permalink](https://gennachiaro.github.io/phd_proposal/v/462a7f153ed9403eb79320d6d9935190a830c6ac/))
 was automatically generated
-from [gennachiaro/phd_proposal@3d12ef8](https://github.com/gennachiaro/phd_proposal/tree/3d12ef8a9b5907299e684f3bdf7b2809fa9f573e)
+from [gennachiaro/phd_proposal@462a7f1](https://github.com/gennachiaro/phd_proposal/tree/462a7f153ed9403eb79320d6d9935190a830c6ac)
 on January 16, 2020.
 </em></small>
 
@@ -130,9 +130,9 @@ The Ora Ignimbrite (277 +/- 2 Ma) is a welded crystal-rich supereruption-sized d
 <p align="center">
 <img src="https://user-images.githubusercontent.com/56849646/72564434-5238ba80-3875-11ea-92ce-a7e11f834ea9.png" width="90%"></p> 
 
-<p align="center">Figure 1: A map of the field location.  The four fiamme types identified in Chiaro et al. (in prep) are listed with their corresponding vitrophyre locations.  
+<p align="center">Figure 1: A map of the field location.  The four fiamme types identified in Chiaro et al. (in prep) are listed with their corresponding vitrophyre locations.</p>
 
-<p align="center">Table 1: Samples collected in Fall 2017 and Spring 2019.  Sample locations are shown in Fig. 1.  The number of bulk tuff samples and fiamme are listed.
+<p align="center">Table 1: Samples collected in Fall 2017 and Spring 2019.  Sample locations are shown in Fig. 1.  The number of bulk tuff samples and fiamme are listed.</p>
 
 **Samples:**|**Location:**|**Type:**|**Bulk Tuff:**|**Fiamme:**
 :-----:|:-----:|:-----:|:-----:|:-----:
@@ -157,7 +157,7 @@ The Ora Ignimbrite (277 +/- 2 Ma) is a welded crystal-rich supereruption-sized d
 
 Recent work has attempted to understand the pre-eruptive architecture of the Ora system by using textural, mineralogical, and geochemical features of fiamme (Chiaro et al., in prep).  Fiamme were collected from two vitrophyre horizons: an early-erupted intracaldera deposit and a late-erupted outflow deposit in order to find well-preserved glass.  These fiamme were initially grouped into four types based on crystal content and biotite content (Table 2).  Glass major elements further verified the categorization scheme.
 
-<p align="center">Table 2: The four fiamme types and their location, crystal content, maximum phenocryst size, and mafic content (Chiaro et al., in prep). 
+<p align="center">Table 2: The four fiamme types and their location, crystal content, maximum phenocryst size, and mafic content (Chiaro et al., in prep).</p>
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/56849646/72564985-895b9b80-3876-11ea-9ddb-7eeb32da66e5.png" width="90%"></p> 
@@ -167,12 +167,12 @@ Glass trace elements illuminate at least three distinct populations for both the
 <p align="center">
 <img src="https://user-images.githubusercontent.com/56849646/72565422-6b426b00-3877-11ea-9d2e-68c5bbb85cd9.png" width="90%"></p> 
 
-<p align="center">Figure 2: Rare earth element diagrams and a plot of strontium vs. barium illustrate the six discrete glass populations in the Medium-Grained (MG) and Very Coarse-Grained Crystal-Rich (VCCR) fiamme.
+<p align="center">Figure 2: Rare earth element diagrams and a plot of strontium vs. barium illustrate the six discrete glass populations in the Medium-Grained (MG) and Very Coarse-Grained Crystal-Rich (VCCR) fiamme.</p>
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/56849646/72565474-8e6d1a80-3877-11ea-8b54-da854fa797b2.png" width="90%"></p> 
  
-<p align="center">Figure 3: Different fiamme types were stored at different pressures in the crust, with a progression of erupting shallower to deeper magmas through time.  Silica content vs. pressure shows variable storage depths for the fine-grained crystal-poor melt, suggesting that there were multiple, small melt bodies located at different depths throughout the magma chamber (from Chiaro et al., in prep).
+<p align="center">Figure 3: Different fiamme types were stored at different pressures in the crust, with a progression of erupting shallower to deeper magmas through time.  Silica content vs. pressure shows variable storage depths for the fine-grained crystal-poor melt, suggesting that there were multiple, small melt bodies located at different depths throughout the magma chamber (from Chiaro et al., in prep).</p>
 
 
 ## Approach
