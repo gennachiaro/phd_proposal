@@ -58,11 +58,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://gennachiaro.github.io/phd_proposal/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://gennachiaro.github.io/phd_proposal/v/e962bc95d3b7ca77284f061eb56cdea3928156f1/" />
+  <link rel="alternate" type="text/html" href="https://gennachiaro.github.io/phd_proposal/v/cd975090f6a3b4e916f728e729b3539419a86abf/" />
 
-  <meta name="manubot_html_url_versioned" content="https://gennachiaro.github.io/phd_proposal/v/e962bc95d3b7ca77284f061eb56cdea3928156f1/" />
+  <meta name="manubot_html_url_versioned" content="https://gennachiaro.github.io/phd_proposal/v/cd975090f6a3b4e916f728e729b3539419a86abf/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://gennachiaro.github.io/phd_proposal/v/e962bc95d3b7ca77284f061eb56cdea3928156f1/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://gennachiaro.github.io/phd_proposal/v/cd975090f6a3b4e916f728e729b3539419a86abf/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -94,9 +94,9 @@ title: PhD Proposal
 
 <small><em>
 This manuscript
-([permalink](https://gennachiaro.github.io/phd_proposal/v/e962bc95d3b7ca77284f061eb56cdea3928156f1/))
+([permalink](https://gennachiaro.github.io/phd_proposal/v/cd975090f6a3b4e916f728e729b3539419a86abf/))
 was automatically generated
-from [gennachiaro/phd_proposal@e962bc9](https://github.com/gennachiaro/phd_proposal/tree/e962bc95d3b7ca77284f061eb56cdea3928156f1)
+from [gennachiaro/phd_proposal@cd97509](https://github.com/gennachiaro/phd_proposal/tree/cd975090f6a3b4e916f728e729b3539419a86abf)
 on January 16, 2020.
 </em></small>
 
@@ -162,6 +162,7 @@ Table 2: The four fiamme types and their location, crystal content, maximum phen
 
 Glass trace elements illuminate at least three distinct populations for both the VCCR and MG fiamme, suggesting the presence of multiple magma batches within the Ora system (Fig. 2). 
 
+![alt text](https://github.com/gennachiaro/phd_proposal/blob/master/content/images/ree%2Btrace-hsr-mg_vccr.png)
 
  
 
@@ -175,6 +176,7 @@ Different fiamme types were stored at different pressures in the crust, with a p
 
 Silica content vs. pressure shows variable storage depths for the fine-grained crystal-poor melt, suggesting that there were multiple, small melt bodies located at different depths throughout the magma chamber.
 
+![alt text](https://github.com/gennachiaro/phd_proposal/blob/master/content/images/pressures-sio2-samples-grouped.png)
  
 Figure 3: (from Chiaro et al., in prep)
 
