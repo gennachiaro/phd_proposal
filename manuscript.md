@@ -42,7 +42,7 @@ header-includes: '<!--
 
   <meta name="citation_author_institution" content="Department of Earth and Environmental Sciences, Vanderbilt University" />
 
-  <meta name="citation_author_orcid" content="XXXX-XXXX-XXXX-XXXX" />
+  <meta name="citation_author_orcid" content="0000-0002-8981-7679" />
 
   <meta name="twitter:creator" content="@gennachiaro" />
 
@@ -58,11 +58,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://gennachiaro.github.io/phd_proposal/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://gennachiaro.github.io/phd_proposal/v/b16f54207eb1cc118698b8fee04d7b016a6efb40/" />
+  <link rel="alternate" type="text/html" href="https://gennachiaro.github.io/phd_proposal/v/1db1922e1970fbf8270021b483b9d5c8790c58df/" />
 
-  <meta name="manubot_html_url_versioned" content="https://gennachiaro.github.io/phd_proposal/v/b16f54207eb1cc118698b8fee04d7b016a6efb40/" />
+  <meta name="manubot_html_url_versioned" content="https://gennachiaro.github.io/phd_proposal/v/1db1922e1970fbf8270021b483b9d5c8790c58df/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://gennachiaro.github.io/phd_proposal/v/b16f54207eb1cc118698b8fee04d7b016a6efb40/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://gennachiaro.github.io/phd_proposal/v/1db1922e1970fbf8270021b483b9d5c8790c58df/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -94,9 +94,9 @@ title: PhD Proposal
 
 <small><em>
 This manuscript
-([permalink](https://gennachiaro.github.io/phd_proposal/v/b16f54207eb1cc118698b8fee04d7b016a6efb40/))
+([permalink](https://gennachiaro.github.io/phd_proposal/v/1db1922e1970fbf8270021b483b9d5c8790c58df/))
 was automatically generated
-from [gennachiaro/phd_proposal@b16f542](https://github.com/gennachiaro/phd_proposal/tree/b16f54207eb1cc118698b8fee04d7b016a6efb40)
+from [gennachiaro/phd_proposal@1db1922](https://github.com/gennachiaro/phd_proposal/tree/1db1922e1970fbf8270021b483b9d5c8790c58df)
 on January 16, 2020.
 </em></small>
 
@@ -106,7 +106,7 @@ on January 16, 2020.
 
 + **Genna Chiaro**<br>
     ![ORCID icon](images/orcid.svg){.inline_icon}
-    [XXXX-XXXX-XXXX-XXXX](https://orcid.org/XXXX-XXXX-XXXX-XXXX)
+    [0000-0002-8981-7679](https://orcid.org/0000-0002-8981-7679)
     · ![GitHub icon](images/github.svg){.inline_icon}
     [gennachiaro](https://github.com/gennachiaro)
     · ![Twitter icon](images/twitter.svg){.inline_icon}
