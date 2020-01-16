@@ -1,7 +1,6 @@
 ---
 author-meta:
-- John Doe
-- Jane Roe
+- Genna Chiaro
 bibliography:
 - content/manual-references.json
 date-meta: '2020-01-16'
@@ -15,13 +14,13 @@ header-includes: '<!--
 
   <meta name="dc.format" content="text/html" />
 
-  <meta name="dc.title" content="Manuscript Title" />
+  <meta name="dc.title" content="PhD Proposal" />
 
-  <meta name="citation_title" content="Manuscript Title" />
+  <meta name="citation_title" content="PhD Proposal" />
 
-  <meta property="og:title" content="Manuscript Title" />
+  <meta property="og:title" content="PhD Proposal" />
 
-  <meta property="twitter:title" content="Manuscript Title" />
+  <meta property="twitter:title" content="PhD Proposal" />
 
   <meta name="dc.date" content="2020-01-16" />
 
@@ -39,21 +38,13 @@ header-includes: '<!--
 
   <meta name="citation_technical_report_institution" content="Manubot" />
 
-  <meta name="citation_author" content="John Doe" />
+  <meta name="citation_author" content="Genna Chiaro" />
 
-  <meta name="citation_author_institution" content="Department of Something, University of Whatever" />
-
-  <meta name="citation_author_orcid" content="XXXX-XXXX-XXXX-XXXX" />
-
-  <meta name="twitter:creator" content="@johndoe" />
-
-  <meta name="citation_author" content="Jane Roe" />
-
-  <meta name="citation_author_institution" content="Department of Something, University of Whatever" />
-
-  <meta name="citation_author_institution" content="Department of Whatever, University of Something" />
+  <meta name="citation_author_institution" content="Department of Earth and Environmental Sciences, Vanderbilt University" />
 
   <meta name="citation_author_orcid" content="XXXX-XXXX-XXXX-XXXX" />
+
+  <meta name="twitter:creator" content="@gennachiaro" />
 
   <link rel="canonical" href="https://gennachiaro.github.io/phd_proposal/" />
 
@@ -67,11 +58,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://gennachiaro.github.io/phd_proposal/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://gennachiaro.github.io/phd_proposal/v/96757e0ebb67382960d5bc38daea626568e51554/" />
+  <link rel="alternate" type="text/html" href="https://gennachiaro.github.io/phd_proposal/v/b16f54207eb1cc118698b8fee04d7b016a6efb40/" />
 
-  <meta name="manubot_html_url_versioned" content="https://gennachiaro.github.io/phd_proposal/v/96757e0ebb67382960d5bc38daea626568e51554/" />
+  <meta name="manubot_html_url_versioned" content="https://gennachiaro.github.io/phd_proposal/v/b16f54207eb1cc118698b8fee04d7b016a6efb40/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://gennachiaro.github.io/phd_proposal/v/96757e0ebb67382960d5bc38daea626568e51554/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://gennachiaro.github.io/phd_proposal/v/b16f54207eb1cc118698b8fee04d7b016a6efb40/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -85,15 +76,15 @@ header-includes: '<!--
 
   <!-- end Manubot generated metadata -->'
 keywords:
-- markdown
-- publishing
-- manubot
+- ora caldera
+- minerals
+- python
 lang: en-US
 manubot-clear-requests-cache: false
 manubot-output-bibliography: output/references.json
 manubot-output-citekeys: output/citations.tsv
 manubot-requests-cache-path: ci/cache/requests-cache
-title: Manuscript Title
+title: PhD Proposal
 ...
 
 
@@ -103,9 +94,9 @@ title: Manuscript Title
 
 <small><em>
 This manuscript
-([permalink](https://gennachiaro.github.io/phd_proposal/v/96757e0ebb67382960d5bc38daea626568e51554/))
+([permalink](https://gennachiaro.github.io/phd_proposal/v/b16f54207eb1cc118698b8fee04d7b016a6efb40/))
 was automatically generated
-from [gennachiaro/phd_proposal@96757e0](https://github.com/gennachiaro/phd_proposal/tree/96757e0ebb67382960d5bc38daea626568e51554)
+from [gennachiaro/phd_proposal@b16f542](https://github.com/gennachiaro/phd_proposal/tree/b16f54207eb1cc118698b8fee04d7b016a6efb40)
 on January 16, 2020.
 </em></small>
 
@@ -113,25 +104,15 @@ on January 16, 2020.
 
 
 
-+ **John Doe**<br>
++ **Genna Chiaro**<br>
     ![ORCID icon](images/orcid.svg){.inline_icon}
     [XXXX-XXXX-XXXX-XXXX](https://orcid.org/XXXX-XXXX-XXXX-XXXX)
     · ![GitHub icon](images/github.svg){.inline_icon}
-    [johndoe](https://github.com/johndoe)
+    [gennachiaro](https://github.com/gennachiaro)
     · ![Twitter icon](images/twitter.svg){.inline_icon}
-    [johndoe](https://twitter.com/johndoe)<br>
+    [gennachiaro](https://twitter.com/gennachiaro)<br>
   <small>
-     Department of Something, University of Whatever
-     · Funded by Grant XXXXXXXX
-  </small>
-
-+ **Jane Roe**<br>
-    ![ORCID icon](images/orcid.svg){.inline_icon}
-    [XXXX-XXXX-XXXX-XXXX](https://orcid.org/XXXX-XXXX-XXXX-XXXX)
-    · ![GitHub icon](images/github.svg){.inline_icon}
-    [janeroe](https://github.com/janeroe)<br>
-  <small>
-     Department of Something, University of Whatever; Department of Whatever, University of Something
+     Department of Earth and Environmental Sciences, Vanderbilt University
   </small>
 
 

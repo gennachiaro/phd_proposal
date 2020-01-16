@@ -1,18 +1,17 @@
 {
   "pandoc": {
-    "title": "Manuscript Title",
+    "title": "PhD Proposal",
     "keywords": [
-      "markdown",
-      "publishing",
-      "manubot"
+      "ora caldera",
+      "minerals",
+      "python"
     ],
     "lang": "en-US",
     "date-meta": "2020-01-16",
     "author-meta": [
-      "John Doe",
-      "Jane Roe"
+      "Genna Chiaro"
     ],
-    "header-includes": "<!--\nManubot generated metadata rendered from header-includes-template.html.\nSuggest improvements at https://github.com/manubot/manubot/blob/master/manubot/process/header-includes-template.html\n-->\n<meta name=\"dc.format\" content=\"text/html\" />\n<meta name=\"dc.title\" content=\"Manuscript Title\" />\n<meta name=\"citation_title\" content=\"Manuscript Title\" />\n<meta property=\"og:title\" content=\"Manuscript Title\" />\n<meta property=\"twitter:title\" content=\"Manuscript Title\" />\n<meta name=\"dc.date\" content=\"2020-01-16\" />\n<meta name=\"citation_publication_date\" content=\"2020-01-16\" />\n<meta name=\"dc.language\" content=\"en-US\" />\n<meta name=\"citation_language\" content=\"en-US\" />\n<meta name=\"dc.relation.ispartof\" content=\"Manubot\" />\n<meta name=\"dc.publisher\" content=\"Manubot\" />\n<meta name=\"citation_journal_title\" content=\"Manubot\" />\n<meta name=\"citation_technical_report_institution\" content=\"Manubot\" />\n<meta name=\"citation_author\" content=\"John Doe\" />\n<meta name=\"citation_author_institution\" content=\"Department of Something, University of Whatever\" />\n<meta name=\"citation_author_orcid\" content=\"XXXX-XXXX-XXXX-XXXX\" />\n<meta name=\"twitter:creator\" content=\"@johndoe\" />\n<meta name=\"citation_author\" content=\"Jane Roe\" />\n<meta name=\"citation_author_institution\" content=\"Department of Something, University of Whatever\" />\n<meta name=\"citation_author_institution\" content=\"Department of Whatever, University of Something\" />\n<meta name=\"citation_author_orcid\" content=\"XXXX-XXXX-XXXX-XXXX\" />\n<link rel=\"canonical\" href=\"https://gennachiaro.github.io/phd_proposal/\" />\n<meta property=\"og:url\" content=\"https://gennachiaro.github.io/phd_proposal/\" />\n<meta property=\"twitter:url\" content=\"https://gennachiaro.github.io/phd_proposal/\" />\n<meta name=\"citation_fulltext_html_url\" content=\"https://gennachiaro.github.io/phd_proposal/\" />\n<meta name=\"citation_pdf_url\" content=\"https://gennachiaro.github.io/phd_proposal/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"application/pdf\" href=\"https://gennachiaro.github.io/phd_proposal/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"text/html\" href=\"https://gennachiaro.github.io/phd_proposal/v/96757e0ebb67382960d5bc38daea626568e51554/\" />\n<meta name=\"manubot_html_url_versioned\" content=\"https://gennachiaro.github.io/phd_proposal/v/96757e0ebb67382960d5bc38daea626568e51554/\" />\n<meta name=\"manubot_pdf_url_versioned\" content=\"https://gennachiaro.github.io/phd_proposal/v/96757e0ebb67382960d5bc38daea626568e51554/manuscript.pdf\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"twitter:card\" content=\"summary_large_image\" />\n<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\" href=\"https://manubot.org/favicon-192x192.png\" />\n<link rel=\"mask-icon\" href=\"https://manubot.org/safari-pinned-tab.svg\" color=\"#ad1457\" />\n<meta name=\"theme-color\" content=\"#ad1457\" />\n<!-- end Manubot generated metadata -->",
+    "header-includes": "<!--\nManubot generated metadata rendered from header-includes-template.html.\nSuggest improvements at https://github.com/manubot/manubot/blob/master/manubot/process/header-includes-template.html\n-->\n<meta name=\"dc.format\" content=\"text/html\" />\n<meta name=\"dc.title\" content=\"PhD Proposal\" />\n<meta name=\"citation_title\" content=\"PhD Proposal\" />\n<meta property=\"og:title\" content=\"PhD Proposal\" />\n<meta property=\"twitter:title\" content=\"PhD Proposal\" />\n<meta name=\"dc.date\" content=\"2020-01-16\" />\n<meta name=\"citation_publication_date\" content=\"2020-01-16\" />\n<meta name=\"dc.language\" content=\"en-US\" />\n<meta name=\"citation_language\" content=\"en-US\" />\n<meta name=\"dc.relation.ispartof\" content=\"Manubot\" />\n<meta name=\"dc.publisher\" content=\"Manubot\" />\n<meta name=\"citation_journal_title\" content=\"Manubot\" />\n<meta name=\"citation_technical_report_institution\" content=\"Manubot\" />\n<meta name=\"citation_author\" content=\"Genna Chiaro\" />\n<meta name=\"citation_author_institution\" content=\"Department of Earth and Environmental Sciences, Vanderbilt University\" />\n<meta name=\"citation_author_orcid\" content=\"XXXX-XXXX-XXXX-XXXX\" />\n<meta name=\"twitter:creator\" content=\"@gennachiaro\" />\n<link rel=\"canonical\" href=\"https://gennachiaro.github.io/phd_proposal/\" />\n<meta property=\"og:url\" content=\"https://gennachiaro.github.io/phd_proposal/\" />\n<meta property=\"twitter:url\" content=\"https://gennachiaro.github.io/phd_proposal/\" />\n<meta name=\"citation_fulltext_html_url\" content=\"https://gennachiaro.github.io/phd_proposal/\" />\n<meta name=\"citation_pdf_url\" content=\"https://gennachiaro.github.io/phd_proposal/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"application/pdf\" href=\"https://gennachiaro.github.io/phd_proposal/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"text/html\" href=\"https://gennachiaro.github.io/phd_proposal/v/b16f54207eb1cc118698b8fee04d7b016a6efb40/\" />\n<meta name=\"manubot_html_url_versioned\" content=\"https://gennachiaro.github.io/phd_proposal/v/b16f54207eb1cc118698b8fee04d7b016a6efb40/\" />\n<meta name=\"manubot_pdf_url_versioned\" content=\"https://gennachiaro.github.io/phd_proposal/v/b16f54207eb1cc118698b8fee04d7b016a6efb40/manuscript.pdf\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"twitter:card\" content=\"summary_large_image\" />\n<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\" href=\"https://manubot.org/favicon-192x192.png\" />\n<link rel=\"mask-icon\" href=\"https://manubot.org/safari-pinned-tab.svg\" color=\"#ad1457\" />\n<meta name=\"theme-color\" content=\"#ad1457\" />\n<!-- end Manubot generated metadata -->",
     "bibliography": [
       "content/manual-references.json"
     ],
@@ -25,44 +24,24 @@
     "date": "January 16, 2020",
     "authors": [
       {
-        "github": "johndoe",
-        "name": "John Doe",
-        "initials": "JD",
+        "github": "gennachiaro",
+        "name": "Genna Chiaro",
+        "initials": "GC",
         "orcid": "XXXX-XXXX-XXXX-XXXX",
-        "twitter": "johndoe",
-        "email": "john.doe@something.com",
+        "twitter": "gennachiaro",
+        "email": "genna.r.chiaro@vanderbilt.edu",
         "affiliations": [
-          "Department of Something, University of Whatever"
+          "Department of Earth and Environmental Sciences, Vanderbilt University"
         ],
-        "funders": "Grant XXXXXXXX",
         "affiliation_numbers": [
           1
-        ]
-      },
-      {
-        "github": "janeroe",
-        "name": "Jane Roe",
-        "initials": "JR",
-        "orcid": "XXXX-XXXX-XXXX-XXXX",
-        "email": "jane.roe@whatever.edu",
-        "affiliations": [
-          "Department of Something, University of Whatever",
-          "Department of Whatever, University of Something"
-        ],
-        "affiliation_numbers": [
-          1,
-          2
         ]
       }
     ],
     "affiliations": [
       {
-        "affiliation": "Department of Something, University of Whatever",
+        "affiliation": "Department of Earth and Environmental Sciences, Vanderbilt University",
         "affiliation_number": 1
-      },
-      {
-        "affiliation": "Department of Whatever, University of Something",
-        "affiliation_number": 2
       }
     ],
     "ci_source": {
@@ -70,15 +49,15 @@
       "repo_slug": "gennachiaro/phd_proposal",
       "repo_owner": "gennachiaro",
       "repo_name": "phd_proposal",
-      "commit": "96757e0ebb67382960d5bc38daea626568e51554",
-      "triggering_commit": "96757e0ebb67382960d5bc38daea626568e51554",
-      "build_url": "https://travis-ci.com/gennachiaro/phd_proposal/builds/144674305",
-      "job_url": "https://travis-ci.com/gennachiaro/phd_proposal/jobs/276153218"
+      "commit": "b16f54207eb1cc118698b8fee04d7b016a6efb40",
+      "triggering_commit": "b16f54207eb1cc118698b8fee04d7b016a6efb40",
+      "build_url": "https://travis-ci.com/gennachiaro/phd_proposal/builds/144674516",
+      "job_url": "https://travis-ci.com/gennachiaro/phd_proposal/jobs/276153750"
     },
     "html_url": "https://gennachiaro.github.io/phd_proposal/",
     "pdf_url": "https://gennachiaro.github.io/phd_proposal/manuscript.pdf",
-    "html_url_versioned": "https://gennachiaro.github.io/phd_proposal/v/96757e0ebb67382960d5bc38daea626568e51554/",
-    "pdf_url_versioned": "https://gennachiaro.github.io/phd_proposal/v/96757e0ebb67382960d5bc38daea626568e51554/manuscript.pdf",
+    "html_url_versioned": "https://gennachiaro.github.io/phd_proposal/v/b16f54207eb1cc118698b8fee04d7b016a6efb40/",
+    "pdf_url_versioned": "https://gennachiaro.github.io/phd_proposal/v/b16f54207eb1cc118698b8fee04d7b016a6efb40/manuscript.pdf",
     "manubot_version": "0.3.0",
     "rootstock_commit": "52211e13d0424c0f408e447b81d2c63c4eb5fc52",
     "manuscript_stats": {
