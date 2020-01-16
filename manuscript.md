@@ -58,11 +58,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://gennachiaro.github.io/phd_proposal/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://gennachiaro.github.io/phd_proposal/v/13a54268189f96910791b09e4e81f08c7b1f8520/" />
+  <link rel="alternate" type="text/html" href="https://gennachiaro.github.io/phd_proposal/v/1f0b78407fc3f148fac5b15f369d3a0c2f1726d8/" />
 
-  <meta name="manubot_html_url_versioned" content="https://gennachiaro.github.io/phd_proposal/v/13a54268189f96910791b09e4e81f08c7b1f8520/" />
+  <meta name="manubot_html_url_versioned" content="https://gennachiaro.github.io/phd_proposal/v/1f0b78407fc3f148fac5b15f369d3a0c2f1726d8/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://gennachiaro.github.io/phd_proposal/v/13a54268189f96910791b09e4e81f08c7b1f8520/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://gennachiaro.github.io/phd_proposal/v/1f0b78407fc3f148fac5b15f369d3a0c2f1726d8/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -94,9 +94,9 @@ title: PhD Proposal
 
 <small><em>
 This manuscript
-([permalink](https://gennachiaro.github.io/phd_proposal/v/13a54268189f96910791b09e4e81f08c7b1f8520/))
+([permalink](https://gennachiaro.github.io/phd_proposal/v/1f0b78407fc3f148fac5b15f369d3a0c2f1726d8/))
 was automatically generated
-from [gennachiaro/phd_proposal@13a5426](https://github.com/gennachiaro/phd_proposal/tree/13a54268189f96910791b09e4e81f08c7b1f8520)
+from [gennachiaro/phd_proposal@1f0b784](https://github.com/gennachiaro/phd_proposal/tree/1f0b78407fc3f148fac5b15f369d3a0c2f1726d8)
 on January 16, 2020.
 </em></small>
 
@@ -175,8 +175,7 @@ Figure 3: Different fiamme types were stored at different pressures in the crust
 
 Building on the work from Chiaro et al. (in prep), we propose to use mineral compositions in order to apply this characterization scheme to the entire Ora deposit.  Since unaltered glass is only present in the vitrophyre horizons, we plan to use mineral compositions to classify each fiamma.  We will collect trace and major elements of plagioclase, alkali feldspar and biotite in fiamme.  Preliminary work shows that biotite and plagioclase major elements can be used to differentiate intracaldera vs. outflow fiamme.  Furthermore, biotite major element compositions can be used to infer both fiamme type and population (Fig. 4).  
 
-![alt text](https://github.com/gennachiaro/phd_proposal/blob/master/content/images/biotite-mgo-annotated-circled.png)
-![alt text](https://github.com/gennachiaro/phd_proposal/blob/master/content/images/plag-fe-an.png)
+<img src="https://user-images.githubusercontent.com/56849646/72555930-3c21fe80-3863-11ea-96e3-2f958b3af366.png" width="45%"></img> <img src="https://user-images.githubusercontent.com/56849646/72555952-4512d000-3863-11ea-9ebc-e9299a09a0b9.png" width="45%"></img> <img src="https://github.com/gennachiaro/phd_proposal/blob/master/content/images/plag-fe-an.png" width="45%"></img> 
   
 Figure 4: Biotite and plagioclase major element compositions from fiamme.  Fiamme are divided into population based on hue.  Both plagioclase and biotite can be used to determine fiamme type, and biotite can also determine fiamme population (from Chiaro et al., in prep).
 
