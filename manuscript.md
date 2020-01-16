@@ -58,11 +58,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://gennachiaro.github.io/phd_proposal/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://gennachiaro.github.io/phd_proposal/v/325e9aa3e030c069b0b3d9953bfcea0b7f45acf6/" />
+  <link rel="alternate" type="text/html" href="https://gennachiaro.github.io/phd_proposal/v/dad0c589deb68876ec0a798bbe66d51ba6e11028/" />
 
-  <meta name="manubot_html_url_versioned" content="https://gennachiaro.github.io/phd_proposal/v/325e9aa3e030c069b0b3d9953bfcea0b7f45acf6/" />
+  <meta name="manubot_html_url_versioned" content="https://gennachiaro.github.io/phd_proposal/v/dad0c589deb68876ec0a798bbe66d51ba6e11028/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://gennachiaro.github.io/phd_proposal/v/325e9aa3e030c069b0b3d9953bfcea0b7f45acf6/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://gennachiaro.github.io/phd_proposal/v/dad0c589deb68876ec0a798bbe66d51ba6e11028/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -94,9 +94,9 @@ title: PhD Proposal
 
 <small><em>
 This manuscript
-([permalink](https://gennachiaro.github.io/phd_proposal/v/325e9aa3e030c069b0b3d9953bfcea0b7f45acf6/))
+([permalink](https://gennachiaro.github.io/phd_proposal/v/dad0c589deb68876ec0a798bbe66d51ba6e11028/))
 was automatically generated
-from [gennachiaro/phd_proposal@325e9aa](https://github.com/gennachiaro/phd_proposal/tree/325e9aa3e030c069b0b3d9953bfcea0b7f45acf6)
+from [gennachiaro/phd_proposal@dad0c58](https://github.com/gennachiaro/phd_proposal/tree/dad0c589deb68876ec0a798bbe66d51ba6e11028)
 on January 16, 2020.
 </em></small>
 
@@ -235,6 +235,18 @@ Proficiency in ArcGIS was gained from an Advanced Spatial Analysis course taken 
 Ar-Ar Dating:
 
 Ar-Ar sanidine ages will be obtained from the New Mexico Geochronology Research Laboratory (NMGRL) at New Mexico Tech.  Sanidines will be separated, irradiated, and prepared for analysis using a Thermo Scientific Helix Multicollector.  Funding for Ar-Ar dating will hopefully be provided by the Awards for Geochronology Student Research 2 (AGeS2) grant which will provide support for one year in 2020.  
+
+
+## Timeline {.page_break_before}
+
+Year 1 (2019-2020):
+
+
+Year 2 (2020-2021):
+
+
+Year 3 (2021-2022):
+
 
 
 ## References {.page_break_before}
