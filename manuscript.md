@@ -58,11 +58,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://gennachiaro.github.io/phd_proposal/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://gennachiaro.github.io/phd_proposal/v/ba3366f6383aafedbc459f3955e819b21aab8f97/" />
+  <link rel="alternate" type="text/html" href="https://gennachiaro.github.io/phd_proposal/v/ef0c2a26c57cb6f1c840d073002c4da6286b49b1/" />
 
-  <meta name="manubot_html_url_versioned" content="https://gennachiaro.github.io/phd_proposal/v/ba3366f6383aafedbc459f3955e819b21aab8f97/" />
+  <meta name="manubot_html_url_versioned" content="https://gennachiaro.github.io/phd_proposal/v/ef0c2a26c57cb6f1c840d073002c4da6286b49b1/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://gennachiaro.github.io/phd_proposal/v/ba3366f6383aafedbc459f3955e819b21aab8f97/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://gennachiaro.github.io/phd_proposal/v/ef0c2a26c57cb6f1c840d073002c4da6286b49b1/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -94,9 +94,9 @@ title: PhD Proposal
 
 <small><em>
 This manuscript
-([permalink](https://gennachiaro.github.io/phd_proposal/v/ba3366f6383aafedbc459f3955e819b21aab8f97/))
+([permalink](https://gennachiaro.github.io/phd_proposal/v/ef0c2a26c57cb6f1c840d073002c4da6286b49b1/))
 was automatically generated
-from [gennachiaro/phd_proposal@ba3366f](https://github.com/gennachiaro/phd_proposal/tree/ba3366f6383aafedbc459f3955e819b21aab8f97)
+from [gennachiaro/phd_proposal@ef0c2a2](https://github.com/gennachiaro/phd_proposal/tree/ef0c2a26c57cb6f1c840d073002c4da6286b49b1)
 on January 16, 2020.
 </em></small>
 
@@ -114,6 +114,12 @@ on January 16, 2020.
   <small>
      Department of Earth and Environmental Sciences, Vanderbilt University
   </small>
+
+
+
+## Motivation {.page_break_before}
+
+
 
 
 
