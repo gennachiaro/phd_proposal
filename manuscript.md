@@ -58,11 +58,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://gennachiaro.github.io/phd_proposal/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://gennachiaro.github.io/phd_proposal/v/67efe01be8540e46f69813a4d53f015458f0ec43/" />
+  <link rel="alternate" type="text/html" href="https://gennachiaro.github.io/phd_proposal/v/a7de4d6b1ac74da7988edfd86312b34aaa6694e2/" />
 
-  <meta name="manubot_html_url_versioned" content="https://gennachiaro.github.io/phd_proposal/v/67efe01be8540e46f69813a4d53f015458f0ec43/" />
+  <meta name="manubot_html_url_versioned" content="https://gennachiaro.github.io/phd_proposal/v/a7de4d6b1ac74da7988edfd86312b34aaa6694e2/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://gennachiaro.github.io/phd_proposal/v/67efe01be8540e46f69813a4d53f015458f0ec43/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://gennachiaro.github.io/phd_proposal/v/a7de4d6b1ac74da7988edfd86312b34aaa6694e2/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -94,9 +94,9 @@ title: PhD Proposal
 
 <small><em>
 This manuscript
-([permalink](https://gennachiaro.github.io/phd_proposal/v/67efe01be8540e46f69813a4d53f015458f0ec43/))
+([permalink](https://gennachiaro.github.io/phd_proposal/v/a7de4d6b1ac74da7988edfd86312b34aaa6694e2/))
 was automatically generated
-from [gennachiaro/phd_proposal@67efe01](https://github.com/gennachiaro/phd_proposal/tree/67efe01be8540e46f69813a4d53f015458f0ec43)
+from [gennachiaro/phd_proposal@a7de4d6](https://github.com/gennachiaro/phd_proposal/tree/a7de4d6b1ac74da7988edfd86312b34aaa6694e2)
 on January 16, 2020.
 </em></small>
 
@@ -157,6 +157,7 @@ Recent work has attempted to understand the pre-eruptive architecture of the Ora
 
 Table 2: The four fiamme types and their location, crystal content, maximum phenocryst size, and mafic content (Chiaro et al., in prep). 
 
+![alt text](https://github.com/gennachiaro/phd_proposal/blob/master/content/images/fiamme-types.png)
  
 
 Glass trace elements illuminate at least three distinct populations for both the VCCR and MG fiamme, suggesting the presence of multiple magma batches within the Ora system (Fig. 2). 
