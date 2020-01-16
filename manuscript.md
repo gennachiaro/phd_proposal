@@ -58,11 +58,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://gennachiaro.github.io/phd_proposal/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://gennachiaro.github.io/phd_proposal/v/f8e0458b1b0f3d225fee4669df17b73166951870/" />
+  <link rel="alternate" type="text/html" href="https://gennachiaro.github.io/phd_proposal/v/01aaa48f8f1ab137af51daa3c820ce563db7cf00/" />
 
-  <meta name="manubot_html_url_versioned" content="https://gennachiaro.github.io/phd_proposal/v/f8e0458b1b0f3d225fee4669df17b73166951870/" />
+  <meta name="manubot_html_url_versioned" content="https://gennachiaro.github.io/phd_proposal/v/01aaa48f8f1ab137af51daa3c820ce563db7cf00/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://gennachiaro.github.io/phd_proposal/v/f8e0458b1b0f3d225fee4669df17b73166951870/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://gennachiaro.github.io/phd_proposal/v/01aaa48f8f1ab137af51daa3c820ce563db7cf00/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -94,9 +94,9 @@ title: PhD Proposal
 
 <small><em>
 This manuscript
-([permalink](https://gennachiaro.github.io/phd_proposal/v/f8e0458b1b0f3d225fee4669df17b73166951870/))
+([permalink](https://gennachiaro.github.io/phd_proposal/v/01aaa48f8f1ab137af51daa3c820ce563db7cf00/))
 was automatically generated
-from [gennachiaro/phd_proposal@f8e0458](https://github.com/gennachiaro/phd_proposal/tree/f8e0458b1b0f3d225fee4669df17b73166951870)
+from [gennachiaro/phd_proposal@01aaa48](https://github.com/gennachiaro/phd_proposal/tree/01aaa48f8f1ab137af51daa3c820ce563db7cf00)
 on January 16, 2020.
 </em></small>
 
@@ -127,7 +127,7 @@ on January 16, 2020.
 
 The Ora Ignimbrite (277 +/- 2 Ma) is a welded crystal-rich supereruption-sized deposit located in the southern Alps of northern Italy.  Ora represents the final eruptive pulse of the Athesian Volcanic Group (285-274 Ma), a slab-rollback ignimbrite flareup resulting from the oblique subduction of the Paleo-Tethys ocean under Eurasia in the Permian (Marocchi et al., 2008; Best et al., 2016).  This volcanic terrain escaped alpine deformation and has been scoured by glacial incision, exposing intracaldera deposits reaching thicknesses of 1350 m.  Outflow deposits are less than 250 m thick and are stratigraphically similar to the late-erupted deposits (Willcock et al., 2013) (Fig 1).  The Ora eruption is interpreted to have had an early caldera collapse, based on the large amount of intracaldera fill and the fact that the outflow correlates with the late-erupted units of the intracaldera deposit (Willcock et al., 2013).  Furthermore, Willcock et al. (2015) identify two discrete collapse calderas (northern and southern) and variations in bulk rock compositions and biotite content between the two calderas suggest that multiple magma chambers were evacuated to form the Ora Ignimbrite.
 
-![alt text](https://github.com/gennachiaro/phd_proposal/blob/master/content/images/ora_sample_sites_labelled.png)
+<img align="center" src ="https://github.com/gennachiaro/phd_proposal/blob/master/content/images/ora_sample_sites_labelled.png">
 
 <p align="center">Figure 1: A map of the field location.  The four fiamme types identified in Chiaro et al. (in prep) are listed with their corresponding vitrophyre locations.  
 
@@ -152,21 +152,21 @@ The Ora Ignimbrite (277 +/- 2 Ma) is a welded crystal-rich supereruption-sized d
 **ORA 16**|Cava Flor Quarry|Fine and Coarse-Grained Fiamme| |4
 **ORA 17**|NW Outflow 3|Fine to Medium-Grained Fiamme| |x
 **ORA 18**|Magdalena Hike|Pseudotachylite|1| 
-**ORA 19**|Magdalena Hike @ Sculpture|Fine and Coarse-Grained Dikes|1| 
+**ORA 19**|Magdalena Hike @ Sculpture|Fine and Coarse-Grained Dikes|1|
 
 Recent work has attempted to understand the pre-eruptive architecture of the Ora system by using textural, mineralogical, and geochemical features of fiamme (Chiaro et al., in prep).  Fiamme were collected from two vitrophyre horizons: an early-erupted intracaldera deposit and a late-erupted outflow deposit in order to find well-preserved glass.  These fiamme were initially grouped into four types based on crystal content and biotite content (Table 2).  Glass major elements further verified the categorization scheme.
 
 <p align="center">Table 2: The four fiamme types and their location, crystal content, maximum phenocryst size, and mafic content (Chiaro et al., in prep). 
 
-![alt text](https://github.com/gennachiaro/phd_proposal/blob/master/content/images/fiamme-types.png)
+<img align="center" src ="https://github.com/gennachiaro/phd_proposal/blob/master/content/images/fiamme-types.png">
 
 Glass trace elements illuminate at least three distinct populations for both the VCCR and MG fiamme, suggesting the presence of multiple magma batches within the Ora system (Fig. 2).  Pre-eruptive storage pressures were calculated using the Rhyolite-MELTS (Q2F) geobarometer (Fig. 3).  This work suggests that there were two potential scenarios for the pre-eruptive architecture of the Ora magma system.  Either there were two distinct crystal mush zones located at slightly different depths within the crust, or there was a continuous crystal mush present with multiple heterogeneous zones located throughout (Chiaro et al., in prep).  
 
-![alt text](https://github.com/gennachiaro/phd_proposal/blob/master/content/images/ree%2Btrace-hsr-mg_vccr.png)
+<img align="center" src ="https://github.com/gennachiaro/phd_proposal/blob/master/content/images/ree%2Btrace-hsr-mg_vccr.png">
 
 <p align="center">Figure 2: Rare earth element diagrams and a plot of strontium vs. barium illustrate the six discrete glass populations in the Medium-Grained (MG) and Very Coarse-Grained Crystal-Rich (VCCR) fiamme.
 
-![alt text](https://github.com/gennachiaro/phd_proposal/blob/master/content/images/pressures-sio2-samples-grouped.png)
+<img align="center" src ="https://github.com/gennachiaro/phd_proposal/blob/master/content/images/pressures-sio2-samples-grouped.png">
  
 <p align="center">Figure 3: Different fiamme types were stored at different pressures in the crust, with a progression of erupting shallower to deeper magmas through time.  Silica content vs. pressure shows variable storage depths for the fine-grained crystal-poor melt, suggesting that there were multiple, small melt bodies located at different depths throughout the magma chamber (from Chiaro et al., in prep).
 
