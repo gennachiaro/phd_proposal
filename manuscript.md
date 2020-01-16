@@ -58,11 +58,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://gennachiaro.github.io/phd_proposal/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://gennachiaro.github.io/phd_proposal/v/6a9a82ab0cfd85c92c063e81c10a6dfe35ba3e85/" />
+  <link rel="alternate" type="text/html" href="https://gennachiaro.github.io/phd_proposal/v/021f3454d587b62869fe1c00c41fbe121201a440/" />
 
-  <meta name="manubot_html_url_versioned" content="https://gennachiaro.github.io/phd_proposal/v/6a9a82ab0cfd85c92c063e81c10a6dfe35ba3e85/" />
+  <meta name="manubot_html_url_versioned" content="https://gennachiaro.github.io/phd_proposal/v/021f3454d587b62869fe1c00c41fbe121201a440/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://gennachiaro.github.io/phd_proposal/v/6a9a82ab0cfd85c92c063e81c10a6dfe35ba3e85/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://gennachiaro.github.io/phd_proposal/v/021f3454d587b62869fe1c00c41fbe121201a440/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -94,9 +94,9 @@ title: PhD Proposal Draft
 
 <small><em>
 This manuscript
-([permalink](https://gennachiaro.github.io/phd_proposal/v/6a9a82ab0cfd85c92c063e81c10a6dfe35ba3e85/))
+([permalink](https://gennachiaro.github.io/phd_proposal/v/021f3454d587b62869fe1c00c41fbe121201a440/))
 was automatically generated
-from [gennachiaro/phd_proposal@6a9a82a](https://github.com/gennachiaro/phd_proposal/tree/6a9a82ab0cfd85c92c063e81c10a6dfe35ba3e85)
+from [gennachiaro/phd_proposal@021f345](https://github.com/gennachiaro/phd_proposal/tree/021f3454d587b62869fe1c00c41fbe121201a440)
 on January 16, 2020.
 </em></small>
 
@@ -136,24 +136,24 @@ The Ora Ignimbrite (277 +/- 2 Ma) is a welded crystal-rich supereruption-sized d
 
 **Samples:**|**Location:**|**Type:**|**Bulk Tuff:**|**Fiamme:**
 :-----:|:-----:|:-----:|:-----:|:-----:
-**ORA 2**|Outflow Vitrophyre|Vitrophyre|1|x
+**ORA 2**|Outflow Vitrophyre|Vitrophyre|9|31
 **ORA 3**|Northern Intracaldera|Bulk Tuff|1|1
 **ORA 4**|Odorizzi Quarry|Bulk Tuff|2|50
-**ORA 5**|Intracaldera Vitrophyre|Vitrophyre|1|x
+**ORA 5**|Intracaldera Vitrophyre|Vitrophyre|1|30
 **ORA 6**|Northern Intracaldera|Rhyolite Dike|4| 
 **ORA 7**|Base of Northern Intracaldera|Bulk Tuff|1| 
 **ORA 8**|Northern Intracaldera|Bulk Tuff|1| 
-**ORA 9**|NW Outflow 1|Biotite-Rich Fiamme| |x
-**ORA 10**|NW Outflow 2|Medium-Grained Fiamme| |x
+**ORA 9**|NW Outflow 1|Biotite-Rich Fiamme| |1
+**ORA 10**|NW Outflow 2|Medium-Grained Fiamme| |1
 **ORA 11**|Castel Firmiano|Ash/Ignimbrite Contact|3| 
 **ORA 12**|Rhyolite Dike|Granite Dike|4| 
 **ORA 13**|Rhyolite Dike|Potential Fiamma| |1
 **ORA 14**|Caldera Rim Cutting Dike|Porphyritic Coarse-Grained Dike|1| 
 **ORA 15**|Caldera Rim Cutting Dike|Medium-Grained Dike |1| 
 **ORA 16**|Cava Flor Quarry|Fine and Coarse-Grained Fiamme| |4
-**ORA 17**|NW Outflow 3|Fine to Medium-Grained Fiamme| |x
+**ORA 17**|NW Outflow 3|Fine to Medium-Grained Fiamme| |3
 **ORA 18**|Magdalena Hike|Pseudotachylite|1| 
-**ORA 19**|Magdalena Hike @ Sculpture|Fine and Coarse-Grained Dikes|1|
+**ORA 19**|Magdalena Hike @ Sculpture|Fine and Coarse-Grained Dikes|4|
 
 Recent work has attempted to understand the pre-eruptive architecture of the Ora system by using textural, mineralogical, and geochemical features of fiamme (Chiaro et al., in prep).  Fiamme were collected from two vitrophyre horizons: an early-erupted intracaldera deposit and a late-erupted outflow deposit in order to find well-preserved glass.  These fiamme were initially grouped into four types based on crystal content and biotite content (Table 2).  Glass major elements further verified the categorization scheme.
 
