@@ -1,27 +1,17 @@
 ---
-title: "Manuscript Title"
+title: "PhD Proposal"
 keywords:
-  - markdown
-  - publishing
-  - manubot
+  - ora caldera
+  - minerals
+  - python
 lang: en-US
 authors:
   -
-    github: johndoe
-    name: John Doe
-    initials: JD
+    github: gennachiaro
+    name: Genna Chiaro
+    initials: GC
     orcid: XXXX-XXXX-XXXX-XXXX
-    twitter: johndoe
-    email: john.doe@something.com
+    twitter: gennachiaro
+    email: genna.r.chiaro@vanderbilt.edu
     affiliations:
-      - Department of Something, University of Whatever
-    funders: Grant XXXXXXXX
-  -
-    github: janeroe
-    name: Jane Roe
-    initials: JR
-    orcid: XXXX-XXXX-XXXX-XXXX
-    email: jane.roe@whatever.edu
-    affiliations:
-      - Department of Something, University of Whatever
-      - Department of Whatever, University of Something
+      - Department of Earth and Environmental Sciences, Vanderbilt University
