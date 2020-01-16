@@ -58,11 +58,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://gennachiaro.github.io/phd_proposal/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://gennachiaro.github.io/phd_proposal/v/322d7a7526d5742619c662caae5d4a461ebd726f/" />
+  <link rel="alternate" type="text/html" href="https://gennachiaro.github.io/phd_proposal/v/a7a015141d21d54727780d9be68145b806ddd1b0/" />
 
-  <meta name="manubot_html_url_versioned" content="https://gennachiaro.github.io/phd_proposal/v/322d7a7526d5742619c662caae5d4a461ebd726f/" />
+  <meta name="manubot_html_url_versioned" content="https://gennachiaro.github.io/phd_proposal/v/a7a015141d21d54727780d9be68145b806ddd1b0/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://gennachiaro.github.io/phd_proposal/v/322d7a7526d5742619c662caae5d4a461ebd726f/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://gennachiaro.github.io/phd_proposal/v/a7a015141d21d54727780d9be68145b806ddd1b0/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -94,9 +94,9 @@ title: PhD Proposal
 
 <small><em>
 This manuscript
-([permalink](https://gennachiaro.github.io/phd_proposal/v/322d7a7526d5742619c662caae5d4a461ebd726f/))
+([permalink](https://gennachiaro.github.io/phd_proposal/v/a7a015141d21d54727780d9be68145b806ddd1b0/))
 was automatically generated
-from [gennachiaro/phd_proposal@322d7a7](https://github.com/gennachiaro/phd_proposal/tree/322d7a7526d5742619c662caae5d4a461ebd726f)
+from [gennachiaro/phd_proposal@a7a0151](https://github.com/gennachiaro/phd_proposal/tree/a7a015141d21d54727780d9be68145b806ddd1b0)
 on January 16, 2020.
 </em></small>
 
@@ -159,23 +159,19 @@ Recent work has attempted to understand the pre-eruptive architecture of the Ora
 
 <p align="center">Table 2: The four fiamme types and their location, crystal content, maximum phenocryst size, and mafic content (Chiaro et al., in prep). 
 
-
 <p align="center">
-<img src="https://github.com/gennachiaro/phd_proposal/blob/master/content/images/fiamme-types.png" width="90%"></p> 
-
-
-<img align="center" src ="https://github.com/gennachiaro/phd_proposal/blob/master/content/images/fiamme-types.png">
+<img src="https://user-images.githubusercontent.com/56849646/72564985-895b9b80-3876-11ea-9ddb-7eeb32da66e5.png" width="90%"></p> 
 
 
 Glass trace elements illuminate at least three distinct populations for both the VCCR and MG fiamme, suggesting the presence of multiple magma batches within the Ora system (Fig. 2).  Pre-eruptive storage pressures were calculated using the Rhyolite-MELTS (Q2F) geobarometer (Fig. 3).  This work suggests that there were two potential scenarios for the pre-eruptive architecture of the Ora magma system.  Either there were two distinct crystal mush zones located at slightly different depths within the crust, or there was a continuous crystal mush present with multiple heterogeneous zones located throughout (Chiaro et al., in prep).  
 
-
-<img align="center" src ="https://github.com/gennachiaro/phd_proposal/blob/master/content/images/ree%2Btrace-hsr-mg_vccr.png">
+<p align="center">
+<img src="https://user-images.githubusercontent.com/56849646/72565422-6b426b00-3877-11ea-9d2e-68c5bbb85cd9.png" width="90%"></p> 
 
 <p align="center">Figure 2: Rare earth element diagrams and a plot of strontium vs. barium illustrate the six discrete glass populations in the Medium-Grained (MG) and Very Coarse-Grained Crystal-Rich (VCCR) fiamme.
 
-
-<img align="center" src ="https://github.com/gennachiaro/phd_proposal/blob/master/content/images/pressures-sio2-samples-grouped.png">
+<p align="center">
+<img src="https://user-images.githubusercontent.com/56849646/72565474-8e6d1a80-3877-11ea-8b54-da854fa797b2.png" width="90%"></p> 
  
 <p align="center">Figure 3: Different fiamme types were stored at different pressures in the crust, with a progression of erupting shallower to deeper magmas through time.  Silica content vs. pressure shows variable storage depths for the fine-grained crystal-poor melt, suggesting that there were multiple, small melt bodies located at different depths throughout the magma chamber (from Chiaro et al., in prep).
 
