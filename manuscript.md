@@ -58,11 +58,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://gennachiaro.github.io/phd_proposal/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://gennachiaro.github.io/phd_proposal/v/8d1c930542ab6514ddea668755b212646e4a431b/" />
+  <link rel="alternate" type="text/html" href="https://gennachiaro.github.io/phd_proposal/v/dcd520ce8a6ab8093797f52b9f724f6f8db1952f/" />
 
-  <meta name="manubot_html_url_versioned" content="https://gennachiaro.github.io/phd_proposal/v/8d1c930542ab6514ddea668755b212646e4a431b/" />
+  <meta name="manubot_html_url_versioned" content="https://gennachiaro.github.io/phd_proposal/v/dcd520ce8a6ab8093797f52b9f724f6f8db1952f/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://gennachiaro.github.io/phd_proposal/v/8d1c930542ab6514ddea668755b212646e4a431b/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://gennachiaro.github.io/phd_proposal/v/dcd520ce8a6ab8093797f52b9f724f6f8db1952f/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -94,9 +94,9 @@ title: PhD Proposal
 
 <small><em>
 This manuscript
-([permalink](https://gennachiaro.github.io/phd_proposal/v/8d1c930542ab6514ddea668755b212646e4a431b/))
+([permalink](https://gennachiaro.github.io/phd_proposal/v/dcd520ce8a6ab8093797f52b9f724f6f8db1952f/))
 was automatically generated
-from [gennachiaro/phd_proposal@8d1c930](https://github.com/gennachiaro/phd_proposal/tree/8d1c930542ab6514ddea668755b212646e4a431b)
+from [gennachiaro/phd_proposal@dcd520c](https://github.com/gennachiaro/phd_proposal/tree/dcd520ce8a6ab8093797f52b9f724f6f8db1952f)
 on January 16, 2020.
 </em></small>
 
@@ -169,7 +169,6 @@ Glass trace elements illuminate at least three distinct populations for both the
 
 <p align="center">Figure 2: Rare earth element diagrams and a plot of strontium vs. barium illustrate the six discrete glass populations in the Medium-Grained (MG) and Very Coarse-Grained Crystal-Rich (VCCR) fiamme.</p>
 
-<br>
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/56849646/72565474-8e6d1a80-3877-11ea-8b54-da854fa797b2.png" width="90%"></p> 
