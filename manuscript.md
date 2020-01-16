@@ -58,11 +58,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://gennachiaro.github.io/phd_proposal/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://gennachiaro.github.io/phd_proposal/v/e85d57ae043794c9d8d1c576f24c0674abaf302d/" />
+  <link rel="alternate" type="text/html" href="https://gennachiaro.github.io/phd_proposal/v/8d1c930542ab6514ddea668755b212646e4a431b/" />
 
-  <meta name="manubot_html_url_versioned" content="https://gennachiaro.github.io/phd_proposal/v/e85d57ae043794c9d8d1c576f24c0674abaf302d/" />
+  <meta name="manubot_html_url_versioned" content="https://gennachiaro.github.io/phd_proposal/v/8d1c930542ab6514ddea668755b212646e4a431b/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://gennachiaro.github.io/phd_proposal/v/e85d57ae043794c9d8d1c576f24c0674abaf302d/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://gennachiaro.github.io/phd_proposal/v/8d1c930542ab6514ddea668755b212646e4a431b/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -94,9 +94,9 @@ title: PhD Proposal
 
 <small><em>
 This manuscript
-([permalink](https://gennachiaro.github.io/phd_proposal/v/e85d57ae043794c9d8d1c576f24c0674abaf302d/))
+([permalink](https://gennachiaro.github.io/phd_proposal/v/8d1c930542ab6514ddea668755b212646e4a431b/))
 was automatically generated
-from [gennachiaro/phd_proposal@e85d57a](https://github.com/gennachiaro/phd_proposal/tree/e85d57ae043794c9d8d1c576f24c0674abaf302d)
+from [gennachiaro/phd_proposal@8d1c930](https://github.com/gennachiaro/phd_proposal/tree/8d1c930542ab6514ddea668755b212646e4a431b)
 on January 16, 2020.
 </em></small>
 
@@ -168,6 +168,8 @@ Glass trace elements illuminate at least three distinct populations for both the
 <img src="https://user-images.githubusercontent.com/56849646/72565422-6b426b00-3877-11ea-9d2e-68c5bbb85cd9.png" width="90%"></p> 
 
 <p align="center">Figure 2: Rare earth element diagrams and a plot of strontium vs. barium illustrate the six discrete glass populations in the Medium-Grained (MG) and Very Coarse-Grained Crystal-Rich (VCCR) fiamme.</p>
+
+<br>
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/56849646/72565474-8e6d1a80-3877-11ea-8b54-da854fa797b2.png" width="90%"></p> 
