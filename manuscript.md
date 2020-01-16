@@ -58,11 +58,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://gennachiaro.github.io/phd_proposal/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://gennachiaro.github.io/phd_proposal/v/6ef7ff60d3191c031c2259637be7ddf397a24fa6/" />
+  <link rel="alternate" type="text/html" href="https://gennachiaro.github.io/phd_proposal/v/13a54268189f96910791b09e4e81f08c7b1f8520/" />
 
-  <meta name="manubot_html_url_versioned" content="https://gennachiaro.github.io/phd_proposal/v/6ef7ff60d3191c031c2259637be7ddf397a24fa6/" />
+  <meta name="manubot_html_url_versioned" content="https://gennachiaro.github.io/phd_proposal/v/13a54268189f96910791b09e4e81f08c7b1f8520/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://gennachiaro.github.io/phd_proposal/v/6ef7ff60d3191c031c2259637be7ddf397a24fa6/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://gennachiaro.github.io/phd_proposal/v/13a54268189f96910791b09e4e81f08c7b1f8520/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -94,9 +94,9 @@ title: PhD Proposal
 
 <small><em>
 This manuscript
-([permalink](https://gennachiaro.github.io/phd_proposal/v/6ef7ff60d3191c031c2259637be7ddf397a24fa6/))
+([permalink](https://gennachiaro.github.io/phd_proposal/v/13a54268189f96910791b09e4e81f08c7b1f8520/))
 was automatically generated
-from [gennachiaro/phd_proposal@6ef7ff6](https://github.com/gennachiaro/phd_proposal/tree/6ef7ff60d3191c031c2259637be7ddf397a24fa6)
+from [gennachiaro/phd_proposal@13a5426](https://github.com/gennachiaro/phd_proposal/tree/13a54268189f96910791b09e4e81f08c7b1f8520)
 on January 16, 2020.
 </em></small>
 
@@ -245,8 +245,8 @@ Ar-Ar sanidine ages will be obtained from the New Mexico Geochronology Research 
 ## Broader Impacts
 
 Developing open-source science with python with hopes of uploading to the ENKI server for distribution.  
-	Mentoring undergraduates!
-	Female Power!!
+Mentoring undergraduates!
+Female Power!!
 
 
 
