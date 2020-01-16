@@ -58,11 +58,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://gennachiaro.github.io/phd_proposal/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://gennachiaro.github.io/phd_proposal/v/cd975090f6a3b4e916f728e729b3539419a86abf/" />
+  <link rel="alternate" type="text/html" href="https://gennachiaro.github.io/phd_proposal/v/0085b2437ace5a655f42204f76a9eee622dd1929/" />
 
-  <meta name="manubot_html_url_versioned" content="https://gennachiaro.github.io/phd_proposal/v/cd975090f6a3b4e916f728e729b3539419a86abf/" />
+  <meta name="manubot_html_url_versioned" content="https://gennachiaro.github.io/phd_proposal/v/0085b2437ace5a655f42204f76a9eee622dd1929/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://gennachiaro.github.io/phd_proposal/v/cd975090f6a3b4e916f728e729b3539419a86abf/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://gennachiaro.github.io/phd_proposal/v/0085b2437ace5a655f42204f76a9eee622dd1929/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -94,9 +94,9 @@ title: PhD Proposal
 
 <small><em>
 This manuscript
-([permalink](https://gennachiaro.github.io/phd_proposal/v/cd975090f6a3b4e916f728e729b3539419a86abf/))
+([permalink](https://gennachiaro.github.io/phd_proposal/v/0085b2437ace5a655f42204f76a9eee622dd1929/))
 was automatically generated
-from [gennachiaro/phd_proposal@cd97509](https://github.com/gennachiaro/phd_proposal/tree/cd975090f6a3b4e916f728e729b3539419a86abf)
+from [gennachiaro/phd_proposal@0085b24](https://github.com/gennachiaro/phd_proposal/tree/0085b2437ace5a655f42204f76a9eee622dd1929)
 on January 16, 2020.
 </em></small>
 
@@ -133,25 +133,27 @@ Figure 1: A map of the field location.  The four fiamme types identified in Chia
 
 Table 1: Samples collected in Fall 2017 and Spring 2019.  Sample locations are shown in Fig. 1.  The number of bulk tuff samples and fiamme are listed.
 
-Samples:	Location:	Type:	Bulk Tuff:	Fiamme:
-ORA 2	Outflow Vitrophyre	Vitrophyre	1	x
-ORA 3	Northern Intracaldera	Bulk Tuff	1	1
-ORA 4	Odorizzi Quarry	Bulk Tuff	2	50
-ORA 5	Intracaldera Vitrophyre	Vitrophyre	1	x
-ORA 6	Northern Intracaldera	Rhyolite Dike	4	
-ORA 7	Base of Northern Intracaldera	Bulk Tuff	1	
-ORA 8	Northern Intracaldera	Bulk Tuff	1	
-ORA 9	NW Outflow 1	Biotite-Rich Fiamme		x
-ORA 10	NW Outflow 2	Medium-Grained Fiamme		x
-ORA 11	Castel Firmiano	Ash/Ignimbrite Contact	3	
-ORA 12	Rhyolite Dike	Granite Dike	4	
-ORA 13	Rhyolite Dike	Potential Fiamma		1
-ORA 14	Caldera Rim Cutting Dike	Porphyritic Coarse-Grained Dike	1	
-ORA 15	Caldera Rim Cutting Dike	Medium-Grained Dike 	1	
-ORA 16	Cava Flor Quarry	Fine and Coarse-Grained Fiamme		4
-ORA 17	NW Outflow 3	Fine to Medium-Grained Fiamme		x
-ORA 18	Magdalena Hike	Pseudotachylite	1	
-ORA 19	Magdalena Hike @ Sculpture	Fine and Coarse-Grained Dikes	1	
+**Samples:**|**Location:**|**Type:**|**Bulk Tuff:**|**Fiamme:**
+:-----:|:-----:|:-----:|:-----:|:-----:
+**ORA 2**|Outflow Vitrophyre|Vitrophyre|1|x
+**ORA 3**|Northern Intracaldera|Bulk Tuff|1|1
+**ORA 4**|Odorizzi Quarry|Bulk Tuff|2|50
+**ORA 5**|Intracaldera Vitrophyre|Vitrophyre|1|x
+**ORA 6**|Northern Intracaldera|Rhyolite Dike|4| 
+**ORA 7**|Base of Northern Intracaldera|Bulk Tuff|1| 
+**ORA 8**|Northern Intracaldera|Bulk Tuff|1| 
+**ORA 9**|NW Outflow 1|Biotite-Rich Fiamme| |x
+**ORA 10**|NW Outflow 2|Medium-Grained Fiamme| |x
+**ORA 11**|Castel Firmiano|Ash/Ignimbrite Contact|3| 
+**ORA 12**|Rhyolite Dike|Granite Dike|4| 
+**ORA 13**|Rhyolite Dike|Potential Fiamma| |1
+**ORA 14**|Caldera Rim Cutting Dike|Porphyritic Coarse-Grained Dike|1| 
+**ORA 15**|Caldera Rim Cutting Dike|Medium-Grained Dike |1| 
+**ORA 16**|Cava Flor Quarry|Fine and Coarse-Grained Fiamme| |4
+**ORA 17**|NW Outflow 3|Fine to Medium-Grained Fiamme| |x
+**ORA 18**|Magdalena Hike|Pseudotachylite|1| 
+**ORA 19**|Magdalena Hike @ Sculpture|Fine and Coarse-Grained Dikes|1| 
+
 
 Recent work has attempted to understand the pre-eruptive architecture of the Ora system by using textural, mineralogical, and geochemical features of fiamme (Chiaro et al., in prep).  Fiamme were collected from two vitrophyre horizons: an early-erupted intracaldera deposit and a late-erupted outflow deposit in order to find well-preserved glass.  These fiamme were initially grouped into four types based on crystal content and biotite content (Table 2).  Glass major elements further verified the categorization scheme.
 
