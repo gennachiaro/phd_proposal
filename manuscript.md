@@ -58,11 +58,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://gennachiaro.github.io/phd_proposal/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://gennachiaro.github.io/phd_proposal/v/bc099da02ea2e95784d30f4210336210c5527a35/" />
+  <link rel="alternate" type="text/html" href="https://gennachiaro.github.io/phd_proposal/v/b32830d074ec23dfd661768ce7638bcf5bf4f91a/" />
 
-  <meta name="manubot_html_url_versioned" content="https://gennachiaro.github.io/phd_proposal/v/bc099da02ea2e95784d30f4210336210c5527a35/" />
+  <meta name="manubot_html_url_versioned" content="https://gennachiaro.github.io/phd_proposal/v/b32830d074ec23dfd661768ce7638bcf5bf4f91a/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://gennachiaro.github.io/phd_proposal/v/bc099da02ea2e95784d30f4210336210c5527a35/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://gennachiaro.github.io/phd_proposal/v/b32830d074ec23dfd661768ce7638bcf5bf4f91a/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -94,9 +94,9 @@ title: PhD Proposal
 
 <small><em>
 This manuscript
-([permalink](https://gennachiaro.github.io/phd_proposal/v/bc099da02ea2e95784d30f4210336210c5527a35/))
+([permalink](https://gennachiaro.github.io/phd_proposal/v/b32830d074ec23dfd661768ce7638bcf5bf4f91a/))
 was automatically generated
-from [gennachiaro/phd_proposal@bc099da](https://github.com/gennachiaro/phd_proposal/tree/bc099da02ea2e95784d30f4210336210c5527a35)
+from [gennachiaro/phd_proposal@b32830d](https://github.com/gennachiaro/phd_proposal/tree/b32830d074ec23dfd661768ce7638bcf5bf4f91a)
 on January 16, 2020.
 </em></small>
 
@@ -183,7 +183,7 @@ Figure 4: Biotite and plagioclase major element compositions from fiamme.  Fiamm
 
 The foundation for this project involves obtaining mineral compositions for the entire crystal.  After creating biotite and feldspar EDS maps and collecting trace element profiles, I plan to utilize a hierarchical agglomerative clustering algorithm for major elements in order to statistically determine how many clusters of minerals are present in the fiamme.  Another clustering algorithm will be run using trace elements and we will compare the results.  Once the clusters are identified, we can observe whether they correlate with fiamme type and population (Chiaro et al., in prep).  If we see a correlation, we can confidently use mineral populations to classify fiamme throughout the Ora Ignimbrite.  We can also use the mineral maps to visualize core to rim cluster evolution (Fig. 5).  By visualizing where the clusters occur in each mineral and by looking at a large enough population of core to rim clusters, we can infer whether crystals experienced similar histories.  This approach may reveal information regarding the magmatic processes which occurred prior to the Ora eruption (injection, decompression-driven growth, etc).       
 
-![alt text](https://github.com/gennachiaro/phd_proposal/blob/master/content/images/GetFile.jpg)
+<img src="https://user-images.githubusercontent.com/56849646/72556172-af2b7500-3863-11ea-9745-323250943155.jpg" width="45%"></img> 
  
 Figure 5: (A-C) BSE and EDS scans of a clinopyroxene phenocryst from the Holuhraun-Bardarbunga eruption in 2014-2015.  The circles show the location of the electron microprobe analysis and the color indicates the corresponding cluster from major element analysis.  (D) Trace element profiles from A-B.  The colors and numbers at the bottom indicate the corresponding cluster identified with major elements.  (E) The same as D, but for another crystal that is not shown (from Luca Caricchi).
 
@@ -197,7 +197,7 @@ The spatial distribution of fiamme types and populations has the potential to re
 
 We propose to investigate whether fiamme type and population change as a supereruption progresses.  Our approach will take advantage of the previous work done by Willcock et al. (2013) in which they correlated stratigraphic logs throughout the deposit with observed changes in volcanic lithofacies for 13 intracaldera and 7 outflow stratigraphic sections.  More detailed efforts to ascertain the temporal changes of the Ora eruption involved plotting the bulk rock compositions, biotite crystal content, and total crystal content as they varied stratigraphically (Willcock et al., 2015) (Fig. 6).  We have identified potential horizons of interest that may signify a change in eruptive material (Fig. 6).  By sampling the fiamme types present at these locations, we hope to discover whether there are gradual or instantaneous changes in the fiamme types or populations.  Similar to the methodology employed in sedimentary strata with fossil assemblages, we may be able to observe fiamme “extinction horizons” representing the depletion of a magma chamber.  We will also utilize this workflow on samples of the ignimbrite matrix with a machine learning algorithm to determine whether we see a change in mineral populations with time.  These methods will allow us to extract relative timescales for magmatic events taking place during the Ora supereruption.  
 
-![alt text](https://github.com/gennachiaro/phd_proposal/blob/master/content/images/vertical_var_annotated.png)
+<img src="https://user-images.githubusercontent.com/56849646/72556237-d2562480-3863-11ea-86bc-0a83ca508c78.png" width="45%"></img> 
 
 Figure 6: Bulk rock compositions, biotite crystal content (Bt), and total crystal content (CF) variation through time.  The yellow stars indicate horizons of interest that could show potential changes in eruptive material.  Locations 3 and 8 are intracaldera deposits and correlate with Ora 3 and Ora 8.  We have yet to sample from location 20, which is just south of the Ora 2 vitrophyre unit.  Figure is modified from Willcock et al., 2015.
 
