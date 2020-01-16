@@ -58,11 +58,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://gennachiaro.github.io/phd_proposal/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://gennachiaro.github.io/phd_proposal/v/5347ec8d408835bf0793e8cebad74ef72f9f1354/" />
+  <link rel="alternate" type="text/html" href="https://gennachiaro.github.io/phd_proposal/v/5baed346f3c5e86ef157adb94d8f84b0ba68b1a6/" />
 
-  <meta name="manubot_html_url_versioned" content="https://gennachiaro.github.io/phd_proposal/v/5347ec8d408835bf0793e8cebad74ef72f9f1354/" />
+  <meta name="manubot_html_url_versioned" content="https://gennachiaro.github.io/phd_proposal/v/5baed346f3c5e86ef157adb94d8f84b0ba68b1a6/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://gennachiaro.github.io/phd_proposal/v/5347ec8d408835bf0793e8cebad74ef72f9f1354/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://gennachiaro.github.io/phd_proposal/v/5baed346f3c5e86ef157adb94d8f84b0ba68b1a6/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -94,9 +94,9 @@ title: PhD Proposal
 
 <small><em>
 This manuscript
-([permalink](https://gennachiaro.github.io/phd_proposal/v/5347ec8d408835bf0793e8cebad74ef72f9f1354/))
+([permalink](https://gennachiaro.github.io/phd_proposal/v/5baed346f3c5e86ef157adb94d8f84b0ba68b1a6/))
 was automatically generated
-from [gennachiaro/phd_proposal@5347ec8](https://github.com/gennachiaro/phd_proposal/tree/5347ec8d408835bf0793e8cebad74ef72f9f1354)
+from [gennachiaro/phd_proposal@5baed34](https://github.com/gennachiaro/phd_proposal/tree/5baed346f3c5e86ef157adb94d8f84b0ba68b1a6)
 on January 16, 2020.
 </em></small>
 
