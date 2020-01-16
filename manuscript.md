@@ -58,11 +58,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://gennachiaro.github.io/phd_proposal/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://gennachiaro.github.io/phd_proposal/v/dad0c589deb68876ec0a798bbe66d51ba6e11028/" />
+  <link rel="alternate" type="text/html" href="https://gennachiaro.github.io/phd_proposal/v/fb7d0b74ee355c4a95382aebd2c0c92384461fc4/" />
 
-  <meta name="manubot_html_url_versioned" content="https://gennachiaro.github.io/phd_proposal/v/dad0c589deb68876ec0a798bbe66d51ba6e11028/" />
+  <meta name="manubot_html_url_versioned" content="https://gennachiaro.github.io/phd_proposal/v/fb7d0b74ee355c4a95382aebd2c0c92384461fc4/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://gennachiaro.github.io/phd_proposal/v/dad0c589deb68876ec0a798bbe66d51ba6e11028/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://gennachiaro.github.io/phd_proposal/v/fb7d0b74ee355c4a95382aebd2c0c92384461fc4/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -94,9 +94,9 @@ title: PhD Proposal
 
 <small><em>
 This manuscript
-([permalink](https://gennachiaro.github.io/phd_proposal/v/dad0c589deb68876ec0a798bbe66d51ba6e11028/))
+([permalink](https://gennachiaro.github.io/phd_proposal/v/fb7d0b74ee355c4a95382aebd2c0c92384461fc4/))
 was automatically generated
-from [gennachiaro/phd_proposal@dad0c58](https://github.com/gennachiaro/phd_proposal/tree/dad0c589deb68876ec0a798bbe66d51ba6e11028)
+from [gennachiaro/phd_proposal@fb7d0b7](https://github.com/gennachiaro/phd_proposal/tree/fb7d0b74ee355c4a95382aebd2c0c92384461fc4)
 on January 16, 2020.
 </em></small>
 
@@ -246,6 +246,14 @@ Year 2 (2020-2021):
 
 
 Year 3 (2021-2022):
+
+
+
+## Broader Impacts {.page_break_before}
+
+Developing open-source science with python with hopes of uploading to the ENKI server for distribution.  
+	Mentoring undergraduates!
+	Female Power!!
 
 
 
