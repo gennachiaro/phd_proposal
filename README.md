@@ -1,7 +1,7 @@
 # Output directory containing the formatted manuscript
 
 The [`gh-pages`](https://github.com/gennachiaro/phd_proposal/tree/gh-pages) branch hosts the contents of this directory at https://gennachiaro.github.io/phd_proposal/.
-The permalink for this webpage version is https://gennachiaro.github.io/phd_proposal/v/440e281640860ef55cb649710059edcafb3d7233/.
+The permalink for this webpage version is https://gennachiaro.github.io/phd_proposal/v/c8bdddfd2c4bfc881ced9be6089af6d24f34e9b2/.
 To redirect to the permalink for the latest manuscript version at anytime, use the link https://gennachiaro.github.io/phd_proposal/v/freeze/.
 
 ## Files
@@ -36,4 +36,4 @@ Verifying timestamps with the `ots verify` command requires running a local bitc
 ## Source
 
 The manuscripts in this directory were built from
-[`440e281640860ef55cb649710059edcafb3d7233`](https://github.com/gennachiaro/phd_proposal/commit/440e281640860ef55cb649710059edcafb3d7233).
+[`c8bdddfd2c4bfc881ced9be6089af6d24f34e9b2`](https://github.com/gennachiaro/phd_proposal/commit/c8bdddfd2c4bfc881ced9be6089af6d24f34e9b2).
