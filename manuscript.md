@@ -58,11 +58,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://gennachiaro.github.io/phd_proposal/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://gennachiaro.github.io/phd_proposal/v/cf24fe2546abcf11c141edbf1d4ad7a947394452/" />
+  <link rel="alternate" type="text/html" href="https://gennachiaro.github.io/phd_proposal/v/f8e0458b1b0f3d225fee4669df17b73166951870/" />
 
-  <meta name="manubot_html_url_versioned" content="https://gennachiaro.github.io/phd_proposal/v/cf24fe2546abcf11c141edbf1d4ad7a947394452/" />
+  <meta name="manubot_html_url_versioned" content="https://gennachiaro.github.io/phd_proposal/v/f8e0458b1b0f3d225fee4669df17b73166951870/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://gennachiaro.github.io/phd_proposal/v/cf24fe2546abcf11c141edbf1d4ad7a947394452/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://gennachiaro.github.io/phd_proposal/v/f8e0458b1b0f3d225fee4669df17b73166951870/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -94,9 +94,9 @@ title: PhD Proposal
 
 <small><em>
 This manuscript
-([permalink](https://gennachiaro.github.io/phd_proposal/v/cf24fe2546abcf11c141edbf1d4ad7a947394452/))
+([permalink](https://gennachiaro.github.io/phd_proposal/v/f8e0458b1b0f3d225fee4669df17b73166951870/))
 was automatically generated
-from [gennachiaro/phd_proposal@cf24fe2](https://github.com/gennachiaro/phd_proposal/tree/cf24fe2546abcf11c141edbf1d4ad7a947394452)
+from [gennachiaro/phd_proposal@f8e0458](https://github.com/gennachiaro/phd_proposal/tree/f8e0458b1b0f3d225fee4669df17b73166951870)
 on January 16, 2020.
 </em></small>
 
@@ -177,7 +177,7 @@ Building on the work from Chiaro et al. (in prep), we propose to use mineral com
 
 <img src="https://user-images.githubusercontent.com/56849646/72555930-3c21fe80-3863-11ea-96e3-2f958b3af366.png" width="45%"></img> <img src="https://user-images.githubusercontent.com/56849646/72555952-4512d000-3863-11ea-9ebc-e9299a09a0b9.png" width="45%"></img> 
   
-Figure 4: Biotite and plagioclase major element compositions from fiamme.  Fiamme are divided into population based on hue.  Both plagioclase and biotite can be used to determine fiamme type, and biotite can also determine fiamme population (from Chiaro et al., in prep).
+<p align="center">Figure 4: Biotite and plagioclase major element compositions from fiamme.  Fiamme are divided into population based on hue.  Both plagioclase and biotite can be used to determine fiamme type, and biotite can also determine fiamme population (from Chiaro et al., in prep).
 
 *Hierarchical Clustering and Machine Learning in Python:*
 
@@ -185,7 +185,7 @@ The foundation for this project involves obtaining mineral compositions for the 
 
 <img src="https://user-images.githubusercontent.com/56849646/72556172-af2b7500-3863-11ea-9745-323250943155.jpg" width="50%"></img> 
  
-Figure 5: (A-C) BSE and EDS scans of a clinopyroxene phenocryst from the Holuhraun-Bardarbunga eruption in 2014-2015.  The circles show the location of the electron microprobe analysis and the color indicates the corresponding cluster from major element analysis.  (D) Trace element profiles from A-B.  The colors and numbers at the bottom indicate the corresponding cluster identified with major elements.  (E) The same as D, but for another crystal that is not shown (from Luca Caricchi).
+<p align="center">Figure 5: (A-C) BSE and EDS scans of a clinopyroxene phenocryst from the Holuhraun-Bardarbunga eruption in 2014-2015.  The circles show the location of the electron microprobe analysis and the color indicates the corresponding cluster from major element analysis.  (D) Trace element profiles from A-B.  The colors and numbers at the bottom indicate the corresponding cluster identified with major elements.  (E) The same as D, but for another crystal that is not shown (from Luca Caricchi).
 
 We are also interested in identifying the mineral populations that are present in the ignimbrite matrix and seeing whether this varies throughout the deposit.  Machine learning algorithms are becoming widely incorporated in scientific studies, and they provide an opportunity to make tedious point-counting obsolete.  By utilizing previously determined mineral clusters (major element-based clustering), we can train a machine to classify each mineral in a thin section EDS scan into its associated population.  Furthermore, this automatic clustering can be applied to multiple large thin sections, allowing for an estimation of bulk eruptive material.  Initial formulation will involve training a supervised machine learning algorithm to identify feldspars.  If successful, we will work to develop an unsupervised neural network algorithm.  The unsupervised neural network algorithm will effectively create clusters automatically via self-organizing maps and then it will tag each mineral with its identified population.
 
@@ -199,7 +199,7 @@ We propose to investigate whether fiamme type and population change as a superer
 
 <img src="https://github.com/gennachiaro/phd_proposal/blob/master/content/images/vertical_var_annotated.png" width="75%"></img> 
 
-Figure 6: Bulk rock compositions, biotite crystal content (Bt), and total crystal content (CF) variation through time.  The yellow stars indicate horizons of interest that could show potential changes in eruptive material.  Locations 3 and 8 are intracaldera deposits and correlate with Ora 3 and Ora 8.  We have yet to sample from location 20, which is just south of the Ora 2 vitrophyre unit.  Figure is modified from Willcock et al., 2015.
+<p align="center">Figure 6: Bulk rock compositions, biotite crystal content (Bt), and total crystal content (CF) variation through time.  The yellow stars indicate horizons of interest that could show potential changes in eruptive material.  Locations 3 and 8 are intracaldera deposits and correlate with Ora 3 and Ora 8.  We have yet to sample from location 20, which is just south of the Ora 2 vitrophyre unit.  Figure is modified from Willcock et al., 2015.
 
 There has not been much work done regarding age dating for the Ora Ignimbrite.  Marocchi et al. (2008) obtained single zircon ages for Ora Ignimbrite of 277 +/- 2 Ma for the intracaldera fill and 274.1 +/- 1.6 Ma for the outflow.  These suggest a time break in the eruptive record.  Willcock et al. (2015) suggests that Ora experienced a two-stage eruptive history: the southern caldera collapsed first and the northern caldera followed.  However, there is no evidence for paleosols or reworked contacts, suggesting that the eruptions were closely spaced in time.  The zircon ages are in contrast with the inferred eruption timescale based on stratigraphic evidence.  In order to determine whether the Ora eruption lasted for millions of years or was constrained to a shorter time period, we plan to obtain Ar-Ar sanidine ages.  Argon is trapped upon eruption so these will provide eruptive ages.  We will first determine eruption ages for the intracaldera vitrophyre and the outflow vitrophyre to see if we can resolve discrete ages.  If so, Ar-Ar sanidine ages provide a methodology to “deconstruct” a supereruption into distinct volcanic pulses (Kay, 2011).  Combined with our work on fiamme type distribution for a stratigraphic column, we may be able to resolve maximum timescales of magma chamber depletion for the Ora system.
 
