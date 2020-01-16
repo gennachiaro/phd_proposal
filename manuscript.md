@@ -58,11 +58,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://gennachiaro.github.io/phd_proposal/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://gennachiaro.github.io/phd_proposal/v/91cbd91f12124c6c742e2f98ab54b0e305d6a635/" />
+  <link rel="alternate" type="text/html" href="https://gennachiaro.github.io/phd_proposal/v/4820f08ad4c23ac7ae8e5675f284767b11c7a65f/" />
 
-  <meta name="manubot_html_url_versioned" content="https://gennachiaro.github.io/phd_proposal/v/91cbd91f12124c6c742e2f98ab54b0e305d6a635/" />
+  <meta name="manubot_html_url_versioned" content="https://gennachiaro.github.io/phd_proposal/v/4820f08ad4c23ac7ae8e5675f284767b11c7a65f/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://gennachiaro.github.io/phd_proposal/v/91cbd91f12124c6c742e2f98ab54b0e305d6a635/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://gennachiaro.github.io/phd_proposal/v/4820f08ad4c23ac7ae8e5675f284767b11c7a65f/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -94,9 +94,9 @@ title: PhD Proposal
 
 <small><em>
 This manuscript
-([permalink](https://gennachiaro.github.io/phd_proposal/v/91cbd91f12124c6c742e2f98ab54b0e305d6a635/))
+([permalink](https://gennachiaro.github.io/phd_proposal/v/4820f08ad4c23ac7ae8e5675f284767b11c7a65f/))
 was automatically generated
-from [gennachiaro/phd_proposal@91cbd91](https://github.com/gennachiaro/phd_proposal/tree/91cbd91f12124c6c742e2f98ab54b0e305d6a635)
+from [gennachiaro/phd_proposal@4820f08](https://github.com/gennachiaro/phd_proposal/tree/4820f08ad4c23ac7ae8e5675f284767b11c7a65f)
 on January 16, 2020.
 </em></small>
 
@@ -207,25 +207,25 @@ There has not been much work done regarding age dating for the Ora Ignimbrite.  
 
 ## Methods
 
-*Sample Collection:*
+*Sample Collection: 
 
 The samples collected during the 2017 and 2019 field seasons are shown in figure 1 and their descriptions are listed in table 1.  Currently, we have a disproportionate amount of samples from the northern intracaldera.  In order to reduce the sampling bias for our spatial statistics, we will obtain more samples from the southern intracaldera and southern outflow.  Clustering analyses in ArcGIS requires at least 30 features to be reliable.  In order to sample a significant number of fiamme, we will make fiamme mounts to maximize sampling potential and analysis speed.  The ignimbrite matrix samples will be made into 75 x 50 mm billets.
 
-*Analytical Work:*
+*Analytical Work:
 
 We plan to obtain EDS scans of individual mineral grains and corresponding BSE images using the Tescan VEGA3 SEM at Vanderbilt University.  We will also collect trace element profiles using line scans with consistently spaced laser pits from the ThermoFisher iCAP Qc quadrupole ICPMS at Vanderbilt University.    
 
-*Hierarchical Clustering and Machine Learning in Python:*
+*Hierarchical Clustering and Machine Learning in Python:
 
 The skills to develop code for this project will be gained from taking DataCamp online courses and also by utilizing the abundant wealth of information on the internet.  The hierarchical clustering algorithm will effectively calculate the Euclidean distance between all the points and store them in a proximity matrix.  Points with the smallest distances separating them will be merged into clusters until only one single cluster is left.  A dendrogram is then created and the optimum number of clusters is determined visually by intersecting the tallest vertical line in the dendrogram.
 The machine learning algorithm will be trained to classify minerals into these pre-defined clusters based on major element data from an EDS map.  In order to test the efficacy of this method, we will first test it on a large thin section of bulk tuff from the vitrophyre.  If we can estimate the bulk eruptive material here, we can apply the methodology to a single stratigraphic section.  If successful, we can apply this to a stratigraphic horizon in another part of the caldera and see if we observe similar results.   
 
 
-*Spatial Statistics in ArcGIS:*
+*Spatial Statistics in ArcGIS:
 
 Proficiency in ArcGIS was gained from an Advanced Spatial Analysis course taken in 2018 at Vanderbilt University.  ArcGIS skills will be refined by participating in an ESRI MOOC titled Spatial Data Science: The New Frontier in Analytics which runs from February 12-April 9, 2020.  The Spatial Analysis Research Laboratory (SARL) at Vanderbilt University will also provide expertise in GIS if any roadblocks may arise.   
 
-*Ar-Ar Dating:*
+*Ar-Ar Dating:
 
 Ar-Ar sanidine ages will be obtained from the New Mexico Geochronology Research Laboratory (NMGRL) at New Mexico Tech.  Sanidines will be separated, irradiated, and prepared for analysis using a Thermo Scientific Helix Multicollector.  Funding for Ar-Ar dating will hopefully be provided by the Awards for Geochronology Student Research 2 (AGeS2) grant which will provide support for one year in 2020.  
 
