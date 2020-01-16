@@ -58,11 +58,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://gennachiaro.github.io/phd_proposal/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://gennachiaro.github.io/phd_proposal/v/c5d58b456345934daeec60e835f0e53ab98d09a5/" />
+  <link rel="alternate" type="text/html" href="https://gennachiaro.github.io/phd_proposal/v/67efe01be8540e46f69813a4d53f015458f0ec43/" />
 
-  <meta name="manubot_html_url_versioned" content="https://gennachiaro.github.io/phd_proposal/v/c5d58b456345934daeec60e835f0e53ab98d09a5/" />
+  <meta name="manubot_html_url_versioned" content="https://gennachiaro.github.io/phd_proposal/v/67efe01be8540e46f69813a4d53f015458f0ec43/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://gennachiaro.github.io/phd_proposal/v/c5d58b456345934daeec60e835f0e53ab98d09a5/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://gennachiaro.github.io/phd_proposal/v/67efe01be8540e46f69813a4d53f015458f0ec43/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -94,9 +94,9 @@ title: PhD Proposal
 
 <small><em>
 This manuscript
-([permalink](https://gennachiaro.github.io/phd_proposal/v/c5d58b456345934daeec60e835f0e53ab98d09a5/))
+([permalink](https://gennachiaro.github.io/phd_proposal/v/67efe01be8540e46f69813a4d53f015458f0ec43/))
 was automatically generated
-from [gennachiaro/phd_proposal@c5d58b4](https://github.com/gennachiaro/phd_proposal/tree/c5d58b456345934daeec60e835f0e53ab98d09a5)
+from [gennachiaro/phd_proposal@67efe01](https://github.com/gennachiaro/phd_proposal/tree/67efe01be8540e46f69813a4d53f015458f0ec43)
 on January 16, 2020.
 </em></small>
 
@@ -127,9 +127,7 @@ on January 16, 2020.
 
 The Ora Ignimbrite (277 +/- 2 Ma) is a welded crystal-rich supereruption-sized deposit located in the southern Alps of northern Italy.  Ora represents the final eruptive pulse of the Athesian Volcanic Group (285-274 Ma), a slab-rollback ignimbrite flareup resulting from the oblique subduction of the Paleo-Tethys ocean under Eurasia in the Permian (Marocchi et al., 2008; Best et al., 2016).  This volcanic terrain escaped alpine deformation and has been scoured by glacial incision, exposing intracaldera deposits reaching thicknesses of 1350 m.  Outflow deposits are less than 250 m thick and are stratigraphically similar to the late-erupted deposits (Willcock et al., 2013) (Fig 1).  The Ora eruption is interpreted to have had an early caldera collapse, based on the large amount of intracaldera fill and the fact that the outflow correlates with the late-erupted units of the intracaldera deposit (Willcock et al., 2013).  Furthermore, Willcock et al. (2015) identify two discrete collapse calderas (northern and southern) and variations in bulk rock compositions and biotite content between the two calderas suggest that multiple magma chambers were evacuated to form the Ora Ignimbrite.
 
- <img src="phd_proposal/content/images/ora_sample_sites_labelled.png" alt="alt text" title="Title" />
-
- 
+![alt text](https://github.com/gennachiaro/phd_proposal/blob/master/content/images/ora_sample_sites_labelled.png)
 
 Figure 1: A map of the field location.  The four fiamme types identified in Chiaro et al. (in prep) are listed with their corresponding vitrophyre locations.  
 
@@ -161,7 +159,7 @@ Table 2: The four fiamme types and their location, crystal content, maximum phen
 
  
 
-	Glass trace elements illuminate at least three distinct populations for both the VCCR and MG fiamme, suggesting the presence of multiple magma batches within the Ora system (Fig. 2). 
+Glass trace elements illuminate at least three distinct populations for both the VCCR and MG fiamme, suggesting the presence of multiple magma batches within the Ora system (Fig. 2). 
 
 
  
