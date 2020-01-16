@@ -58,11 +58,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://gennachiaro.github.io/phd_proposal/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://gennachiaro.github.io/phd_proposal/v/01aaa48f8f1ab137af51daa3c820ce563db7cf00/" />
+  <link rel="alternate" type="text/html" href="https://gennachiaro.github.io/phd_proposal/v/440e281640860ef55cb649710059edcafb3d7233/" />
 
-  <meta name="manubot_html_url_versioned" content="https://gennachiaro.github.io/phd_proposal/v/01aaa48f8f1ab137af51daa3c820ce563db7cf00/" />
+  <meta name="manubot_html_url_versioned" content="https://gennachiaro.github.io/phd_proposal/v/440e281640860ef55cb649710059edcafb3d7233/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://gennachiaro.github.io/phd_proposal/v/01aaa48f8f1ab137af51daa3c820ce563db7cf00/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://gennachiaro.github.io/phd_proposal/v/440e281640860ef55cb649710059edcafb3d7233/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -94,9 +94,9 @@ title: PhD Proposal
 
 <small><em>
 This manuscript
-([permalink](https://gennachiaro.github.io/phd_proposal/v/01aaa48f8f1ab137af51daa3c820ce563db7cf00/))
+([permalink](https://gennachiaro.github.io/phd_proposal/v/440e281640860ef55cb649710059edcafb3d7233/))
 was automatically generated
-from [gennachiaro/phd_proposal@01aaa48](https://github.com/gennachiaro/phd_proposal/tree/01aaa48f8f1ab137af51daa3c820ce563db7cf00)
+from [gennachiaro/phd_proposal@440e281](https://github.com/gennachiaro/phd_proposal/tree/440e281640860ef55cb649710059edcafb3d7233)
 on January 16, 2020.
 </em></small>
 
@@ -160,11 +160,14 @@ Recent work has attempted to understand the pre-eruptive architecture of the Ora
 
 <img align="center" src ="https://github.com/gennachiaro/phd_proposal/blob/master/content/images/fiamme-types.png">
 
+
 Glass trace elements illuminate at least three distinct populations for both the VCCR and MG fiamme, suggesting the presence of multiple magma batches within the Ora system (Fig. 2).  Pre-eruptive storage pressures were calculated using the Rhyolite-MELTS (Q2F) geobarometer (Fig. 3).  This work suggests that there were two potential scenarios for the pre-eruptive architecture of the Ora magma system.  Either there were two distinct crystal mush zones located at slightly different depths within the crust, or there was a continuous crystal mush present with multiple heterogeneous zones located throughout (Chiaro et al., in prep).  
+
 
 <img align="center" src ="https://github.com/gennachiaro/phd_proposal/blob/master/content/images/ree%2Btrace-hsr-mg_vccr.png">
 
 <p align="center">Figure 2: Rare earth element diagrams and a plot of strontium vs. barium illustrate the six discrete glass populations in the Medium-Grained (MG) and Very Coarse-Grained Crystal-Rich (VCCR) fiamme.
+
 
 <img align="center" src ="https://github.com/gennachiaro/phd_proposal/blob/master/content/images/pressures-sio2-samples-grouped.png">
  
