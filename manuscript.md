@@ -58,11 +58,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://gennachiaro.github.io/phd_proposal/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://gennachiaro.github.io/phd_proposal/v/5ea890c96622a0132df28d06cadc53c45553cc8c/" />
+  <link rel="alternate" type="text/html" href="https://gennachiaro.github.io/phd_proposal/v/322d7a7526d5742619c662caae5d4a461ebd726f/" />
 
-  <meta name="manubot_html_url_versioned" content="https://gennachiaro.github.io/phd_proposal/v/5ea890c96622a0132df28d06cadc53c45553cc8c/" />
+  <meta name="manubot_html_url_versioned" content="https://gennachiaro.github.io/phd_proposal/v/322d7a7526d5742619c662caae5d4a461ebd726f/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://gennachiaro.github.io/phd_proposal/v/5ea890c96622a0132df28d06cadc53c45553cc8c/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://gennachiaro.github.io/phd_proposal/v/322d7a7526d5742619c662caae5d4a461ebd726f/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -94,9 +94,9 @@ title: PhD Proposal
 
 <small><em>
 This manuscript
-([permalink](https://gennachiaro.github.io/phd_proposal/v/5ea890c96622a0132df28d06cadc53c45553cc8c/))
+([permalink](https://gennachiaro.github.io/phd_proposal/v/322d7a7526d5742619c662caae5d4a461ebd726f/))
 was automatically generated
-from [gennachiaro/phd_proposal@5ea890c](https://github.com/gennachiaro/phd_proposal/tree/5ea890c96622a0132df28d06cadc53c45553cc8c)
+from [gennachiaro/phd_proposal@322d7a7](https://github.com/gennachiaro/phd_proposal/tree/322d7a7526d5742619c662caae5d4a461ebd726f)
 on January 16, 2020.
 </em></small>
 
@@ -127,10 +127,8 @@ on January 16, 2020.
 
 The Ora Ignimbrite (277 +/- 2 Ma) is a welded crystal-rich supereruption-sized deposit located in the southern Alps of northern Italy.  Ora represents the final eruptive pulse of the Athesian Volcanic Group (285-274 Ma), a slab-rollback ignimbrite flareup resulting from the oblique subduction of the Paleo-Tethys ocean under Eurasia in the Permian (Marocchi et al., 2008; Best et al., 2016).  This volcanic terrain escaped alpine deformation and has been scoured by glacial incision, exposing intracaldera deposits reaching thicknesses of 1350 m.  Outflow deposits are less than 250 m thick and are stratigraphically similar to the late-erupted deposits (Willcock et al., 2013) (Fig 1).  The Ora eruption is interpreted to have had an early caldera collapse, based on the large amount of intracaldera fill and the fact that the outflow correlates with the late-erupted units of the intracaldera deposit (Willcock et al., 2013).  Furthermore, Willcock et al. (2015) identify two discrete collapse calderas (northern and southern) and variations in bulk rock compositions and biotite content between the two calderas suggest that multiple magma chambers were evacuated to form the Ora Ignimbrite.
 
-
-![Ora Sample Sites](https://github.com/gennachiaro/phd_proposal/blob/master/content/images/ora_sample_sites_labelled.png)
-
-<img align="center" src ="https://github.com/gennachiaro/phd_proposal/blob/master/content/images/ora_sample_sites_labelled.png">
+<p align="center">
+<img src="https://user-images.githubusercontent.com/56849646/72564434-5238ba80-3875-11ea-92ce-a7e11f834ea9.png" width="90%"></p> 
 
 <p align="center">Figure 1: A map of the field location.  The four fiamme types identified in Chiaro et al. (in prep) are listed with their corresponding vitrophyre locations.  
 
@@ -160,6 +158,11 @@ The Ora Ignimbrite (277 +/- 2 Ma) is a welded crystal-rich supereruption-sized d
 Recent work has attempted to understand the pre-eruptive architecture of the Ora system by using textural, mineralogical, and geochemical features of fiamme (Chiaro et al., in prep).  Fiamme were collected from two vitrophyre horizons: an early-erupted intracaldera deposit and a late-erupted outflow deposit in order to find well-preserved glass.  These fiamme were initially grouped into four types based on crystal content and biotite content (Table 2).  Glass major elements further verified the categorization scheme.
 
 <p align="center">Table 2: The four fiamme types and their location, crystal content, maximum phenocryst size, and mafic content (Chiaro et al., in prep). 
+
+
+<p align="center">
+<img src="https://github.com/gennachiaro/phd_proposal/blob/master/content/images/fiamme-types.png" width="90%"></p> 
+
 
 <img align="center" src ="https://github.com/gennachiaro/phd_proposal/blob/master/content/images/fiamme-types.png">
 
