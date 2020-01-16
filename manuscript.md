@@ -58,11 +58,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://gennachiaro.github.io/phd_proposal/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://gennachiaro.github.io/phd_proposal/v/a34cda8744a9707c18c989eff48da9799eb92d3a/" />
+  <link rel="alternate" type="text/html" href="https://gennachiaro.github.io/phd_proposal/v/bb0a0cf32517cb8ec22ca759c4b23cdcc4b0b11c/" />
 
-  <meta name="manubot_html_url_versioned" content="https://gennachiaro.github.io/phd_proposal/v/a34cda8744a9707c18c989eff48da9799eb92d3a/" />
+  <meta name="manubot_html_url_versioned" content="https://gennachiaro.github.io/phd_proposal/v/bb0a0cf32517cb8ec22ca759c4b23cdcc4b0b11c/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://gennachiaro.github.io/phd_proposal/v/a34cda8744a9707c18c989eff48da9799eb92d3a/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://gennachiaro.github.io/phd_proposal/v/bb0a0cf32517cb8ec22ca759c4b23cdcc4b0b11c/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -94,9 +94,9 @@ title: PhD Proposal
 
 <small><em>
 This manuscript
-([permalink](https://gennachiaro.github.io/phd_proposal/v/a34cda8744a9707c18c989eff48da9799eb92d3a/))
+([permalink](https://gennachiaro.github.io/phd_proposal/v/bb0a0cf32517cb8ec22ca759c4b23cdcc4b0b11c/))
 was automatically generated
-from [gennachiaro/phd_proposal@a34cda8](https://github.com/gennachiaro/phd_proposal/tree/a34cda8744a9707c18c989eff48da9799eb92d3a)
+from [gennachiaro/phd_proposal@bb0a0cf](https://github.com/gennachiaro/phd_proposal/tree/bb0a0cf32517cb8ec22ca759c4b23cdcc4b0b11c)
 on January 16, 2020.
 </em></small>
 
@@ -171,7 +171,7 @@ Figure 2: Rare earth element diagrams and a plot of strontium vs. barium illustr
 Figure 3: Different fiamme types were stored at different pressures in the crust, with a progression of erupting shallower to deeper magmas through time.  Silica content vs. pressure shows variable storage depths for the fine-grained crystal-poor melt, suggesting that there were multiple, small melt bodies located at different depths throughout the magma chamber (from Chiaro et al., in prep).
 
 
-## Approach {.page_break_before}
+## Approach
 
 Building on the work from Chiaro et al. (in prep), we propose to use mineral compositions in order to apply this characterization scheme to the entire Ora deposit.  Since unaltered glass is only present in the vitrophyre horizons, we plan to use mineral compositions to classify each fiamma.  We will collect trace and major elements of plagioclase, alkali feldspar and biotite in fiamme.  Preliminary work shows that biotite and plagioclase major elements can be used to differentiate intracaldera vs. outflow fiamme.  Furthermore, biotite major element compositions can be used to infer both fiamme type and population (Fig. 4).  
 
