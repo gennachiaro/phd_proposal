@@ -14,13 +14,13 @@ header-includes: '<!--
 
   <meta name="dc.format" content="text/html" />
 
-  <meta name="dc.title" content="PhD Proposal" />
+  <meta name="dc.title" content="PhD Proposal Draft" />
 
-  <meta name="citation_title" content="PhD Proposal" />
+  <meta name="citation_title" content="PhD Proposal Draft" />
 
-  <meta property="og:title" content="PhD Proposal" />
+  <meta property="og:title" content="PhD Proposal Draft" />
 
-  <meta property="twitter:title" content="PhD Proposal" />
+  <meta property="twitter:title" content="PhD Proposal Draft" />
 
   <meta name="dc.date" content="2020-01-16" />
 
@@ -58,11 +58,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://gennachiaro.github.io/phd_proposal/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://gennachiaro.github.io/phd_proposal/v/dcd520ce8a6ab8093797f52b9f724f6f8db1952f/" />
+  <link rel="alternate" type="text/html" href="https://gennachiaro.github.io/phd_proposal/v/6a9a82ab0cfd85c92c063e81c10a6dfe35ba3e85/" />
 
-  <meta name="manubot_html_url_versioned" content="https://gennachiaro.github.io/phd_proposal/v/dcd520ce8a6ab8093797f52b9f724f6f8db1952f/" />
+  <meta name="manubot_html_url_versioned" content="https://gennachiaro.github.io/phd_proposal/v/6a9a82ab0cfd85c92c063e81c10a6dfe35ba3e85/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://gennachiaro.github.io/phd_proposal/v/dcd520ce8a6ab8093797f52b9f724f6f8db1952f/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://gennachiaro.github.io/phd_proposal/v/6a9a82ab0cfd85c92c063e81c10a6dfe35ba3e85/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -84,7 +84,7 @@ manubot-clear-requests-cache: false
 manubot-output-bibliography: output/references.json
 manubot-output-citekeys: output/citations.tsv
 manubot-requests-cache-path: ci/cache/requests-cache
-title: PhD Proposal
+title: PhD Proposal Draft
 ...
 
 
@@ -94,9 +94,9 @@ title: PhD Proposal
 
 <small><em>
 This manuscript
-([permalink](https://gennachiaro.github.io/phd_proposal/v/dcd520ce8a6ab8093797f52b9f724f6f8db1952f/))
+([permalink](https://gennachiaro.github.io/phd_proposal/v/6a9a82ab0cfd85c92c063e81c10a6dfe35ba3e85/))
 was automatically generated
-from [gennachiaro/phd_proposal@dcd520c](https://github.com/gennachiaro/phd_proposal/tree/dcd520ce8a6ab8093797f52b9f724f6f8db1952f)
+from [gennachiaro/phd_proposal@6a9a82a](https://github.com/gennachiaro/phd_proposal/tree/6a9a82ab0cfd85c92c063e81c10a6dfe35ba3e85)
 on January 16, 2020.
 </em></small>
 
