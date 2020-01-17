@@ -58,11 +58,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://gennachiaro.github.io/phd_proposal/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://gennachiaro.github.io/phd_proposal/v/7d6e95be09caf0072a0ef12efdcc1da9bf6a3507/" />
+  <link rel="alternate" type="text/html" href="https://gennachiaro.github.io/phd_proposal/v/8268841c0c69657378756fa02163dbe7380faa32/" />
 
-  <meta name="manubot_html_url_versioned" content="https://gennachiaro.github.io/phd_proposal/v/7d6e95be09caf0072a0ef12efdcc1da9bf6a3507/" />
+  <meta name="manubot_html_url_versioned" content="https://gennachiaro.github.io/phd_proposal/v/8268841c0c69657378756fa02163dbe7380faa32/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://gennachiaro.github.io/phd_proposal/v/7d6e95be09caf0072a0ef12efdcc1da9bf6a3507/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://gennachiaro.github.io/phd_proposal/v/8268841c0c69657378756fa02163dbe7380faa32/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -94,9 +94,9 @@ title: PhD Proposal Draft
 
 <small><em>
 This manuscript
-([permalink](https://gennachiaro.github.io/phd_proposal/v/7d6e95be09caf0072a0ef12efdcc1da9bf6a3507/))
+([permalink](https://gennachiaro.github.io/phd_proposal/v/8268841c0c69657378756fa02163dbe7380faa32/))
 was automatically generated
-from [gennachiaro/phd_proposal@7d6e95b](https://github.com/gennachiaro/phd_proposal/tree/7d6e95be09caf0072a0ef12efdcc1da9bf6a3507)
+from [gennachiaro/phd_proposal@8268841](https://github.com/gennachiaro/phd_proposal/tree/8268841c0c69657378756fa02163dbe7380faa32)
 on January 17, 2020.
 </em></small>
 
@@ -225,8 +225,8 @@ We plan to obtain EDS scans of individual mineral grains and corresponding BSE i
 *Hierarchical Clustering and Machine Learning in Python:*
 
 The skills to develop code for this project will be gained from taking DataCamp online courses and also by utilizing the abundant wealth of information on the internet.  The hierarchical clustering algorithm will effectively calculate the Euclidean distance between all the points and store them in a proximity matrix.  Points with the smallest distances separating them will be merged into clusters until only one single cluster is left.  A dendrogram is then created and the optimum number of clusters is determined visually by intersecting the tallest vertical line in the dendrogram.
-The machine learning algorithm will be trained to classify minerals into these pre-defined clusters based on major element data from an EDS map.  In order to test the efficacy of this method, we will first test it on a large thin section of bulk tuff from the vitrophyre.  If we can estimate the bulk eruptive material here, we can apply the methodology to a single stratigraphic section.  If successful, we can apply this to a stratigraphic horizon in another part of the caldera and see if we observe similar results.   
 
+The machine learning algorithm will be trained to classify minerals into these pre-defined clusters based on major element data from an EDS map.  In order to test the efficacy of this method, we will first test it on a large thin section of bulk tuff from the vitrophyre.  If we can estimate the bulk eruptive material here, we can apply the methodology to a single stratigraphic section.  If successful, we can apply this to a stratigraphic horizon in another part of the caldera and see if we observe similar results.   
 
 *Spatial Statistics in ArcGIS:*
 
