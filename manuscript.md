@@ -58,11 +58,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://gennachiaro.github.io/phd_proposal/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://gennachiaro.github.io/phd_proposal/v/45ee028c7d17975e5a2b670d3b64f05e0c782729/" />
+  <link rel="alternate" type="text/html" href="https://gennachiaro.github.io/phd_proposal/v/1181553deb1bb28f2fb70750d6cca4ffbb0c835e/" />
 
-  <meta name="manubot_html_url_versioned" content="https://gennachiaro.github.io/phd_proposal/v/45ee028c7d17975e5a2b670d3b64f05e0c782729/" />
+  <meta name="manubot_html_url_versioned" content="https://gennachiaro.github.io/phd_proposal/v/1181553deb1bb28f2fb70750d6cca4ffbb0c835e/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://gennachiaro.github.io/phd_proposal/v/45ee028c7d17975e5a2b670d3b64f05e0c782729/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://gennachiaro.github.io/phd_proposal/v/1181553deb1bb28f2fb70750d6cca4ffbb0c835e/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -94,9 +94,9 @@ title: PhD Proposal Draft
 
 <small><em>
 This manuscript
-([permalink](https://gennachiaro.github.io/phd_proposal/v/45ee028c7d17975e5a2b670d3b64f05e0c782729/))
+([permalink](https://gennachiaro.github.io/phd_proposal/v/1181553deb1bb28f2fb70750d6cca4ffbb0c835e/))
 was automatically generated
-from [gennachiaro/phd_proposal@45ee028](https://github.com/gennachiaro/phd_proposal/tree/45ee028c7d17975e5a2b670d3b64f05e0c782729)
+from [gennachiaro/phd_proposal@1181553](https://github.com/gennachiaro/phd_proposal/tree/1181553deb1bb28f2fb70750d6cca4ffbb0c835e)
 on January 17, 2020.
 </em></small>
 
@@ -263,6 +263,9 @@ Ar-Ar sanidine ages will be obtained from the New Mexico Geochronology Research 
 
 
 ## Broader Impacts
+
+Our community has developed novel methods to assess the records preserved within individual crystals in order to understand the evolution of magmatic systems.  With the expansion of open source science, we have capitalized on collaboration and creating workflows that are accessible to all.  This proposed project will develop python scripts that will automate statistical analyses and tedious point counting to further the open science revolution. 
+
 
 Developing open-source science with python with hopes of uploading to the ENKI server for distribution.  
 Mentoring undergraduates!
