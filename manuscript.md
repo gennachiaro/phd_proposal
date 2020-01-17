@@ -58,11 +58,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://gennachiaro.github.io/phd_proposal/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://gennachiaro.github.io/phd_proposal/v/8268841c0c69657378756fa02163dbe7380faa32/" />
+  <link rel="alternate" type="text/html" href="https://gennachiaro.github.io/phd_proposal/v/45ee028c7d17975e5a2b670d3b64f05e0c782729/" />
 
-  <meta name="manubot_html_url_versioned" content="https://gennachiaro.github.io/phd_proposal/v/8268841c0c69657378756fa02163dbe7380faa32/" />
+  <meta name="manubot_html_url_versioned" content="https://gennachiaro.github.io/phd_proposal/v/45ee028c7d17975e5a2b670d3b64f05e0c782729/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://gennachiaro.github.io/phd_proposal/v/8268841c0c69657378756fa02163dbe7380faa32/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://gennachiaro.github.io/phd_proposal/v/45ee028c7d17975e5a2b670d3b64f05e0c782729/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -94,9 +94,9 @@ title: PhD Proposal Draft
 
 <small><em>
 This manuscript
-([permalink](https://gennachiaro.github.io/phd_proposal/v/8268841c0c69657378756fa02163dbe7380faa32/))
+([permalink](https://gennachiaro.github.io/phd_proposal/v/45ee028c7d17975e5a2b670d3b64f05e0c782729/))
 was automatically generated
-from [gennachiaro/phd_proposal@8268841](https://github.com/gennachiaro/phd_proposal/tree/8268841c0c69657378756fa02163dbe7380faa32)
+from [gennachiaro/phd_proposal@45ee028](https://github.com/gennachiaro/phd_proposal/tree/45ee028c7d17975e5a2b670d3b64f05e0c782729)
 on January 17, 2020.
 </em></small>
 
@@ -119,6 +119,19 @@ on January 17, 2020.
 
 ## Motivation
 
+Supereruptions are the most extreme expression of volcanism on our planet.  However, we have yet to observe a supereruption in the modern day; the most recent one was Oranui in New Zealand 26.6 kyr.  Thus, we are limited to studying the material that is left behind (glass and minerals) to inform our hypotheses regarding the processes that lead to the formation of large silicic magma systems.  By investigating the pre-eruptive conditions of supereruptions, we can fill our gaps in knowledge regarding the structure and evolution of highly evolved, trans-crustal magma systems. 
+
+The following research questions are the main focus of my dissertation: 
+
+1.	Can we use mineral compositions to identify fiamme type and population?
+
+2.	Do we observe similar histories recorded in the mineral populations?  What can this tell us about magmatic processes during the assembly and eruption of large silicic systems?
+
+3.	Can we observe geospatial clustering of fiamme populations?  Does this provide evidence for multiple laterally juxtaposed magma bodies, á la Begué et al., 2014?
+
+4.	How does a large silicic magma system evolve during eruption?   
+
+The proposed project involves developing major and trace element-based hierarchical clustering algorithms in python to identify clusters of minerals that correspond to the pre-defined fiamme types and populations identified in Chiaro et al. (in prep).  We then plan to employ a multi-distance spatial clustering analysis (Ripley’s k-function) in ArcGIS to determine the distribution of fiamme types and populations throughout the entire deposit.  The stratigraphic columns mapped by Willcock et al. (2013) will be used to identify areas of interest that may represent time gaps in the eruption and Ar-Ar sanidine ages will be obtained for the noted horizons.  Sequence stratigraphy focused on mapping the changes in fiamme type and population will provide insight on relative timescales of magma chamber depletion.  By integrating this project with the Rhyolite-MELTS pressures calculated in Chiaro et al., (in prep), we hope to obtain a four-dimensional view that would allow us to see how a supereruption-sized magma system evolved through time.    
 
 
 
