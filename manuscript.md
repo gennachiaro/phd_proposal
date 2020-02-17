@@ -14,13 +14,13 @@ header-includes: '<!--
 
   <meta name="dc.format" content="text/html" />
 
-  <meta name="dc.title" content="PhD Proposal Draft" />
+  <meta name="dc.title" content="Investigating the Crystal Cargo of Fiamme from the Ora Ignimbrite (Permian, Italy): Elucidating the Spatio-Temporal Evolution of a Crystal-Rich, Supereruption-Sized Magma System" />
 
-  <meta name="citation_title" content="PhD Proposal Draft" />
+  <meta name="citation_title" content="Investigating the Crystal Cargo of Fiamme from the Ora Ignimbrite (Permian, Italy): Elucidating the Spatio-Temporal Evolution of a Crystal-Rich, Supereruption-Sized Magma System" />
 
-  <meta property="og:title" content="PhD Proposal Draft" />
+  <meta property="og:title" content="Investigating the Crystal Cargo of Fiamme from the Ora Ignimbrite (Permian, Italy): Elucidating the Spatio-Temporal Evolution of a Crystal-Rich, Supereruption-Sized Magma System" />
 
-  <meta property="twitter:title" content="PhD Proposal Draft" />
+  <meta property="twitter:title" content="Investigating the Crystal Cargo of Fiamme from the Ora Ignimbrite (Permian, Italy): Elucidating the Spatio-Temporal Evolution of a Crystal-Rich, Supereruption-Sized Magma System" />
 
   <meta name="dc.date" content="2020-02-17" />
 
@@ -58,11 +58,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://gennachiaro.github.io/phd_proposal/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://gennachiaro.github.io/phd_proposal/v/80d9b517dedb3de1df8a9f43f8692c7583d444f2/" />
+  <link rel="alternate" type="text/html" href="https://gennachiaro.github.io/phd_proposal/v/86efd3120735dfd89d14ecbb357e4160bb7ddae6/" />
 
-  <meta name="manubot_html_url_versioned" content="https://gennachiaro.github.io/phd_proposal/v/80d9b517dedb3de1df8a9f43f8692c7583d444f2/" />
+  <meta name="manubot_html_url_versioned" content="https://gennachiaro.github.io/phd_proposal/v/86efd3120735dfd89d14ecbb357e4160bb7ddae6/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://gennachiaro.github.io/phd_proposal/v/80d9b517dedb3de1df8a9f43f8692c7583d444f2/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://gennachiaro.github.io/phd_proposal/v/86efd3120735dfd89d14ecbb357e4160bb7ddae6/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -84,7 +84,7 @@ manubot-clear-requests-cache: false
 manubot-output-bibliography: output/references.json
 manubot-output-citekeys: output/citations.tsv
 manubot-requests-cache-path: ci/cache/requests-cache
-title: PhD Proposal Draft
+title: 'Investigating the Crystal Cargo of Fiamme from the Ora Ignimbrite (Permian, Italy): Elucidating the Spatio-Temporal Evolution of a Crystal-Rich, Supereruption-Sized Magma System'
 ...
 
 
@@ -94,9 +94,9 @@ title: PhD Proposal Draft
 
 <small><em>
 This manuscript
-([permalink](https://gennachiaro.github.io/phd_proposal/v/80d9b517dedb3de1df8a9f43f8692c7583d444f2/))
+([permalink](https://gennachiaro.github.io/phd_proposal/v/86efd3120735dfd89d14ecbb357e4160bb7ddae6/))
 was automatically generated
-from [gennachiaro/phd_proposal@80d9b51](https://github.com/gennachiaro/phd_proposal/tree/80d9b517dedb3de1df8a9f43f8692c7583d444f2)
+from [gennachiaro/phd_proposal@86efd31](https://github.com/gennachiaro/phd_proposal/tree/86efd3120735dfd89d14ecbb357e4160bb7ddae6)
 on February 17, 2020.
 </em></small>
 
