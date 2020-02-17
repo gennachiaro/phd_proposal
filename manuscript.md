@@ -58,11 +58,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://gennachiaro.github.io/phd_proposal/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://gennachiaro.github.io/phd_proposal/v/affdac7ce83148465055790cc4222fe4509c435a/" />
+  <link rel="alternate" type="text/html" href="https://gennachiaro.github.io/phd_proposal/v/8b98f815b7588cddecc965de3328ebab03cb43c7/" />
 
-  <meta name="manubot_html_url_versioned" content="https://gennachiaro.github.io/phd_proposal/v/affdac7ce83148465055790cc4222fe4509c435a/" />
+  <meta name="manubot_html_url_versioned" content="https://gennachiaro.github.io/phd_proposal/v/8b98f815b7588cddecc965de3328ebab03cb43c7/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://gennachiaro.github.io/phd_proposal/v/affdac7ce83148465055790cc4222fe4509c435a/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://gennachiaro.github.io/phd_proposal/v/8b98f815b7588cddecc965de3328ebab03cb43c7/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -94,9 +94,9 @@ title: 'Investigating the Crystal Cargo of Fiamme from the Ora Ignimbrite (Permi
 
 <small><em>
 This manuscript
-([permalink](https://gennachiaro.github.io/phd_proposal/v/affdac7ce83148465055790cc4222fe4509c435a/))
+([permalink](https://gennachiaro.github.io/phd_proposal/v/8b98f815b7588cddecc965de3328ebab03cb43c7/))
 was automatically generated
-from [gennachiaro/phd_proposal@affdac7](https://github.com/gennachiaro/phd_proposal/tree/affdac7ce83148465055790cc4222fe4509c435a)
+from [gennachiaro/phd_proposal@8b98f81](https://github.com/gennachiaro/phd_proposal/tree/8b98f815b7588cddecc965de3328ebab03cb43c7)
 on February 17, 2020.
 </em></small>
 
@@ -140,7 +140,7 @@ The Permian Ora Ignimbrites (>1,200 km3) are advantageous deposits for this stud
 
 ## Background
 
-The Ora Ignimbrite (277 +/- 2 Ma) is a welded crystal-rich supereruption-sized deposit located in the southern Alps of northern Italy.  Ora represents the final eruptive pulse of the Athesian Volcanic Group (285-274 Ma), a slab-rollback ignimbrite flareup resulting from the oblique subduction of the Paleo-Tethys ocean under Eurasia in the Permian (Marocchi et al., 2008; Best et al., 2016).  This volcanic terrain escaped alpine deformation and has been scoured by glacial incision, exposing intracaldera deposits reaching thicknesses of 1350 m.  Outflow deposits are less than 250 m thick and are stratigraphically similar to the late-erupted deposits (Willcock et al., 2013) (Fig 1).  The Ora eruption is interpreted to have had an early caldera collapse, based on the large amount of intracaldera fill and the fact that the outflow correlates with the late-erupted units of the intracaldera deposit (Willcock et al., 2013).  Furthermore, Willcock et al. (2015) identify two discrete collapse calderas (northern and southern) and variations in bulk rock compositions and biotite content between the two calderas suggest that multiple magma chambers were evacuated to form the Ora Ignimbrite.
+The supereruption-scale Ora Ignimbrites are products of a flareup resulting from subduction of the Paleotethys Ocean and the consequent formation of Pangaea (Cassinis et al., 2012).  Glacial incision of the Permian Ora Ignimbrites (>1,200 km3) reveals heterogeneous intracaldera deposits with >1,000 m of relief.  Less voluminous outflow was emplaced to the north and south of the caldera and is stratigraphically similar to late-erupted intracaldera units (Marocchi et al., 2008).  The Ora deposits are interpreted to be low-intensity eruptions that tapped multiple magma bodies and were sourced from discrete vents (Willcock et al., 2015).  Bulk rock chemistry and mineralogy suggest that caldera collapse and eruption initiated in the south and migrated northward through time (Willcock et al., 2013).
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/56849646/72564434-5238ba80-3875-11ea-92ce-a7e11f834ea9.png" width="90%"></p> 
