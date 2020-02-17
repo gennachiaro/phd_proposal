@@ -3,7 +3,7 @@ author-meta:
 - Genna Chiaro
 bibliography:
 - content/manual-references.json
-date-meta: '2020-01-17'
+date-meta: '2020-02-17'
 header-includes: '<!--
 
   Manubot generated metadata rendered from header-includes-template.html.
@@ -22,9 +22,9 @@ header-includes: '<!--
 
   <meta property="twitter:title" content="PhD Proposal Draft" />
 
-  <meta name="dc.date" content="2020-01-17" />
+  <meta name="dc.date" content="2020-02-17" />
 
-  <meta name="citation_publication_date" content="2020-01-17" />
+  <meta name="citation_publication_date" content="2020-02-17" />
 
   <meta name="dc.language" content="en-US" />
 
@@ -58,11 +58,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://gennachiaro.github.io/phd_proposal/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://gennachiaro.github.io/phd_proposal/v/f13741da845e11beb67c18133c9c7dc646311d10/" />
+  <link rel="alternate" type="text/html" href="https://gennachiaro.github.io/phd_proposal/v/80d9b517dedb3de1df8a9f43f8692c7583d444f2/" />
 
-  <meta name="manubot_html_url_versioned" content="https://gennachiaro.github.io/phd_proposal/v/f13741da845e11beb67c18133c9c7dc646311d10/" />
+  <meta name="manubot_html_url_versioned" content="https://gennachiaro.github.io/phd_proposal/v/80d9b517dedb3de1df8a9f43f8692c7583d444f2/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://gennachiaro.github.io/phd_proposal/v/f13741da845e11beb67c18133c9c7dc646311d10/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://gennachiaro.github.io/phd_proposal/v/80d9b517dedb3de1df8a9f43f8692c7583d444f2/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -94,10 +94,10 @@ title: PhD Proposal Draft
 
 <small><em>
 This manuscript
-([permalink](https://gennachiaro.github.io/phd_proposal/v/f13741da845e11beb67c18133c9c7dc646311d10/))
+([permalink](https://gennachiaro.github.io/phd_proposal/v/80d9b517dedb3de1df8a9f43f8692c7583d444f2/))
 was automatically generated
-from [gennachiaro/phd_proposal@f13741d](https://github.com/gennachiaro/phd_proposal/tree/f13741da845e11beb67c18133c9c7dc646311d10)
-on January 17, 2020.
+from [gennachiaro/phd_proposal@80d9b51](https://github.com/gennachiaro/phd_proposal/tree/80d9b517dedb3de1df8a9f43f8692c7583d444f2)
+on February 17, 2020.
 </em></small>
 
 ## Authors
@@ -190,6 +190,13 @@ Glass trace elements illuminate at least three distinct populations for both the
 
 
 ## Approach
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/56849646/74671934-cebf0180-5171-11ea-9d75-437d162ebe0b.png" width="90%"></p>
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/56849646/74672141-455bff00-5172-11ea-9f08-6f02e414ecdf.png" width="90%"></p> 
+
 
 Building on the work from Chiaro et al. (in prep), we propose to use mineral compositions in order to apply this characterization scheme to the entire Ora deposit.  Since unaltered glass is only present in the vitrophyre horizons, we plan to use mineral compositions to classify each fiamma.  We will collect trace and major elements of plagioclase, alkali feldspar and biotite in fiamme.  Preliminary work shows that biotite and plagioclase major elements can be used to differentiate intracaldera vs. outflow fiamme.  Furthermore, biotite major element compositions can be used to infer both fiamme type and population (Fig. 4). 
 
