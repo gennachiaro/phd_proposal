@@ -58,11 +58,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://gennachiaro.github.io/phd_proposal/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://gennachiaro.github.io/phd_proposal/v/86efd3120735dfd89d14ecbb357e4160bb7ddae6/" />
+  <link rel="alternate" type="text/html" href="https://gennachiaro.github.io/phd_proposal/v/affdac7ce83148465055790cc4222fe4509c435a/" />
 
-  <meta name="manubot_html_url_versioned" content="https://gennachiaro.github.io/phd_proposal/v/86efd3120735dfd89d14ecbb357e4160bb7ddae6/" />
+  <meta name="manubot_html_url_versioned" content="https://gennachiaro.github.io/phd_proposal/v/affdac7ce83148465055790cc4222fe4509c435a/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://gennachiaro.github.io/phd_proposal/v/86efd3120735dfd89d14ecbb357e4160bb7ddae6/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://gennachiaro.github.io/phd_proposal/v/affdac7ce83148465055790cc4222fe4509c435a/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -94,9 +94,9 @@ title: 'Investigating the Crystal Cargo of Fiamme from the Ora Ignimbrite (Permi
 
 <small><em>
 This manuscript
-([permalink](https://gennachiaro.github.io/phd_proposal/v/86efd3120735dfd89d14ecbb357e4160bb7ddae6/))
+([permalink](https://gennachiaro.github.io/phd_proposal/v/affdac7ce83148465055790cc4222fe4509c435a/))
 was automatically generated
-from [gennachiaro/phd_proposal@86efd31](https://github.com/gennachiaro/phd_proposal/tree/86efd3120735dfd89d14ecbb357e4160bb7ddae6)
+from [gennachiaro/phd_proposal@affdac7](https://github.com/gennachiaro/phd_proposal/tree/affdac7ce83148465055790cc4222fe4509c435a)
 on February 17, 2020.
 </em></small>
 
@@ -119,21 +119,23 @@ on February 17, 2020.
 
 ## Motivation
 
-Supereruptions are the most extreme expression of volcanism on our planet.  However, we have yet to observe a supereruption in the modern day; the most recent one was Oranui in New Zealand 26.6 kyr.  Thus, we are limited to studying the material that is left behind (glass and minerals) to inform our hypotheses regarding the processes that lead to the formation of large silicic magma systems.  By investigating the pre-eruptive conditions of supereruptions, we can fill our gaps in knowledge regarding the structure and evolution of highly evolved, trans-crustal magma systems. 
+Supereruptions, events that expel >450 km3 of magma from the subsurface, are the most extreme expressions of eruptive volcanism on Earth (Sparks et al., 2005).  These catastrophic events tend to occur every ~100,000 years (Mason et al., 2004).  Due to their scarcity, we are limited to studying the resulting deposits of these colossal eruptions.  By investigating the evolutionary history preserved in mineral rims, unaltered volcanic glass compositions, spatial distribution of the deposits, and timescales of magmatic processes, we can inform our current hypotheses regarding the formation of large silicic magma systems that are capable of supereruption.    
+	
+Our inability to obtain high-resolution subsurface images has spurred innovative methods for resolving the organization of magma in the crust.  If we know the major element concentrations of the original melt and the minerals present, we can obtain temperature and pressure estimates using the thermodynamics software, Rhyolite-MELTS (Gualda and Ghiorso, 2014).  Importantly, this can help determine where the magma bodies were situated in the crust prior to eruption.  Major and trace element compositions of volcanic glasses can provide information on the number of magma bodies that contributed to the supereruption (Begué et al., 2014).  Furthermore, both the lateral distribution of volcanic glasses and 40Ar/39Ar sanidine geochronology can provide insight on the evolution of the eruption and whether the deposit was emplaced instantaneously or had distinct volcanic pulses (Begué et al., 2014; Kay et al., 2011).  
+
+I plan to investigate the pre-eruptive conditions of a crystal-rich supereruption, the Ora Ignimbrite, in order to fill current gaps in knowledge regarding the structure and evolution of highly-evolved, crystal-rich, trans-crustal magma systems.
 
 The following research questions are the main focus of my dissertation: 
 
-  **1.	Can we use mineral compositions to identify fiamme type and population?**
+  **1.	Can we use mineral major and trace element compositions to identify fiamme type and population?**
 
   **2.	Do we observe similar histories recorded in the mineral populations?  What can this tell us about magmatic processes during the assembly and eruption of large silicic systems?**
 
-  **3.	Can we observe geospatial clustering of fiamme populations?  Does this provide evidence for multiple laterally juxtaposed magma bodies, á la Begué et al., 2014?**
+  **3.	Can we observe clustering of fiamme populations in space and time? What does this suggest about the subsurface architecture of the Ora magmatic system?  Are we able to identify different phases of the eruption and the tapping of separate vents?**
 
-  **4.	How does a large silicic magma system evolve during eruption?**
+  **4.	Can high-precision 40Ar/39Ar sanidine ages subdivide the Ora eruption into distinguishable volcanic pulses, thereby illuminating the episodic tempo and dynamic behavior of this very large magmatic system?**
 
-The proposed project involves developing major and trace element-based hierarchical clustering algorithms in python to identify clusters of minerals that correspond to the pre-defined fiamme types and populations identified in Chiaro et al. (in prep).  We then plan to employ a multi-distance spatial clustering analysis (Ripley’s k-function) in ArcGIS to determine the distribution of fiamme types and populations throughout the entire deposit.  The stratigraphic columns mapped by Willcock et al. (2013) will be used to identify areas of interest that may represent time gaps in the eruption and Ar-Ar sanidine ages will be obtained for the noted horizons.  Sequence stratigraphy focused on mapping the changes in fiamme type and population will provide insight on relative timescales of magma chamber depletion.  By integrating this project with the Rhyolite-MELTS pressures calculated in Chiaro et al., (in prep), we hope to obtain a four-dimensional view that would allow us to see how a supereruption-sized magma system evolved through time.    
-
-
+The Permian Ora Ignimbrites (>1,200 km3) are advantageous deposits for this study because glacial incision has revealed exceptional intracaldera exposures with >1,000 m of vertical relief.  I plan to expand upon my M.S. work on the Ora vitrophyre horizons and develop major and trace element-based hierarchical clustering algorithms in python to identify minerals that correspond to the pre-defined fiamme types and populations identified in Chiaro (2019).  A hot-spot clustering analysis (Ripley’s k-function) in ArcGIS will be used to determine the distribution of fiamme types and populations throughout the entire deposit and high-precision 40Ar/39Ar sanidine ages will provide eruption ages.  By integrating this project with the Rhyolite-MELTS pressures calculated in Chiaro et al., (in prep), we hope to elucidate the spatio-temporal evolution of a supereruption-sized, crystal-rich magma system.  
 
 
 ## Background
