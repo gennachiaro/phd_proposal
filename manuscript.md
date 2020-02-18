@@ -58,11 +58,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://gennachiaro.github.io/phd_proposal/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://gennachiaro.github.io/phd_proposal/v/900fa9d3ed9786086e54a8a63fca8dcdf9d7c69f/" />
+  <link rel="alternate" type="text/html" href="https://gennachiaro.github.io/phd_proposal/v/9b5ef9d12df2aa5cc6fac13e54d5833fa8847842/" />
 
-  <meta name="manubot_html_url_versioned" content="https://gennachiaro.github.io/phd_proposal/v/900fa9d3ed9786086e54a8a63fca8dcdf9d7c69f/" />
+  <meta name="manubot_html_url_versioned" content="https://gennachiaro.github.io/phd_proposal/v/9b5ef9d12df2aa5cc6fac13e54d5833fa8847842/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://gennachiaro.github.io/phd_proposal/v/900fa9d3ed9786086e54a8a63fca8dcdf9d7c69f/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://gennachiaro.github.io/phd_proposal/v/9b5ef9d12df2aa5cc6fac13e54d5833fa8847842/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -94,9 +94,9 @@ title: 'Investigating the Crystal Cargo of Fiamme from the Ora Ignimbrite (Permi
 
 <small><em>
 This manuscript
-([permalink](https://gennachiaro.github.io/phd_proposal/v/900fa9d3ed9786086e54a8a63fca8dcdf9d7c69f/))
+([permalink](https://gennachiaro.github.io/phd_proposal/v/9b5ef9d12df2aa5cc6fac13e54d5833fa8847842/))
 was automatically generated
-from [gennachiaro/phd_proposal@900fa9d](https://github.com/gennachiaro/phd_proposal/tree/900fa9d3ed9786086e54a8a63fca8dcdf9d7c69f)
+from [gennachiaro/phd_proposal@9b5ef9d](https://github.com/gennachiaro/phd_proposal/tree/9b5ef9d12df2aa5cc6fac13e54d5833fa8847842)
 on February 18, 2020.
 </em></small>
 
@@ -208,7 +208,7 @@ Sampling horizons for this project were chosen to (1) span the full duration of 
 
 <p align="center">Figure 5: (a) A map of the Ora Ignimbrite deposits with acquired samples and future sampling sites.  Modified from Willcock et al., 2013.  (b) A cross section of the Athesian Volcanic Group from NNW to SSE.  Future sampling sites are shown with their approximate stratigraphic horizons in the intracaldera and outflows.  Modified from Bradner et al., 2016.</p>
 
-Building on the work from Chiaro et al. (in prep), we propose to use mineral compositions in order to apply this characterization scheme to the entire Ora deposit.  Since unaltered glass is only present in the vitrophyre horizons, we plan to use mineral compositions to classify each fiamma.  We will collect trace and major elements of plagioclase, alkali feldspar and biotite in fiamme.  Preliminary work shows that biotite and plagioclase major elements can be used to differentiate intracaldera vs. outflow fiamme.  Furthermore, biotite major element compositions can be used to infer both fiamme type and population (Fig. 6). 
+Building on the work from Chiaro (2019), we propose to use mineral compositions in order to apply the fiamme characterization scheme to the entire Ora deposit.  Since unaltered glass is only present in the vitrophyre horizons, we will use mineral compositions to fingerprint each fiamma.  We will collect major and trace elements of plagioclase, alkali feldspar and biotite in fiamme.  Preliminary work shows that biotite and plagioclase major elements can be used to differentiate intracaldera vs. outflow fiamme.  Furthermore, biotite major element compositions can be used to infer both fiamme type and population (Fig. 6).  Sliwinski et al. (2017) has shown that biotite trace element compositions can be used to fingerprint magma batches at Las Cañadas volcano in Tenerife.  
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/56849646/72555930-3c21fe80-3863-11ea-96e3-2f958b3af366.png" width="45%"></img> <img src="https://user-images.githubusercontent.com/56849646/72555952-4512d000-3863-11ea-9ebc-e9299a09a0b9.png" width="45%"></p> 
