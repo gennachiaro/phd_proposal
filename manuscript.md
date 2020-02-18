@@ -58,11 +58,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://gennachiaro.github.io/phd_proposal/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://gennachiaro.github.io/phd_proposal/v/14b6cd2d550803d602860bdab132df5e056fc363/" />
+  <link rel="alternate" type="text/html" href="https://gennachiaro.github.io/phd_proposal/v/87c5bb6a3bb59789dad6dd92a116f0b418fe9300/" />
 
-  <meta name="manubot_html_url_versioned" content="https://gennachiaro.github.io/phd_proposal/v/14b6cd2d550803d602860bdab132df5e056fc363/" />
+  <meta name="manubot_html_url_versioned" content="https://gennachiaro.github.io/phd_proposal/v/87c5bb6a3bb59789dad6dd92a116f0b418fe9300/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://gennachiaro.github.io/phd_proposal/v/14b6cd2d550803d602860bdab132df5e056fc363/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://gennachiaro.github.io/phd_proposal/v/87c5bb6a3bb59789dad6dd92a116f0b418fe9300/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -94,9 +94,9 @@ title: 'Investigating the Crystal Cargo of Fiamme from the Ora Ignimbrite (Permi
 
 <small><em>
 This manuscript
-([permalink](https://gennachiaro.github.io/phd_proposal/v/14b6cd2d550803d602860bdab132df5e056fc363/))
+([permalink](https://gennachiaro.github.io/phd_proposal/v/87c5bb6a3bb59789dad6dd92a116f0b418fe9300/))
 was automatically generated
-from [gennachiaro/phd_proposal@14b6cd2](https://github.com/gennachiaro/phd_proposal/tree/14b6cd2d550803d602860bdab132df5e056fc363)
+from [gennachiaro/phd_proposal@87c5bb6](https://github.com/gennachiaro/phd_proposal/tree/87c5bb6a3bb59789dad6dd92a116f0b418fe9300)
 on February 18, 2020.
 </em></small>
 
@@ -187,7 +187,7 @@ Glass trace elements illuminate at least three distinct populations for both the
 <p align="center">
 <img src="https://user-images.githubusercontent.com/56849646/72565422-6b426b00-3877-11ea-9d2e-68c5bbb85cd9.png" width="90%"></p> 
 
-<p align="center">Figure 3: Rare earth element diagrams and a plot of strontium vs. barium illustrate the six discrete glass populations in the MG and VCCR fiamme.</p>
+<p align="center">Figure 3: (A) A rare earth element diagram showing differences between the early-erupted intracaldera (VCCR) and late-erupted outflow (MG) fiamme. (B) A plot of strontium vs. barium illustrates six discrete glass populations from the VCCR and MG fiamme.  Each population is inferred to represent a separate magma batch.</p>
 
 
 <p align="center">
