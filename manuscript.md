@@ -58,11 +58,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://gennachiaro.github.io/phd_proposal/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://gennachiaro.github.io/phd_proposal/v/9b5ef9d12df2aa5cc6fac13e54d5833fa8847842/" />
+  <link rel="alternate" type="text/html" href="https://gennachiaro.github.io/phd_proposal/v/4e9d3dde8d6aa63e81e58adb95644c611dab74cf/" />
 
-  <meta name="manubot_html_url_versioned" content="https://gennachiaro.github.io/phd_proposal/v/9b5ef9d12df2aa5cc6fac13e54d5833fa8847842/" />
+  <meta name="manubot_html_url_versioned" content="https://gennachiaro.github.io/phd_proposal/v/4e9d3dde8d6aa63e81e58adb95644c611dab74cf/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://gennachiaro.github.io/phd_proposal/v/9b5ef9d12df2aa5cc6fac13e54d5833fa8847842/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://gennachiaro.github.io/phd_proposal/v/4e9d3dde8d6aa63e81e58adb95644c611dab74cf/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -94,9 +94,9 @@ title: 'Investigating the Crystal Cargo of Fiamme from the Ora Ignimbrite (Permi
 
 <small><em>
 This manuscript
-([permalink](https://gennachiaro.github.io/phd_proposal/v/9b5ef9d12df2aa5cc6fac13e54d5833fa8847842/))
+([permalink](https://gennachiaro.github.io/phd_proposal/v/4e9d3dde8d6aa63e81e58adb95644c611dab74cf/))
 was automatically generated
-from [gennachiaro/phd_proposal@9b5ef9d](https://github.com/gennachiaro/phd_proposal/tree/9b5ef9d12df2aa5cc6fac13e54d5833fa8847842)
+from [gennachiaro/phd_proposal@4e9d3dd](https://github.com/gennachiaro/phd_proposal/tree/4e9d3dde8d6aa63e81e58adb95644c611dab74cf)
 on February 18, 2020.
 </em></small>
 
@@ -198,7 +198,7 @@ Glass trace elements illuminate at least three distinct populations for both the
 
 ## Approach
 
-Sampling horizons for this project were chosen to (1) span the full duration of ignimbrite emplacement, (2) represent key lithologies based on observed textural variations and bulk rock geochemistry, and (3) reflect features within the section that might relate to possible time gaps (Fig. 5).
+Sampling horizons for this project were chosen to (1) span the full duration of ignimbrite emplacement, (2) represent key lithologies based on observed textural variations and bulk rock geochemistry, and (3) reflect features within the section that might relate to possible time gaps (Fig. 5).  These locations were identified from stratigraphic logs in Willcock et al. (2013) which characterize observed changes in volcanic lithofacies.  I also utilized work detailing the stratigraphic variation of bulk rock compositions and crystal contents from Willcock et al. (2015) to inform my sampling strategy.  
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/56849646/74671934-cebf0180-5171-11ea-9d75-437d162ebe0b.png" width="90%"></p>
@@ -208,12 +208,14 @@ Sampling horizons for this project were chosen to (1) span the full duration of 
 
 <p align="center">Figure 5: (a) A map of the Ora Ignimbrite deposits with acquired samples and future sampling sites.  Modified from Willcock et al., 2013.  (b) A cross section of the Athesian Volcanic Group from NNW to SSE.  Future sampling sites are shown with their approximate stratigraphic horizons in the intracaldera and outflows.  Modified from Bradner et al., 2016.</p>
 
-Building on the work from Chiaro (2019), we propose to use mineral compositions in order to apply the fiamme characterization scheme to the entire Ora deposit.  Since unaltered glass is only present in the vitrophyre horizons, we will use mineral compositions to fingerprint each fiamma.  We will collect major and trace elements of plagioclase, alkali feldspar and biotite in fiamme.  Preliminary work shows that biotite and plagioclase major elements can be used to differentiate intracaldera vs. outflow fiamme.  Furthermore, biotite major element compositions can be used to infer both fiamme type and population (Fig. 6).  Sliwinski et al. (2017) has shown that biotite trace element compositions can be used to fingerprint magma batches at Las Cañadas volcano in Tenerife.  
+I plan to build on the work completed for my M.S. (Chiaro, 2019) and determine a mineral-based characterization scheme in order to categorize fiamme throughout the entire Ora deposit.  Since fiamme with unaltered glass are only present at the vitrophyre horizons, we will use mineral compositions to fingerprint each fiamma.  This involves collecting major and trace elements of plagioclase, alkali feldspar, and biotite for each fiamme type and population.  Preliminary work shows that biotite and plagioclase major elements can be used to differentiate intracaldera vs. outflow fiamme (Fig. 6).  Furthermore, biotite major element compositions can be used to infer both fiamme type and population (Fig. 6).  
+
+Sliwinski et al. (2017) has shown that biotite trace element compositions can be used to fingerprint magma batches at Las Cañadas volcano in Tenerife.  Our glass trace element compositions differentiate fiamme populations in Ora; each fiamme population is interpreted to represent an individual magma batch (Fig. 3, 6).  Biotite grown from these discrete magma batches will likely retain different rim trace element compositions, allowing for mineral-based classification for different magma batches.  
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/56849646/72555930-3c21fe80-3863-11ea-96e3-2f958b3af366.png" width="45%"></img> <img src="https://user-images.githubusercontent.com/56849646/72555952-4512d000-3863-11ea-9ebc-e9299a09a0b9.png" width="45%"></p> 
   
-<p align="center">Figure 6: Biotite and plagioclase major element compositions from fiamme.  Fiamme are divided into population based on hue.  Both plagioclase and biotite can be used to determine fiamme type and biotite can also determine fiamme population (from Chiaro et al., in prep).</p>
+<p align="center">Figure 6: Biotite and plagioclase major element compositions from fiamme.  Fiamme are divided into population based on hue.  Both plagioclase and biotite can be used to determine fiamme type and biotite can also determine fiamme population (from Chiaro, 2019).</p>
 
 *Hierarchical Clustering and Machine Learning in Python:*
 
