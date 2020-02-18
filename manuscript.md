@@ -58,11 +58,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://gennachiaro.github.io/phd_proposal/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://gennachiaro.github.io/phd_proposal/v/87c5bb6a3bb59789dad6dd92a116f0b418fe9300/" />
+  <link rel="alternate" type="text/html" href="https://gennachiaro.github.io/phd_proposal/v/b25e35524e1128342b1343b453ece7f476f4c1c5/" />
 
-  <meta name="manubot_html_url_versioned" content="https://gennachiaro.github.io/phd_proposal/v/87c5bb6a3bb59789dad6dd92a116f0b418fe9300/" />
+  <meta name="manubot_html_url_versioned" content="https://gennachiaro.github.io/phd_proposal/v/b25e35524e1128342b1343b453ece7f476f4c1c5/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://gennachiaro.github.io/phd_proposal/v/87c5bb6a3bb59789dad6dd92a116f0b418fe9300/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://gennachiaro.github.io/phd_proposal/v/b25e35524e1128342b1343b453ece7f476f4c1c5/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -94,9 +94,9 @@ title: 'Investigating the Crystal Cargo of Fiamme from the Ora Ignimbrite (Permi
 
 <small><em>
 This manuscript
-([permalink](https://gennachiaro.github.io/phd_proposal/v/87c5bb6a3bb59789dad6dd92a116f0b418fe9300/))
+([permalink](https://gennachiaro.github.io/phd_proposal/v/b25e35524e1128342b1343b453ece7f476f4c1c5/))
 was automatically generated
-from [gennachiaro/phd_proposal@87c5bb6](https://github.com/gennachiaro/phd_proposal/tree/87c5bb6a3bb59789dad6dd92a116f0b418fe9300)
+from [gennachiaro/phd_proposal@b25e355](https://github.com/gennachiaro/phd_proposal/tree/b25e35524e1128342b1343b453ece7f476f4c1c5)
 on February 18, 2020.
 </em></small>
 
@@ -178,16 +178,16 @@ Recent work investigated the pre-eruptive architecture of the Ora system with te
 <img src="https://user-images.githubusercontent.com/56849646/72564985-895b9b80-3876-11ea-9ddb-7eeb32da66e5.png" width="100%"></p> 
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/56849646/74701786-8d5c3f80-51cd-11ea-841d-731e29cdc688.png" width="90%"></p> 
+<img src="https://user-images.githubusercontent.com/56849646/74773086-d3111a80-5256-11ea-8420-d8298448067b.png" width="90%"></p> 
 
-<p align="center">Figure 2: All fiamme major element glass compositions. (a) The tight clustering of VCCR and MG fiamme suggest that these glasses did not undergo alteration.  (b) Clustering in the Na2O vs. K2O plot provides further evidence that the VCCR and MG glasses represent pristine melt compositions.</p>
+<p align="center">Figure 2: All fiamme major element glass compositions.  The colors correspond to the fiamme types shown above in Table 2. (a) The tight clustering of VCCR and MG fiamme suggest that these glasses did not undergo alteration.  (b) Clustering in the Na2O vs. K2O plot provides further evidence that the VCCR and MG glasses represent pristine melt compositions.</p>
 
 Glass trace elements illuminate at least three distinct populations for both the VCCR and MG fiamme, suggesting the presence of multiple magma batches within the Ora system (Fig. 3).  Pre-eruptive storage pressures from the Rhyolite-MELTS (Q2F) geobarometer suggest that there were two potential scenarios for the subsurface organization of magma bodies in the Ora system (Fig. 4).  Either there were two distinct crystal mush zones located at slightly different depths within the crust, or there was a continuous crystal mush present with multiple heterogeneous zones located throughout (Chiaro, 2019).   
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/56849646/72565422-6b426b00-3877-11ea-9d2e-68c5bbb85cd9.png" width="90%"></p> 
 
-<p align="center">Figure 3: (A) A rare earth element diagram showing differences between the early-erupted intracaldera (VCCR) and late-erupted outflow (MG) fiamme. (B) A plot of strontium vs. barium illustrates six discrete glass populations from the VCCR and MG fiamme.  Each population is inferred to represent a separate magma batch.</p>
+<p align="center">Figure 3: (a) A rare earth element diagram showing differences between the early-erupted intracaldera (VCCR) and late-erupted outflow (MG) fiamme. (b) A plot of strontium vs. barium illustrates six discrete glass populations from the VCCR and MG fiamme.  Each population is inferred to represent a separate magma batch.</p>
 
 
 <p align="center">
