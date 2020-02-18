@@ -58,11 +58,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://gennachiaro.github.io/phd_proposal/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://gennachiaro.github.io/phd_proposal/v/f670c822b04c4e831c047ecf96f213b40791b875/" />
+  <link rel="alternate" type="text/html" href="https://gennachiaro.github.io/phd_proposal/v/68e0075f94e1d922a9a6d1ef5a3df4a9221b505e/" />
 
-  <meta name="manubot_html_url_versioned" content="https://gennachiaro.github.io/phd_proposal/v/f670c822b04c4e831c047ecf96f213b40791b875/" />
+  <meta name="manubot_html_url_versioned" content="https://gennachiaro.github.io/phd_proposal/v/68e0075f94e1d922a9a6d1ef5a3df4a9221b505e/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://gennachiaro.github.io/phd_proposal/v/f670c822b04c4e831c047ecf96f213b40791b875/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://gennachiaro.github.io/phd_proposal/v/68e0075f94e1d922a9a6d1ef5a3df4a9221b505e/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -94,9 +94,9 @@ title: 'Investigating the Crystal Cargo of Fiamme from the Ora Ignimbrite (Permi
 
 <small><em>
 This manuscript
-([permalink](https://gennachiaro.github.io/phd_proposal/v/f670c822b04c4e831c047ecf96f213b40791b875/))
+([permalink](https://gennachiaro.github.io/phd_proposal/v/68e0075f94e1d922a9a6d1ef5a3df4a9221b505e/))
 was automatically generated
-from [gennachiaro/phd_proposal@f670c82](https://github.com/gennachiaro/phd_proposal/tree/f670c822b04c4e831c047ecf96f213b40791b875)
+from [gennachiaro/phd_proposal@68e0075](https://github.com/gennachiaro/phd_proposal/tree/68e0075f94e1d922a9a6d1ef5a3df4a9221b505e)
 on February 18, 2020.
 </em></small>
 
@@ -266,13 +266,13 @@ The samples collected during the 2017 and 2019 field seasons are shown in figure
 
 *Analytical Work:*
 
-We plan to obtain EDS scans of individual mineral grains and corresponding BSE images using the Tescan VEGA3 SEM at Vanderbilt University.  We will also collect trace element profiles using line scans with consistently spaced laser pits from the ThermoFisher iCAP Qc quadrupole ICPMS at Vanderbilt University.    
+We plan to obtain BSE full thin section scans and EDS major element compositions with the Tescan VEGA3 SEM at Vanderbilt University.  We will also collect trace element profiles using line scans with consistently spaced laser pits from the ThermoFisher iCAP Qc quadrupole ICPMS at Vanderbilt University.     
 
 *Hierarchical Clustering and Machine Learning in Python:*
 
-The skills to develop code for this project will be gained from taking DataCamp online courses and also by utilizing the abundant wealth of information on the internet.  The hierarchical clustering algorithm will effectively calculate the Euclidean distance between all the points and store them in a proximity matrix.  Points with the smallest distances separating them will be merged into clusters until only one single cluster is left.  A dendrogram is then created and the optimum number of clusters is determined visually by intersecting the tallest vertical line in the dendrogram.
+The skills to develop code for this project will be gained from taking Data Camp online courses and by utilizing the abundant wealth of information on the internet.  The hierarchical clustering algorithm will effectively calculate the Euclidean distance between all the points and store them in a proximity matrix.  Points with the smallest distances separating them will be merged into clusters until only one single cluster is left.  A dendrogram is then created and the optimum number of clusters is determined visually by intersecting the tallest vertical line in the dendrogram.
 
-The machine learning algorithm will be trained to classify minerals into these pre-defined clusters based on major element data from an EDS map.  In order to test the efficacy of this method, we will first test it on a large thin section of bulk tuff from the vitrophyre.  If we can estimate the bulk eruptive material here, we can apply the methodology to a single stratigraphic section.  If successful, we can apply this to a stratigraphic horizon in another part of the caldera and see if we observe similar results.   
+We will create phase composition maps (PCMs) for the machine learning algorithms by using the methods described in Willis et al. (2017).  This involves correlating BSE greyscale values with EDS mineral analyses.  The machine learning algorithm will be trained to classify minerals into pre-defined clusters based on pattern recognition.  
 
 *Spatial Statistics in ArcGIS:*
 
@@ -280,7 +280,7 @@ Proficiency in ArcGIS was gained from an Advanced Spatial Analysis course taken 
 
 *Ar-Ar Dating:*
 
-Ar-Ar sanidine ages will be obtained from the New Mexico Geochronology Research Laboratory (NMGRL) at New Mexico Tech.  Sanidines will be separated, irradiated, and prepared for analysis using a Thermo Scientific Helix Multicollector.  Funding for Ar-Ar dating will hopefully be provided by the Awards for Geochronology Student Research 2 (AGeS2) grant which will provide support for one year in 2020.  
+Geochronological analyses will be completed at the New Mexico Geochronology Research Laboratory (NMGRL).  Sanidines will be separated, irradiated, and prepared for analysis using a Thermo Scientific Helix Multicollector.  The analytical capabilities at NMGRL predict that individual analyses will have an age precision of ~20 ka for crystal fragments weighing 0.2 mg. With the large, unaltered sanidines present at Ora, this precision can readily test my research questions.
 
 
 ## Timeline
