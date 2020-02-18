@@ -3,7 +3,7 @@ author-meta:
 - Genna Chiaro
 bibliography:
 - content/manual-references.json
-date-meta: '2020-02-17'
+date-meta: '2020-02-18'
 header-includes: '<!--
 
   Manubot generated metadata rendered from header-includes-template.html.
@@ -22,9 +22,9 @@ header-includes: '<!--
 
   <meta property="twitter:title" content="Investigating the Crystal Cargo of Fiamme from the Ora Ignimbrite (Permian, Italy): Elucidating the Spatio-Temporal Evolution of a Crystal-Rich, Supereruption-Sized Magma System" />
 
-  <meta name="dc.date" content="2020-02-17" />
+  <meta name="dc.date" content="2020-02-18" />
 
-  <meta name="citation_publication_date" content="2020-02-17" />
+  <meta name="citation_publication_date" content="2020-02-18" />
 
   <meta name="dc.language" content="en-US" />
 
@@ -58,11 +58,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://gennachiaro.github.io/phd_proposal/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://gennachiaro.github.io/phd_proposal/v/8b98f815b7588cddecc965de3328ebab03cb43c7/" />
+  <link rel="alternate" type="text/html" href="https://gennachiaro.github.io/phd_proposal/v/557d050553be9a892d422789636073e837e0ced2/" />
 
-  <meta name="manubot_html_url_versioned" content="https://gennachiaro.github.io/phd_proposal/v/8b98f815b7588cddecc965de3328ebab03cb43c7/" />
+  <meta name="manubot_html_url_versioned" content="https://gennachiaro.github.io/phd_proposal/v/557d050553be9a892d422789636073e837e0ced2/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://gennachiaro.github.io/phd_proposal/v/8b98f815b7588cddecc965de3328ebab03cb43c7/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://gennachiaro.github.io/phd_proposal/v/557d050553be9a892d422789636073e837e0ced2/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -94,10 +94,10 @@ title: 'Investigating the Crystal Cargo of Fiamme from the Ora Ignimbrite (Permi
 
 <small><em>
 This manuscript
-([permalink](https://gennachiaro.github.io/phd_proposal/v/8b98f815b7588cddecc965de3328ebab03cb43c7/))
+([permalink](https://gennachiaro.github.io/phd_proposal/v/557d050553be9a892d422789636073e837e0ced2/))
 was automatically generated
-from [gennachiaro/phd_proposal@8b98f81](https://github.com/gennachiaro/phd_proposal/tree/8b98f815b7588cddecc965de3328ebab03cb43c7)
-on February 17, 2020.
+from [gennachiaro/phd_proposal@557d050](https://github.com/gennachiaro/phd_proposal/tree/557d050553be9a892d422789636073e837e0ced2)
+on February 18, 2020.
 </em></small>
 
 ## Authors
@@ -140,7 +140,7 @@ The Permian Ora Ignimbrites (>1,200 km3) are advantageous deposits for this stud
 
 ## Background
 
-The supereruption-scale Ora Ignimbrites are products of a flareup resulting from subduction of the Paleotethys Ocean and the consequent formation of Pangaea (Cassinis et al., 2012).  Glacial incision of the Permian Ora Ignimbrites (>1,200 km3) reveals heterogeneous intracaldera deposits with >1,000 m of relief.  Less voluminous outflow was emplaced to the north and south of the caldera and is stratigraphically similar to late-erupted intracaldera units (Marocchi et al., 2008).  The Ora deposits are interpreted to be low-intensity eruptions that tapped multiple magma bodies and were sourced from discrete vents (Willcock et al., 2015).  Bulk rock chemistry and mineralogy suggest that caldera collapse and eruption initiated in the south and migrated northward through time (Willcock et al., 2013).
+The supereruption-scale Ora Ignimbrites are products of an ignimbrite flareup resulting from subduction of the Paleotethys Ocean and the consequent formation of Pangaea (Cassinis et al., 2012).  Glacial incision of the Permian Ora Ignimbrites (>1,200 km3) reveals heterogeneous intracaldera deposits with >1,000 m of relief.  Less voluminous outflow was emplaced to the north and south of the caldera and is stratigraphically similar to late-erupted intracaldera units (Marocchi et al., 2008).  The Ora deposits are interpreted to be low-intensity eruptions that tapped multiple magma bodies and were sourced from discrete vents (Willcock et al., 2015).  Bulk rock chemistry and mineralogy suggest that caldera collapse and eruption initiated in the south and migrated northward through time (Willcock et al., 2013).  
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/56849646/72564434-5238ba80-3875-11ea-92ce-a7e11f834ea9.png" width="90%"></p> 
@@ -170,25 +170,30 @@ The supereruption-scale Ora Ignimbrites are products of a flareup resulting from
 **ORA 18**|Magdalena Hike|Pseudotachylite|1| 
 **ORA 19**|Magdalena Hike @ Sculpture|Fine and Coarse-Grained Dikes|4|
 
-Recent work has attempted to understand the pre-eruptive architecture of the Ora system by using textural, mineralogical, and geochemical features of fiamme (Chiaro et al., in prep).  Fiamme were collected from two vitrophyre horizons: an early-erupted intracaldera deposit and a late-erupted outflow deposit in order to find well-preserved glass.  These fiamme were initially grouped into four types based on crystal content and biotite content (Table 2).  Glass major elements further verified the categorization scheme.
+Recent work investigated the pre-eruptive architecture of the Ora system with textural, mineralogical, and geochemical features of fiamme (Chiaro, 2019).  Fiamme were collected from two vitrophyre horizons, an early-erupted intracaldera deposit and a late-erupted outflow deposit, in order to find well-preserved glass.  These fiamme were initially grouped into four types based on crystal content and biotite content (Table 2).  Glass major elements further verified the categorization scheme (Fig. 2).  Tight clustering of MG and VCCR glass major element compositions suggests that the glasses are unaltered and thus represent pristine melt compositions (Fig. 2).
 
 <p align="center">Table 2: The four fiamme types and their location, crystal content, maximum phenocryst size, and mafic content (Chiaro et al., in prep).</p>
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/56849646/72564985-895b9b80-3876-11ea-9ddb-7eeb32da66e5.png" width="100%"></p> 
 
-Glass trace elements illuminate at least three distinct populations for both the VCCR and MG fiamme, suggesting the presence of multiple magma batches within the Ora system (Fig. 2).  Pre-eruptive storage pressures were calculated using the Rhyolite-MELTS (Q2F) geobarometer (Fig. 3).  This work suggests that there were two potential scenarios for the pre-eruptive architecture of the Ora magma system.  Either there were two distinct crystal mush zones located at slightly different depths within the crust, or there was a continuous crystal mush present with multiple heterogeneous zones located throughout (Chiaro et al., in prep).  
+<p align="center">
+<img src="https://user-images.githubusercontent.com/56849646/74701786-8d5c3f80-51cd-11ea-841d-731e29cdc688.png" width="90%"></p> 
+
+<p align="center">Figure 2: All fiamme major element glass compositions. (a) The tight clustering of VCCR and MG fiamme suggest that these glasses did not undergo alteration.  (b) Clustering in the Na2O vs. K2O plot provides further evidence that the VCCR and MG glasses represent pristine melt compositions.</p>
+
+Glass trace elements illuminate at least three distinct populations for both the VCCR and MG fiamme, suggesting the presence of multiple magma batches within the Ora system (Fig. 3).  Pre-eruptive storage pressures from the Rhyolite-MELTS (Q2F) geobarometer suggest that there were two potential scenarios for the subsurface organization of magma bodies in the Ora system (Fig. 4).  Either there were two distinct crystal mush zones located at slightly different depths within the crust, or there was a continuous crystal mush present with multiple heterogeneous zones located throughout (Chiaro, 2019).   
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/56849646/72565422-6b426b00-3877-11ea-9d2e-68c5bbb85cd9.png" width="90%"></p> 
 
-<p align="center">Figure 2: Rare earth element diagrams and a plot of strontium vs. barium illustrate the six discrete glass populations in the Medium-Grained (MG) and Very Coarse-Grained Crystal-Rich (VCCR) fiamme.</p>
+<p align="center">Figure 3: Rare earth element diagrams and a plot of strontium vs. barium illustrate the six discrete glass populations in the MG and VCCR fiamme.</p>
 
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/56849646/72565474-8e6d1a80-3877-11ea-8b54-da854fa797b2.png" width="90%"></p> 
  
-<p align="center">Figure 3: Different fiamme types were stored at different pressures in the crust, with a progression of erupting shallower to deeper magmas through time.  Silica content vs. pressure shows variable storage depths for the fine-grained crystal-poor melt, suggesting that there were multiple, small melt bodies located at different depths throughout the magma chamber (from Chiaro et al., in prep).</p>
+<p align="center">Figure 4: Different fiamme types were stored at different pressures in the crust, with a progression of erupting shallower to deeper magmas through time.  Silica content vs. pressure shows variable storage depths for the FGCP melt, suggesting that there were multiple, small melt bodies located at different depths throughout the magma chamber (from Chiaro et al., in prep).</p>
 
 
 ## Approach
