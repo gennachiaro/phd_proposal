@@ -58,11 +58,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://gennachiaro.github.io/phd_proposal/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://gennachiaro.github.io/phd_proposal/v/4967126cbfa109f73ea166d98d4fcbecacf4230d/" />
+  <link rel="alternate" type="text/html" href="https://gennachiaro.github.io/phd_proposal/v/b0bc2c5d75e4459df47ccabf29fbed78cbf090fd/" />
 
-  <meta name="manubot_html_url_versioned" content="https://gennachiaro.github.io/phd_proposal/v/4967126cbfa109f73ea166d98d4fcbecacf4230d/" />
+  <meta name="manubot_html_url_versioned" content="https://gennachiaro.github.io/phd_proposal/v/b0bc2c5d75e4459df47ccabf29fbed78cbf090fd/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://gennachiaro.github.io/phd_proposal/v/4967126cbfa109f73ea166d98d4fcbecacf4230d/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://gennachiaro.github.io/phd_proposal/v/b0bc2c5d75e4459df47ccabf29fbed78cbf090fd/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -94,9 +94,9 @@ title: 'Investigating the Crystal Cargo of Fiamme from the Ora Ignimbrite (Permi
 
 <small><em>
 This manuscript
-([permalink](https://gennachiaro.github.io/phd_proposal/v/4967126cbfa109f73ea166d98d4fcbecacf4230d/))
+([permalink](https://gennachiaro.github.io/phd_proposal/v/b0bc2c5d75e4459df47ccabf29fbed78cbf090fd/))
 was automatically generated
-from [gennachiaro/phd_proposal@4967126](https://github.com/gennachiaro/phd_proposal/tree/4967126cbfa109f73ea166d98d4fcbecacf4230d)
+from [gennachiaro/phd_proposal@b0bc2c5](https://github.com/gennachiaro/phd_proposal/tree/b0bc2c5d75e4459df47ccabf29fbed78cbf090fd)
 on February 19, 2020.
 </em></small>
 
@@ -308,9 +308,9 @@ Mar 2021: Begin work on Argon Geochronology manuscript
 
 **Year 3 (2021-2022):**
 
-Fall 2022: Final Trip to Ora to obtain stratigraphic samples we may need to fill gaps in our argument
+Fall 2022: Final trip to Ora to obtain stratigraphic samples we may need to fill gaps in our argument
 
-Spring 2022: Finalize Dissertation and Defend!!
+Spring 2022: Finalize dissertation and defend!!
 
 Spring/Summer 2022: Caldera workshop at Ora?
 
