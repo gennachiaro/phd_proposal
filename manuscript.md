@@ -58,11 +58,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://gennachiaro.github.io/phd_proposal/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://gennachiaro.github.io/phd_proposal/v/66dcf6300410da59f5733532cfbca72dcd769fb5/" />
+  <link rel="alternate" type="text/html" href="https://gennachiaro.github.io/phd_proposal/v/2f62ae34a1621b7e990c570153c7d5bcf0db3807/" />
 
-  <meta name="manubot_html_url_versioned" content="https://gennachiaro.github.io/phd_proposal/v/66dcf6300410da59f5733532cfbca72dcd769fb5/" />
+  <meta name="manubot_html_url_versioned" content="https://gennachiaro.github.io/phd_proposal/v/2f62ae34a1621b7e990c570153c7d5bcf0db3807/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://gennachiaro.github.io/phd_proposal/v/66dcf6300410da59f5733532cfbca72dcd769fb5/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://gennachiaro.github.io/phd_proposal/v/2f62ae34a1621b7e990c570153c7d5bcf0db3807/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -94,9 +94,9 @@ title: 'Investigating the Crystal Cargo of Fiamme from the Ora Ignimbrite (Permi
 
 <small><em>
 This manuscript
-([permalink](https://gennachiaro.github.io/phd_proposal/v/66dcf6300410da59f5733532cfbca72dcd769fb5/))
+([permalink](https://gennachiaro.github.io/phd_proposal/v/2f62ae34a1621b7e990c570153c7d5bcf0db3807/))
 was automatically generated
-from [gennachiaro/phd_proposal@66dcf63](https://github.com/gennachiaro/phd_proposal/tree/66dcf6300410da59f5733532cfbca72dcd769fb5)
+from [gennachiaro/phd_proposal@2f62ae3](https://github.com/gennachiaro/phd_proposal/tree/2f62ae34a1621b7e990c570153c7d5bcf0db3807)
 on February 19, 2020.
 </em></small>
 
@@ -294,7 +294,7 @@ Geochronological analyses will be completed at the New Mexico Geochronology Rese
 
 **Year 2 (2020-2021):**
 
-- September 2020: Fieldwork in Bolzano, Italy to collect samples for argon geochronology
+- September 2020: Fieldwork in Bolzano, Italy to collect samples from the future sampling sites for *Sequence Stratigraphy and 40Ar-39Ar Dating* (Fig. 5)
 
 - Oct 2020: Travel to NM Tech. Learn sample prep, pick sanidines, assemble unknowns and standards into irradiation trays, send out for irradiation*
 
@@ -302,7 +302,7 @@ Geochronological analyses will be completed at the New Mexico Geochronology Rese
 
 - Feb 2021: Travel to NM Tech. Learn sample analysis and conduct data reduction for age determination
 
-- Mar 2021: Begin work on Argon Geochronology manuscript
+- Mar 2021: Begin work on argon geochronology manuscript
 
 *Processed (irradiated) samples are available for isotope measurements within a 2-6 month window.* 
 
