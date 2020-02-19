@@ -58,11 +58,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://gennachiaro.github.io/phd_proposal/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://gennachiaro.github.io/phd_proposal/v/1fe1ffaf9d5d867c99a94de92232e371841d6b75/" />
+  <link rel="alternate" type="text/html" href="https://gennachiaro.github.io/phd_proposal/v/4967126cbfa109f73ea166d98d4fcbecacf4230d/" />
 
-  <meta name="manubot_html_url_versioned" content="https://gennachiaro.github.io/phd_proposal/v/1fe1ffaf9d5d867c99a94de92232e371841d6b75/" />
+  <meta name="manubot_html_url_versioned" content="https://gennachiaro.github.io/phd_proposal/v/4967126cbfa109f73ea166d98d4fcbecacf4230d/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://gennachiaro.github.io/phd_proposal/v/1fe1ffaf9d5d867c99a94de92232e371841d6b75/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://gennachiaro.github.io/phd_proposal/v/4967126cbfa109f73ea166d98d4fcbecacf4230d/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -94,9 +94,9 @@ title: 'Investigating the Crystal Cargo of Fiamme from the Ora Ignimbrite (Permi
 
 <small><em>
 This manuscript
-([permalink](https://gennachiaro.github.io/phd_proposal/v/1fe1ffaf9d5d867c99a94de92232e371841d6b75/))
+([permalink](https://gennachiaro.github.io/phd_proposal/v/4967126cbfa109f73ea166d98d4fcbecacf4230d/))
 was automatically generated
-from [gennachiaro/phd_proposal@1fe1ffa](https://github.com/gennachiaro/phd_proposal/tree/1fe1ffaf9d5d867c99a94de92232e371841d6b75)
+from [gennachiaro/phd_proposal@4967126](https://github.com/gennachiaro/phd_proposal/tree/4967126cbfa109f73ea166d98d4fcbecacf4230d)
 on February 19, 2020.
 </em></small>
 
@@ -286,19 +286,13 @@ Geochronological analyses will be completed at the New Mexico Geochronology Rese
 
 ## Timeline
 
-*Year 1 (2019-2020):*
+**Year 1 (2019-2020):**
 
 April 2020: Qualifying Exam
 
 May 2020: Submit paper based on MSc work
 
-June 2020:
-
-July 2020:
-
-August 2020:
-
-*Year 2 (2020-2021):*
+**Year 2 (2020-2021):**
 
 September 2020: Fieldwork in Bolzano, Italy to collect samples for argon geochronology
 
@@ -312,9 +306,13 @@ Mar 2021: Begin work on Argon Geochronology manuscript
 
 *Processed (irradiated) samples are available for isotope measurements within a 2-6 month window. 
 
+**Year 3 (2021-2022):**
 
-*Year 3 (2021-2022):*
+Fall 2022: Final Trip to Ora to obtain stratigraphic samples we may need to fill gaps in our argument
 
+Spring 2022: Finalize Dissertation and Defend!!
+
+Spring/Summer 2022: Caldera workshop at Ora?
 
 
 ## Broader Impacts
