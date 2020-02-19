@@ -58,11 +58,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://gennachiaro.github.io/phd_proposal/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://gennachiaro.github.io/phd_proposal/v/b0bc2c5d75e4459df47ccabf29fbed78cbf090fd/" />
+  <link rel="alternate" type="text/html" href="https://gennachiaro.github.io/phd_proposal/v/eb620f53dfacc1617cb97398c92d59c2dd980564/" />
 
-  <meta name="manubot_html_url_versioned" content="https://gennachiaro.github.io/phd_proposal/v/b0bc2c5d75e4459df47ccabf29fbed78cbf090fd/" />
+  <meta name="manubot_html_url_versioned" content="https://gennachiaro.github.io/phd_proposal/v/eb620f53dfacc1617cb97398c92d59c2dd980564/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://gennachiaro.github.io/phd_proposal/v/b0bc2c5d75e4459df47ccabf29fbed78cbf090fd/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://gennachiaro.github.io/phd_proposal/v/eb620f53dfacc1617cb97398c92d59c2dd980564/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -94,9 +94,9 @@ title: 'Investigating the Crystal Cargo of Fiamme from the Ora Ignimbrite (Permi
 
 <small><em>
 This manuscript
-([permalink](https://gennachiaro.github.io/phd_proposal/v/b0bc2c5d75e4459df47ccabf29fbed78cbf090fd/))
+([permalink](https://gennachiaro.github.io/phd_proposal/v/eb620f53dfacc1617cb97398c92d59c2dd980564/))
 was automatically generated
-from [gennachiaro/phd_proposal@b0bc2c5](https://github.com/gennachiaro/phd_proposal/tree/b0bc2c5d75e4459df47ccabf29fbed78cbf090fd)
+from [gennachiaro/phd_proposal@eb620f5](https://github.com/gennachiaro/phd_proposal/tree/eb620f53dfacc1617cb97398c92d59c2dd980564)
 on February 19, 2020.
 </em></small>
 
@@ -333,12 +333,7 @@ Furthermore, large, unaltered Ora phenocrysts could be an excellent candidate fo
 
 *Mentoring Undergraduates:*
 
-Mentoring undergraduates!
-		Student working on Zircon in Ora
-	Female Power!!
-
-
-
+Possible student working on zircon in Ora??
 
 
 ## References {.page_break_before}
