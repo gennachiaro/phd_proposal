@@ -58,11 +58,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://gennachiaro.github.io/phd_proposal/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://gennachiaro.github.io/phd_proposal/v/eb620f53dfacc1617cb97398c92d59c2dd980564/" />
+  <link rel="alternate" type="text/html" href="https://gennachiaro.github.io/phd_proposal/v/b70012a2ca273ae6cab47510f8bc798147a839c0/" />
 
-  <meta name="manubot_html_url_versioned" content="https://gennachiaro.github.io/phd_proposal/v/eb620f53dfacc1617cb97398c92d59c2dd980564/" />
+  <meta name="manubot_html_url_versioned" content="https://gennachiaro.github.io/phd_proposal/v/b70012a2ca273ae6cab47510f8bc798147a839c0/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://gennachiaro.github.io/phd_proposal/v/eb620f53dfacc1617cb97398c92d59c2dd980564/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://gennachiaro.github.io/phd_proposal/v/b70012a2ca273ae6cab47510f8bc798147a839c0/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -94,9 +94,9 @@ title: 'Investigating the Crystal Cargo of Fiamme from the Ora Ignimbrite (Permi
 
 <small><em>
 This manuscript
-([permalink](https://gennachiaro.github.io/phd_proposal/v/eb620f53dfacc1617cb97398c92d59c2dd980564/))
+([permalink](https://gennachiaro.github.io/phd_proposal/v/b70012a2ca273ae6cab47510f8bc798147a839c0/))
 was automatically generated
-from [gennachiaro/phd_proposal@eb620f5](https://github.com/gennachiaro/phd_proposal/tree/eb620f53dfacc1617cb97398c92d59c2dd980564)
+from [gennachiaro/phd_proposal@b70012a](https://github.com/gennachiaro/phd_proposal/tree/b70012a2ca273ae6cab47510f8bc798147a839c0)
 on February 19, 2020.
 </em></small>
 
@@ -321,15 +321,13 @@ Spring/Summer 2022: Caldera workshop at Ora?
 
 Our community has developed novel methods to assess the records preserved within individual crystals to understand the evolution of magmatic systems.  With the expansion of open source science, we have capitalized on collaboration and creating workflows that are accessible to all.  This proposed project will develop python scripts that will automate statistical analyses and tedious point counting to further the open science revolution. 
 
-Developing open-source science with python with hopes of uploading to the ENKI server for distribution.  
-
 *Timescales:*
 
 By investigating the eruption ages of the Ora Ignimbrites, we gain insight into the duration and eruptive tempo of supereruption-sized magma volumes which can be used to constrain rates of melt flux during the accretion and evolution of magma bodies in a trans-crustal system (Karakas et al 2019).
 
 *EarthRates:*
 
-Furthermore, large, unaltered Ora phenocrysts could be an excellent candidate for use as a late Paleozoic sanidine 40Ar/39Ar standard, which is sought by the EarthRates project.  
+Large, unaltered Ora phenocrysts could be an excellent candidate for use as a late Paleozoic sanidine 40Ar/39Ar standard, which is sought by the EarthRates project.  
 
 *Mentoring Undergraduates:*
 
