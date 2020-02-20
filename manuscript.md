@@ -58,11 +58,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://gennachiaro.github.io/phd_proposal/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://gennachiaro.github.io/phd_proposal/v/455f6d2ab28c52bf9b662b160c9c42381c136845/" />
+  <link rel="alternate" type="text/html" href="https://gennachiaro.github.io/phd_proposal/v/86ef9d173c694ca7faca8088c1452d4a92987e78/" />
 
-  <meta name="manubot_html_url_versioned" content="https://gennachiaro.github.io/phd_proposal/v/455f6d2ab28c52bf9b662b160c9c42381c136845/" />
+  <meta name="manubot_html_url_versioned" content="https://gennachiaro.github.io/phd_proposal/v/86ef9d173c694ca7faca8088c1452d4a92987e78/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://gennachiaro.github.io/phd_proposal/v/455f6d2ab28c52bf9b662b160c9c42381c136845/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://gennachiaro.github.io/phd_proposal/v/86ef9d173c694ca7faca8088c1452d4a92987e78/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -94,9 +94,9 @@ title: 'Investigating the Crystal Cargo of Fiamme from the Ora Ignimbrite (Permi
 
 <small><em>
 This manuscript
-([permalink](https://gennachiaro.github.io/phd_proposal/v/455f6d2ab28c52bf9b662b160c9c42381c136845/))
+([permalink](https://gennachiaro.github.io/phd_proposal/v/86ef9d173c694ca7faca8088c1452d4a92987e78/))
 was automatically generated
-from [gennachiaro/phd_proposal@455f6d2](https://github.com/gennachiaro/phd_proposal/tree/455f6d2ab28c52bf9b662b160c9c42381c136845)
+from [gennachiaro/phd_proposal@86ef9d1](https://github.com/gennachiaro/phd_proposal/tree/86ef9d173c694ca7faca8088c1452d4a92987e78)
 on February 20, 2020.
 </em></small>
 
@@ -211,9 +211,9 @@ Sampling horizons for this project were chosen to (1) span the full duration of 
 
 *Mineral-Based Fiamme Classification:*
 
-I plan to build on the work completed for my M.S. (Chiaro, 2019) and determine a mineral-based characterization scheme in order to categorize fiamme throughout the entire Ora deposit.  Since fiamme with unaltered glass are only present at the vitrophyre horizons, we will use mineral compositions to fingerprint each fiamma.  This involves collecting major and trace elements of plagioclase, alkali feldspar, and biotite for each fiamme type and population.  Preliminary work shows that biotite and plagioclase major elements can be used to differentiate intracaldera vs. outflow fiamme (Fig. 6).  Furthermore, biotite major element compositions can be used to infer both fiamme type and population (Fig. 6).  
+I plan to build on the work completed for my M.S. (Chiaro, 2019) and determine a mineral-based characterization scheme in order to categorize fiamme throughout the entire Ora deposit.  Fiamme with well-preserved glass are only present in the vitrophyre horizons; this necessitates an alternative approach to fingerprinting fiamme.  We will use mineral major and trace element compositions from plagioclase, alkali feldspar, and biotite to determine each fiamme type and population.  Preliminary work shows that biotite and plagioclase major elements can be used to differentiate intracaldera vs. outflow fiamme (Fig. 6).  Furthermore, biotite major element compositions can be used to infer both fiamme type and population (Fig. 6).  
 
-Sliwinski et al. (2017) has shown that biotite trace element compositions can be used to fingerprint magma batches at Las Cañadas volcano in Tenerife.  Similarly, biotite major elements have been used to differentiate tephra deposits from the Toba Tuff (Smith et al., 2011).  Our glass trace element compositions differentiate fiamme populations in Ora; each fiamme population is interpreted to represent an individual magma batch (Fig. 3, 6).  Biotite grown from these discrete magma batches will likely retain different rim trace element compositions, allowing for mineral-based classification for different magma batches.  
+Sliwinski et al. (2017) has shown that biotite trace element compositions can be used to fingerprint magma batches at Las Cañadas volcano in Tenerife.  Similarly, biotite major elements have been used to differentiate tephra deposits of the Toba Tuff (Smith et al., 2011).  Our glass trace element compositions differentiate fiamme populations in Ora; each fiamme population is interpreted to represent an individual magma batch (Fig. 3, 6).  Biotite rims grown from these discrete magma batches will likely retain different trace element compositions, allowing for a mineral-based classification to fingerprint different magma batches.    
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/56849646/72555930-3c21fe80-3863-11ea-96e3-2f958b3af366.png" width="45%"></img> <img src="https://user-images.githubusercontent.com/56849646/72555952-4512d000-3863-11ea-9ebc-e9299a09a0b9.png" width="45%"></p> 
