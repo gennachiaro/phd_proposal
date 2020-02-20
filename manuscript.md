@@ -3,7 +3,7 @@ author-meta:
 - Genna Chiaro
 bibliography:
 - content/manual-references.json
-date-meta: '2020-02-19'
+date-meta: '2020-02-20'
 header-includes: '<!--
 
   Manubot generated metadata rendered from header-includes-template.html.
@@ -22,9 +22,9 @@ header-includes: '<!--
 
   <meta property="twitter:title" content="Investigating the Crystal Cargo of Fiamme from the Ora Ignimbrite (Permian, Italy): Elucidating the Spatio-Temporal Evolution of a Crystal-Rich, Supereruption-Sized Magma System" />
 
-  <meta name="dc.date" content="2020-02-19" />
+  <meta name="dc.date" content="2020-02-20" />
 
-  <meta name="citation_publication_date" content="2020-02-19" />
+  <meta name="citation_publication_date" content="2020-02-20" />
 
   <meta name="dc.language" content="en-US" />
 
@@ -58,11 +58,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://gennachiaro.github.io/phd_proposal/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://gennachiaro.github.io/phd_proposal/v/68db4cf9d01a94728098aede9bd48e5a9a0222fa/" />
+  <link rel="alternate" type="text/html" href="https://gennachiaro.github.io/phd_proposal/v/abfd9921df8e641724966e61c0281ac4e57e361d/" />
 
-  <meta name="manubot_html_url_versioned" content="https://gennachiaro.github.io/phd_proposal/v/68db4cf9d01a94728098aede9bd48e5a9a0222fa/" />
+  <meta name="manubot_html_url_versioned" content="https://gennachiaro.github.io/phd_proposal/v/abfd9921df8e641724966e61c0281ac4e57e361d/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://gennachiaro.github.io/phd_proposal/v/68db4cf9d01a94728098aede9bd48e5a9a0222fa/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://gennachiaro.github.io/phd_proposal/v/abfd9921df8e641724966e61c0281ac4e57e361d/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -94,10 +94,10 @@ title: 'Investigating the Crystal Cargo of Fiamme from the Ora Ignimbrite (Permi
 
 <small><em>
 This manuscript
-([permalink](https://gennachiaro.github.io/phd_proposal/v/68db4cf9d01a94728098aede9bd48e5a9a0222fa/))
+([permalink](https://gennachiaro.github.io/phd_proposal/v/abfd9921df8e641724966e61c0281ac4e57e361d/))
 was automatically generated
-from [gennachiaro/phd_proposal@68db4cf](https://github.com/gennachiaro/phd_proposal/tree/68db4cf9d01a94728098aede9bd48e5a9a0222fa)
-on February 19, 2020.
+from [gennachiaro/phd_proposal@abfd992](https://github.com/gennachiaro/phd_proposal/tree/abfd9921df8e641724966e61c0281ac4e57e361d)
+on February 20, 2020.
 </em></small>
 
 ## Authors
@@ -358,12 +358,15 @@ Marocchi, M., Morelli, C., Mair, V., Klötzli, U., and Bargossi, G.M., 2008, Evo
 Mason, B.G., Pyle, D.M., and Oppenheimer, C., 2004, The size and frequency of the largest explosive eruptions on Earth: Bulletin of Volcanology, v. 66, p. 735–748, doi:10.1007/s00445-004-0355-9.
 Sliwinski, J.T., Ellis, B.S., Dávila-Harris, P., Wolff, J.A., Olin, P.H., and Bachmann, O., 2017, The use of biotite trace element compositions for fingerprinting magma batches at Las Cañadas volcano, Tenerife: Bulletin of Volcanology, v. 79, doi:10.1007/s00445-016-1088-2.
 
+Smith, V.C., Pearce, N.J.G., Matthews, N.E., Westgate, J.A., Petraglia, M.D., Haslam, M., Lane, C.S., Korisettar, R., and Pal, J.N., 2011, Geochemical fingerprinting of the widespread Toba tephra using biotite compositions: Quaternary International, v. 246, p. 97–104, doi:10.1016/j.quaint.2011.05.012.
+
 Sparks RSJ, Self S, Grattan JP, O., and C, Pyle DM, R.H., 2005, Supereruptions: global effects and future threats.:
 Willcock, M.A.W., Bargossi, G.M., Weinberg, R.F., Gasparotto, G., Cas, R.A.F., Giordano, G., and Marocchi, M., 2015, A complex magma reservoir system for a large volume intra- to extra-caldera ignimbrite: Mineralogical and chemical architecture of the VEI8, Permian Ora ignimbrite (Italy): Journal of Volcanology and Geothermal Research, v. 306, p. 17–40, doi:10.1016/j.jvolgeores.2015.09.015.
 
 Willcock, M.A.W., Cas, R.A.F., Giordano, G., and Morelli, C., 2013, The eruption, pyroclastic flow behaviour, and caldera in-filling processes of the extremely large volume (>1290km3), intra- to extra-caldera, Permian Ora (Ignimbrite) Formation, Southern Alps, Italy: Journal of Volcanology and Geothermal Research, v. 265, p. 102–126, doi:10.1016/j.jvolgeores.2013.08.012.
 
 Willis, K. V., Srogi, L.A., Lutz, T., Monson, F.C., and Pollock, M., 2017, Phase Composition Maps integrate mineral compositions with rock textures from the micro-meter to the thin section scale: Computers and Geosciences, v. 109, p. 162–177, doi:10.1016/j.cageo.2017.08.009.
+
 
 
 
