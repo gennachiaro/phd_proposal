@@ -58,11 +58,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://gennachiaro.github.io/phd_proposal/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://gennachiaro.github.io/phd_proposal/v/94e78fa3e4dfdbd90944953914c1d6aebb914f59/" />
+  <link rel="alternate" type="text/html" href="https://gennachiaro.github.io/phd_proposal/v/455f6d2ab28c52bf9b662b160c9c42381c136845/" />
 
-  <meta name="manubot_html_url_versioned" content="https://gennachiaro.github.io/phd_proposal/v/94e78fa3e4dfdbd90944953914c1d6aebb914f59/" />
+  <meta name="manubot_html_url_versioned" content="https://gennachiaro.github.io/phd_proposal/v/455f6d2ab28c52bf9b662b160c9c42381c136845/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://gennachiaro.github.io/phd_proposal/v/94e78fa3e4dfdbd90944953914c1d6aebb914f59/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://gennachiaro.github.io/phd_proposal/v/455f6d2ab28c52bf9b662b160c9c42381c136845/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -94,9 +94,9 @@ title: 'Investigating the Crystal Cargo of Fiamme from the Ora Ignimbrite (Permi
 
 <small><em>
 This manuscript
-([permalink](https://gennachiaro.github.io/phd_proposal/v/94e78fa3e4dfdbd90944953914c1d6aebb914f59/))
+([permalink](https://gennachiaro.github.io/phd_proposal/v/455f6d2ab28c52bf9b662b160c9c42381c136845/))
 was automatically generated
-from [gennachiaro/phd_proposal@94e78fa](https://github.com/gennachiaro/phd_proposal/tree/94e78fa3e4dfdbd90944953914c1d6aebb914f59)
+from [gennachiaro/phd_proposal@455f6d2](https://github.com/gennachiaro/phd_proposal/tree/455f6d2ab28c52bf9b662b160c9c42381c136845)
 on February 20, 2020.
 </em></small>
 
@@ -194,7 +194,7 @@ Pre-eruptive storage pressures from the Rhyolite-MELTS (Q2F) geobarometer sugges
 <p align="center">
 <img src="https://user-images.githubusercontent.com/56849646/72565474-8e6d1a80-3877-11ea-8b54-da854fa797b2.png" width="90%"></p> 
  
-<p align="center">Figure 4: Different fiamme types were stored at different pressures in the crust, with a progression of erupting shallower to deeper magmas through time.  Silica content vs. pressure shows variable storage depths for the FGCP melt, suggesting that there were multiple, small melt bodies located at different depths throughout the magma chamber (from Chiaro et al., in prep).</p>
+<p align="center">Figure 4: (a) Different fiamme types were stored at different pressures in the crust, with a progression of erupting shallower to deeper magmas through time.  (b) Silica content vs. pressure shows variable storage depths for the FGCP melt, suggesting that there were multiple, small melt bodies located at different depths throughout the magma chamber (from Chiaro, 2019).</p>
 
 
 ## Approach
