@@ -58,11 +58,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://gennachiaro.github.io/phd_proposal/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://gennachiaro.github.io/phd_proposal/v/ac8596a98d114f31acadd27af5868814390b93f3/" />
+  <link rel="alternate" type="text/html" href="https://gennachiaro.github.io/phd_proposal/v/342f44ee5b05dcc44a47db992027ecb8bfe55797/" />
 
-  <meta name="manubot_html_url_versioned" content="https://gennachiaro.github.io/phd_proposal/v/ac8596a98d114f31acadd27af5868814390b93f3/" />
+  <meta name="manubot_html_url_versioned" content="https://gennachiaro.github.io/phd_proposal/v/342f44ee5b05dcc44a47db992027ecb8bfe55797/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://gennachiaro.github.io/phd_proposal/v/ac8596a98d114f31acadd27af5868814390b93f3/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://gennachiaro.github.io/phd_proposal/v/342f44ee5b05dcc44a47db992027ecb8bfe55797/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -94,9 +94,9 @@ title: 'Investigating the Crystal Cargo of Fiamme from the Ora Ignimbrite (Permi
 
 <small><em>
 This manuscript
-([permalink](https://gennachiaro.github.io/phd_proposal/v/ac8596a98d114f31acadd27af5868814390b93f3/))
+([permalink](https://gennachiaro.github.io/phd_proposal/v/342f44ee5b05dcc44a47db992027ecb8bfe55797/))
 was automatically generated
-from [gennachiaro/phd_proposal@ac8596a](https://github.com/gennachiaro/phd_proposal/tree/ac8596a98d114f31acadd27af5868814390b93f3)
+from [gennachiaro/phd_proposal@342f44e](https://github.com/gennachiaro/phd_proposal/tree/342f44ee5b05dcc44a47db992027ecb8bfe55797)
 on February 20, 2020.
 </em></small>
 
@@ -279,7 +279,7 @@ Proficiency in ArcGIS was gained from an Advanced Spatial Analysis course taken 
 
 *Ar-Ar Dating:*
 
-Geochronological analyses will be completed at the New Mexico Geochronology Research Laboratory (NMGRL).  Sanidines will be separated, irradiated, and prepared for analysis using a Thermo Scientific Helix Multicollector.  The analytical capabilities at NMGRL predict that individual analyses will have an age precision of ~20 ka for crystal fragments weighing 0.2 mg. With the large, unaltered sanidines present at Ora, this precision can readily test my research questions.
+Geochronological analyses will be completed at the New Mexico Geochronology Research Laboratory (NMGRL).  Sanidines will be separated, irradiated, and prepared for analysis with a Thermo Scientific Helix Multicollector.  The analytical capabilities at NMGRL predict that individual analyses will have an age precision of ~20 ka for crystal fragments weighing 0.2 mg. With the large, unaltered sanidines present at Ora, this precision can readily test my research questions.
 
 
 ## Timeline
