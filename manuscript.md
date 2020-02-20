@@ -58,11 +58,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://gennachiaro.github.io/phd_proposal/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://gennachiaro.github.io/phd_proposal/v/86ef9d173c694ca7faca8088c1452d4a92987e78/" />
+  <link rel="alternate" type="text/html" href="https://gennachiaro.github.io/phd_proposal/v/ac8596a98d114f31acadd27af5868814390b93f3/" />
 
-  <meta name="manubot_html_url_versioned" content="https://gennachiaro.github.io/phd_proposal/v/86ef9d173c694ca7faca8088c1452d4a92987e78/" />
+  <meta name="manubot_html_url_versioned" content="https://gennachiaro.github.io/phd_proposal/v/ac8596a98d114f31acadd27af5868814390b93f3/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://gennachiaro.github.io/phd_proposal/v/86ef9d173c694ca7faca8088c1452d4a92987e78/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://gennachiaro.github.io/phd_proposal/v/ac8596a98d114f31acadd27af5868814390b93f3/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -94,9 +94,9 @@ title: 'Investigating the Crystal Cargo of Fiamme from the Ora Ignimbrite (Permi
 
 <small><em>
 This manuscript
-([permalink](https://gennachiaro.github.io/phd_proposal/v/86ef9d173c694ca7faca8088c1452d4a92987e78/))
+([permalink](https://gennachiaro.github.io/phd_proposal/v/ac8596a98d114f31acadd27af5868814390b93f3/))
 was automatically generated
-from [gennachiaro/phd_proposal@86ef9d1](https://github.com/gennachiaro/phd_proposal/tree/86ef9d173c694ca7faca8088c1452d4a92987e78)
+from [gennachiaro/phd_proposal@ac8596a](https://github.com/gennachiaro/phd_proposal/tree/ac8596a98d114f31acadd27af5868814390b93f3)
 on February 20, 2020.
 </em></small>
 
@@ -218,15 +218,13 @@ Sliwinski et al. (2017) has shown that biotite trace element compositions can be
 <p align="center">
 <img src="https://user-images.githubusercontent.com/56849646/72555930-3c21fe80-3863-11ea-96e3-2f958b3af366.png" width="45%"></img> <img src="https://user-images.githubusercontent.com/56849646/72555952-4512d000-3863-11ea-9ebc-e9299a09a0b9.png" width="45%"></p> 
   
-<p align="center">Figure 6: Biotite and plagioclase major element compositions from fiamme.  Fiamme are divided into population based on hue.  Both plagioclase and biotite can be used to determine fiamme type and biotite can also determine fiamme population (from Chiaro, 2019).</p>
+<p align="center">Figure 6: Biotite and plagioclase major element compositions from fiamme.  Fiamme are divided into population based on hue.  Both plagioclase and biotite can be used to determine fiamme type, and biotite can also determine fiamme population.  Figure from Chiaro et al., 2020 (in prep).</p>
 
 *Hierarchical Clustering and Machine Learning in Python:*
 
-The foundation for this project requires major and trace element compositions for entire minerals.  The major element compositions for feldspars and biotite will be collected from EDS maps.  Afterwards, we will obtain trace element profiles for each of the grains.  
+The foundation of this project requires major and trace element compositions for entire minerals.  I plan to develop a hierarchical agglomerative clustering algorithm in python for major elements in order to statistically determine how many clusters of minerals are present in the sampled fiamme.  Another clustering algorithm will be completed using trace elements and we will compare the results.  Once the clusters are identified, we can observe whether they correlate with fiamme type and population (Chiaro, 2019).  If we see a correlation, we can confidently use mineral compositions to classify fiamme throughout the Ora Ignimbrite.  
 
-I will develop a hierarchical agglomerative clustering algorithm in python for major elements in order to statistically determine how many clusters of minerals are present in the sampled fiamme.  Another clustering algorithm will be completed using trace elements and we will compare the results.  Once the clusters are identified, we can observe whether they correlate with fiamme type and population (Chiaro, 2019).  If we see a correlation, we can confidently use mineral compositions to classify fiamme throughout the Ora Ignimbrite.  
-
-We can also use the mineral maps to visualize core to rim cluster evolution (Fig. 7).  By noting where the clusters occur in each mineral and by looking at a large enough population of core to rim clusters, we can infer whether crystals experienced similar histories.  This approach may reveal information regarding the magmatic processes that occurred prior to the Ora eruption (injection, decompression-driven growth, etc).     
+I will also create individual mineral maps in order to visualize core to rim cluster evolution (Fig. 7).  These maps will be created in two ways: (1) from EDS scans and (2) by correlating BSE greyscale values with EDS analyses.  We will determine which method is best by comparing efficiency and accuracy.  By noting where the clusters occur in each mineral and by looking at a large enough population of core to rim clusters, we can infer whether crystals experienced similar histories.  This approach may reveal information regarding the magmatic processes that occurred prior to the Ora eruption (injection, decompression-driven growth, etc.).                 
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/56849646/72556172-af2b7500-3863-11ea-9745-323250943155.jpg" width="50%"></p>
