@@ -58,11 +58,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://gennachiaro.github.io/phd_proposal/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://gennachiaro.github.io/phd_proposal/v/ea642df0996803ca13a54dd9dd63315350056133/" />
+  <link rel="alternate" type="text/html" href="https://gennachiaro.github.io/phd_proposal/v/94e78fa3e4dfdbd90944953914c1d6aebb914f59/" />
 
-  <meta name="manubot_html_url_versioned" content="https://gennachiaro.github.io/phd_proposal/v/ea642df0996803ca13a54dd9dd63315350056133/" />
+  <meta name="manubot_html_url_versioned" content="https://gennachiaro.github.io/phd_proposal/v/94e78fa3e4dfdbd90944953914c1d6aebb914f59/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://gennachiaro.github.io/phd_proposal/v/ea642df0996803ca13a54dd9dd63315350056133/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://gennachiaro.github.io/phd_proposal/v/94e78fa3e4dfdbd90944953914c1d6aebb914f59/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -94,9 +94,9 @@ title: 'Investigating the Crystal Cargo of Fiamme from the Ora Ignimbrite (Permi
 
 <small><em>
 This manuscript
-([permalink](https://gennachiaro.github.io/phd_proposal/v/ea642df0996803ca13a54dd9dd63315350056133/))
+([permalink](https://gennachiaro.github.io/phd_proposal/v/94e78fa3e4dfdbd90944953914c1d6aebb914f59/))
 was automatically generated
-from [gennachiaro/phd_proposal@ea642df](https://github.com/gennachiaro/phd_proposal/tree/ea642df0996803ca13a54dd9dd63315350056133)
+from [gennachiaro/phd_proposal@94e78fa](https://github.com/gennachiaro/phd_proposal/tree/94e78fa3e4dfdbd90944953914c1d6aebb914f59)
 on February 20, 2020.
 </em></small>
 
@@ -182,9 +182,9 @@ Recent work investigated the pre-eruptive architecture of the Ora magmatic syste
 
 <p align="center">Figure 2: All fiamme major element glass compositions.  The colors correspond to the fiamme types shown above in Table 2. (a) The tight clustering of VCCR and MG fiamme suggest that these glasses did not undergo alteration.  (b) Clustering in the Na2O vs. K2O plot provides further evidence that the VCCR and MG glasses represent pristine melt compositions.</p>
 
-Glass trace element compositions reveal at least three distinct populations for both the VCCR and MG fiamme, suggesting the presence of multiple magma batches within the Ora system (Fig. 3).  Furthermore, the magma batches that erupted to form the intracaldera deposits were different from the magma batches that contributed to the outflow.  
- 
-Pre-eruptive storage pressures from the Rhyolite-MELTS (Q2F) geobarometer suggest that there were two potential scenarios for the subsurface organization of magma bodies in the Ora system (Fig. 4).  Either there were two distinct crystal mush zones located at slightly different depths within the crust, or there was a continuous crystal mush present with multiple heterogeneous zones located throughout (Chiaro, 2019).
+Glass trace element compositions reveal at least three discrete populations for both the VCCR and MG fiamme, suggesting the presence of multiple magma batches within the Ora system (Fig. 3).  Furthermore, the magma batches that erupted to form the intracaldera deposits were distinct from the magma batches that contributed to the outflow.  
+
+Pre-eruptive storage pressures from the Rhyolite-MELTS (Q2F) geobarometer suggest that there were two potential scenarios for the subsurface organization of magma bodies in the Ora system (Fig. 4).  Either there were two distinct crystal mush zones located at slightly different depths within the crust, or there was a continuous crystal mush present with multiple heterogeneous zones located throughout (Chiaro, 2019).  
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/56849646/72565422-6b426b00-3877-11ea-9d2e-68c5bbb85cd9.png" width="90%"></p> 
