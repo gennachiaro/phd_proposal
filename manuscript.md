@@ -58,11 +58,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://gennachiaro.github.io/phd_proposal/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://gennachiaro.github.io/phd_proposal/v/e73c2a0383d0556fbb5b45b80b6013f3e80ee530/" />
+  <link rel="alternate" type="text/html" href="https://gennachiaro.github.io/phd_proposal/v/225b3c7963e0242c02dac6c55aeb5e104a273d0c/" />
 
-  <meta name="manubot_html_url_versioned" content="https://gennachiaro.github.io/phd_proposal/v/e73c2a0383d0556fbb5b45b80b6013f3e80ee530/" />
+  <meta name="manubot_html_url_versioned" content="https://gennachiaro.github.io/phd_proposal/v/225b3c7963e0242c02dac6c55aeb5e104a273d0c/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://gennachiaro.github.io/phd_proposal/v/e73c2a0383d0556fbb5b45b80b6013f3e80ee530/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://gennachiaro.github.io/phd_proposal/v/225b3c7963e0242c02dac6c55aeb5e104a273d0c/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -94,9 +94,9 @@ title: 'Investigating the Crystal Cargo of Fiamme from the Ora Ignimbrite (Permi
 
 <small><em>
 This manuscript
-([permalink](https://gennachiaro.github.io/phd_proposal/v/e73c2a0383d0556fbb5b45b80b6013f3e80ee530/))
+([permalink](https://gennachiaro.github.io/phd_proposal/v/225b3c7963e0242c02dac6c55aeb5e104a273d0c/))
 was automatically generated
-from [gennachiaro/phd_proposal@e73c2a0](https://github.com/gennachiaro/phd_proposal/tree/e73c2a0383d0556fbb5b45b80b6013f3e80ee530)
+from [gennachiaro/phd_proposal@225b3c7](https://github.com/gennachiaro/phd_proposal/tree/225b3c7963e0242c02dac6c55aeb5e104a273d0c)
 on February 24, 2020.
 </em></small>
 
@@ -178,7 +178,8 @@ Recent work investigated the pre-eruptive architecture of the Ora magmatic syste
 <img src="https://user-images.githubusercontent.com/56849646/72564985-895b9b80-3876-11ea-9ddb-7eeb32da66e5.png" width="100%"></p> 
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/56849646/74773086-d3111a80-5256-11ea-8420-d8298448067b.png" width="90%"></p> 
+<img src="https://user-images.githubusercontent.com/56849646/75177468-d5162600-56fb-11ea-93bb-d4e242e3f174.png" width="90%">
+</p> 
 
 <p align="center">Figure 2: All fiamme major element glass compositions.  The colors correspond to the fiamme types shown above in Table 2. (a) The tight clustering of VCCR and MG fiamme suggest that these glasses did not undergo alteration.  (b) Clustering in the Na2O vs. K2O plot provides further evidence that the VCCR and MG glasses represent pristine melt compositions.</p>
 
