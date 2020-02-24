@@ -3,7 +3,7 @@ author-meta:
 - Genna Chiaro
 bibliography:
 - content/manual-references.json
-date-meta: '2020-02-20'
+date-meta: '2020-02-24'
 header-includes: '<!--
 
   Manubot generated metadata rendered from header-includes-template.html.
@@ -22,9 +22,9 @@ header-includes: '<!--
 
   <meta property="twitter:title" content="Investigating the Crystal Cargo of Fiamme from the Ora Ignimbrite (Permian, Italy): Elucidating the Spatio-Temporal Evolution of a Crystal-Rich, Supereruption-Sized Magma System" />
 
-  <meta name="dc.date" content="2020-02-20" />
+  <meta name="dc.date" content="2020-02-24" />
 
-  <meta name="citation_publication_date" content="2020-02-20" />
+  <meta name="citation_publication_date" content="2020-02-24" />
 
   <meta name="dc.language" content="en-US" />
 
@@ -58,11 +58,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://gennachiaro.github.io/phd_proposal/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://gennachiaro.github.io/phd_proposal/v/91f93bffcc60fbc0acbf77a2febfa1e251ada715/" />
+  <link rel="alternate" type="text/html" href="https://gennachiaro.github.io/phd_proposal/v/e73c2a0383d0556fbb5b45b80b6013f3e80ee530/" />
 
-  <meta name="manubot_html_url_versioned" content="https://gennachiaro.github.io/phd_proposal/v/91f93bffcc60fbc0acbf77a2febfa1e251ada715/" />
+  <meta name="manubot_html_url_versioned" content="https://gennachiaro.github.io/phd_proposal/v/e73c2a0383d0556fbb5b45b80b6013f3e80ee530/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://gennachiaro.github.io/phd_proposal/v/91f93bffcc60fbc0acbf77a2febfa1e251ada715/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://gennachiaro.github.io/phd_proposal/v/e73c2a0383d0556fbb5b45b80b6013f3e80ee530/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -94,10 +94,10 @@ title: 'Investigating the Crystal Cargo of Fiamme from the Ora Ignimbrite (Permi
 
 <small><em>
 This manuscript
-([permalink](https://gennachiaro.github.io/phd_proposal/v/91f93bffcc60fbc0acbf77a2febfa1e251ada715/))
+([permalink](https://gennachiaro.github.io/phd_proposal/v/e73c2a0383d0556fbb5b45b80b6013f3e80ee530/))
 was automatically generated
-from [gennachiaro/phd_proposal@91f93bf](https://github.com/gennachiaro/phd_proposal/tree/91f93bffcc60fbc0acbf77a2febfa1e251ada715)
-on February 20, 2020.
+from [gennachiaro/phd_proposal@e73c2a0](https://github.com/gennachiaro/phd_proposal/tree/e73c2a0383d0556fbb5b45b80b6013f3e80ee530)
+on February 24, 2020.
 </em></small>
 
 ## Authors
@@ -205,7 +205,7 @@ Sampling horizons for this project were chosen to (1) span the full duration of 
 <img src="https://user-images.githubusercontent.com/56849646/74671934-cebf0180-5171-11ea-9d75-437d162ebe0b.png" width="90%"></p>
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/56849646/74672141-455bff00-5172-11ea-9f08-6f02e414ecdf.png" width="90%"></p> 
+<img src="https://user-images.githubusercontent.com/56849646/75171847-e9edbc00-56f1-11ea-9217-4f1f95f81a33.png" width="90%"></p> 
 
 <p align="center">Figure 5: (a) A map of the Ora Ignimbrite deposits with acquired samples and future sampling sites.  Modified from Willcock et al., 2013.  (b) A cross section of the Athesian Volcanic Group from NNW to SSE.  Future sampling sites are shown with their approximate stratigraphic horizons in the intracaldera and outflows.  Modified from Bradner et al., 2016.</p>
 
